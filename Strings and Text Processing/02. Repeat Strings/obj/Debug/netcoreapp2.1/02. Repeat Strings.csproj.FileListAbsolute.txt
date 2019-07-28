@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.deps.json
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.json
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.dll
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.pdb
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.dll
+C:\Users\Asus\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.pdb

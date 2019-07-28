@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\bin\Debug\netcoreapp2.1\HauseParty.deps.json
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\bin\Debug\netcoreapp2.1\HauseParty.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\bin\Debug\netcoreapp2.1\HauseParty.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\bin\Debug\netcoreapp2.1\HauseParty.dll
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\bin\Debug\netcoreapp2.1\HauseParty.pdb
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\obj\Debug\netcoreapp2.1\HauseParty.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\obj\Debug\netcoreapp2.1\HauseParty.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\obj\Debug\netcoreapp2.1\HauseParty.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\obj\Debug\netcoreapp2.1\HauseParty.dll
+C:\Users\Asus\source\repos\ListExersice3\HauseParty\obj\Debug\netcoreapp2.1\HauseParty.pdb

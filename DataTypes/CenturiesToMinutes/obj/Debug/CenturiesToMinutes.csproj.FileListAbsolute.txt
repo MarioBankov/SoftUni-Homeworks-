@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+C:\Users\Asus\source\repos\DataTypes\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+C:\Users\Asus\source\repos\DataTypes\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+C:\Users\Asus\source\repos\DataTypes\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+C:\Users\Asus\source\repos\DataTypes\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\bin\Debug\netcoreapp2.1\PokemonDontGo.deps.json
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\bin\Debug\netcoreapp2.1\PokemonDontGo.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\bin\Debug\netcoreapp2.1\PokemonDontGo.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\bin\Debug\netcoreapp2.1\PokemonDontGo.dll
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\bin\Debug\netcoreapp2.1\PokemonDontGo.pdb
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\obj\Debug\netcoreapp2.1\PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\obj\Debug\netcoreapp2.1\PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\obj\Debug\netcoreapp2.1\PokemonDontGo.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\obj\Debug\netcoreapp2.1\PokemonDontGo.dll
+C:\Users\Asus\source\repos\ListExersice3\PokemonDontGo\obj\Debug\netcoreapp2.1\PokemonDontGo.pdb

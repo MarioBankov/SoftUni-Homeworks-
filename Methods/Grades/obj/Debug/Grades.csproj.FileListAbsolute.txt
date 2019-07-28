@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Methods\Grades\bin\Debug\Grades.exe.config
+C:\Users\Asus\source\repos\Methods\Grades\bin\Debug\Grades.exe
+C:\Users\Asus\source\repos\Methods\Grades\bin\Debug\Grades.pdb
+C:\Users\Asus\source\repos\Methods\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\Grades\obj\Debug\Grades.exe
+C:\Users\Asus\source\repos\Methods\Grades\obj\Debug\Grades.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExesice\3.Gauss Trick\bin\Debug\3.Gauss Trick.exe.config
+C:\Users\Asus\source\repos\ListExesice\3.Gauss Trick\bin\Debug\3.Gauss Trick.exe
+C:\Users\Asus\source\repos\ListExesice\3.Gauss Trick\bin\Debug\3.Gauss Trick.pdb
+C:\Users\Asus\source\repos\ListExesice\3.Gauss Trick\obj\Debug\3.Gauss Trick.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\3.Gauss Trick\obj\Debug\3.Gauss Trick.exe
+C:\Users\Asus\source\repos\ListExesice\3.Gauss Trick\obj\Debug\3.Gauss Trick.pdb

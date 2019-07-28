@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\bin\Debug\netcoreapp2.1\SofuniCoursePlanning.deps.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\bin\Debug\netcoreapp2.1\SofuniCoursePlanning.runtimeconfig.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\bin\Debug\netcoreapp2.1\SofuniCoursePlanning.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\bin\Debug\netcoreapp2.1\SofuniCoursePlanning.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\bin\Debug\netcoreapp2.1\SofuniCoursePlanning.pdb
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\obj\Debug\netcoreapp2.1\SofuniCoursePlanning.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\obj\Debug\netcoreapp2.1\SofuniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\obj\Debug\netcoreapp2.1\SofuniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\obj\Debug\netcoreapp2.1\SofuniCoursePlanning.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\obj\Debug\netcoreapp2.1\SofuniCoursePlanning.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\SofuniCoursePlanning\obj\Debug\netcoreapp2.1\SofuniCoursePlanning.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.deps.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.pdb
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.pdb

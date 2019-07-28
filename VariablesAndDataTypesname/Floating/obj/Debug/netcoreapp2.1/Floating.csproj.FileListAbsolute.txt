@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\bin\Debug\netcoreapp2.1\Floating.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\bin\Debug\netcoreapp2.1\Floating.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\bin\Debug\netcoreapp2.1\Floating.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\bin\Debug\netcoreapp2.1\Floating.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\bin\Debug\netcoreapp2.1\Floating.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\obj\Debug\netcoreapp2.1\Floating.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\obj\Debug\netcoreapp2.1\Floating.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\obj\Debug\netcoreapp2.1\Floating.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\obj\Debug\netcoreapp2.1\Floating.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\Floating\obj\Debug\netcoreapp2.1\Floating.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\Asus\source\repos\DataTypes\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\Asus\source\repos\DataTypes\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\Asus\source\repos\DataTypes\CircleArea\obj\Debug\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\Asus\source\repos\DataTypes\CircleArea\obj\Debug\CircleArea.pdb

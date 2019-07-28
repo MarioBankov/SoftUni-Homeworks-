@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\SumOfDigit\bin\Debug\SumOfDigit.exe.config
+C:\Users\Asus\source\repos\DataTypes\SumOfDigit\bin\Debug\SumOfDigit.exe
+C:\Users\Asus\source\repos\DataTypes\SumOfDigit\bin\Debug\SumOfDigit.pdb
+C:\Users\Asus\source\repos\DataTypes\SumOfDigit\obj\Debug\SumOfDigit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\SumOfDigit\obj\Debug\SumOfDigit.exe
+C:\Users\Asus\source\repos\DataTypes\SumOfDigit\obj\Debug\SumOfDigit.pdb

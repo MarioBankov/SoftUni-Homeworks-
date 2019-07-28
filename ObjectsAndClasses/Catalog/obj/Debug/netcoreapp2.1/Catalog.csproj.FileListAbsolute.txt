@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\bin\Debug\netcoreapp2.1\Catalog.deps.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\bin\Debug\netcoreapp2.1\Catalog.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\bin\Debug\netcoreapp2.1\Catalog.pdb
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\obj\Debug\netcoreapp2.1\Catalog.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\obj\Debug\netcoreapp2.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\obj\Debug\netcoreapp2.1\Catalog.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\Catalog\obj\Debug\netcoreapp2.1\Catalog.pdb

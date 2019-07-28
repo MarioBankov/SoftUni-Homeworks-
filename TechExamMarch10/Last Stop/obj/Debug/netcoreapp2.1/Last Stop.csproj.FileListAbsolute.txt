@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.deps.json
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.runtimeconfig.json
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.dll
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.pdb
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.dll
+C:\Users\Asus\source\repos\TechExamMarch10\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.pdb

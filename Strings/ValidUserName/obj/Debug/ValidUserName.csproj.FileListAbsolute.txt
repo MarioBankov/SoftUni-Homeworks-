@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Strings\ValidUserName\bin\Debug\ValidUserName.exe.config
+C:\Users\Asus\source\repos\Strings\ValidUserName\bin\Debug\ValidUserName.exe
+C:\Users\Asus\source\repos\Strings\ValidUserName\bin\Debug\ValidUserName.pdb
+C:\Users\Asus\source\repos\Strings\ValidUserName\obj\Debug\ValidUserName.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Strings\ValidUserName\obj\Debug\ValidUserName.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\ValidUserName\obj\Debug\ValidUserName.exe
+C:\Users\Asus\source\repos\Strings\ValidUserName\obj\Debug\ValidUserName.pdb

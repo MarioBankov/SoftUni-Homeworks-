@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\bin\Debug\netcoreapp2.1\1. Ranking.deps.json
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\bin\Debug\netcoreapp2.1\1. Ranking.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\bin\Debug\netcoreapp2.1\1. Ranking.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\bin\Debug\netcoreapp2.1\1. Ranking.dll
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\bin\Debug\netcoreapp2.1\1. Ranking.pdb
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\obj\Debug\netcoreapp2.1\1. Ranking.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\obj\Debug\netcoreapp2.1\1. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\obj\Debug\netcoreapp2.1\1. Ranking.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\obj\Debug\netcoreapp2.1\1. Ranking.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\obj\Debug\netcoreapp2.1\1. Ranking.dll
+C:\Users\Asus\source\repos\Exercise Associative Arrays\1. Ranking\obj\Debug\netcoreapp2.1\1. Ranking.pdb

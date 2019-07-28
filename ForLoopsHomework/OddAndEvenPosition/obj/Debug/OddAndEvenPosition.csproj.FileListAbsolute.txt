@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ForLoopsHomework\OddAndEvenPosition\bin\Debug\OddAndEvenPosition.exe.config
+C:\Users\Asus\source\repos\ForLoopsHomework\OddAndEvenPosition\bin\Debug\OddAndEvenPosition.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\OddAndEvenPosition\bin\Debug\OddAndEvenPosition.pdb
+C:\Users\Asus\source\repos\ForLoopsHomework\OddAndEvenPosition\obj\Debug\OddAndEvenPosition.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ForLoopsHomework\OddAndEvenPosition\obj\Debug\OddAndEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ForLoopsHomework\OddAndEvenPosition\obj\Debug\OddAndEvenPosition.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\OddAndEvenPosition\obj\Debug\OddAndEvenPosition.pdb

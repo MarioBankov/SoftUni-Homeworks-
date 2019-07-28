@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\CharsToString\bin\Debug\CharsToString.exe.config
+C:\Users\Asus\source\repos\DataTypes\CharsToString\bin\Debug\CharsToString.exe
+C:\Users\Asus\source\repos\DataTypes\CharsToString\bin\Debug\CharsToString.pdb
+C:\Users\Asus\source\repos\DataTypes\CharsToString\obj\Debug\CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\CharsToString\obj\Debug\CharsToString.exe
+C:\Users\Asus\source\repos\DataTypes\CharsToString\obj\Debug\CharsToString.pdb

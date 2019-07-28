@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamTechModulApril\Fire\bin\Debug\Fire.exe.config
+C:\Users\Asus\source\repos\ExamTechModulApril\Fire\bin\Debug\Fire.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\Fire\bin\Debug\Fire.pdb
+C:\Users\Asus\source\repos\ExamTechModulApril\Fire\obj\Debug\Fire.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\Fire\obj\Debug\Fire.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\Fire\obj\Debug\Fire.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\Fire\obj\Debug\Fire.pdb

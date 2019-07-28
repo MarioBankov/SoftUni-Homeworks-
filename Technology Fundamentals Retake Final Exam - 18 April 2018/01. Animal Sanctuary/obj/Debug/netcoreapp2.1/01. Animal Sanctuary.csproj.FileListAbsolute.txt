@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.deps.json
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.runtimeconfig.json
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.pdb
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.pdb

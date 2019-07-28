@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.deps.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\bin\Debug\netcoreapp2.1\6. Bomb the Basement.pdb
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\6. Bomb the Basement\obj\Debug\netcoreapp2.1\6. Bomb the Basement.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\bin\Debug\netcoreapp2.1\LIS.deps.json
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\bin\Debug\netcoreapp2.1\LIS.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\bin\Debug\netcoreapp2.1\LIS.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\bin\Debug\netcoreapp2.1\LIS.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\bin\Debug\netcoreapp2.1\LIS.pdb
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\obj\Debug\netcoreapp2.1\LIS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\obj\Debug\netcoreapp2.1\LIS.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\obj\Debug\netcoreapp2.1\LIS.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\obj\Debug\netcoreapp2.1\LIS.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\LIS\obj\Debug\netcoreapp2.1\LIS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\bin\Debug\netcoreapp2.1\01.String Manipulator.deps.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\bin\Debug\netcoreapp2.1\01.String Manipulator.runtimeconfig.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\bin\Debug\netcoreapp2.1\01.String Manipulator.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\bin\Debug\netcoreapp2.1\01.String Manipulator.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\bin\Debug\netcoreapp2.1\01.String Manipulator.pdb
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\obj\Debug\netcoreapp2.1\01.String Manipulator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\obj\Debug\netcoreapp2.1\01.String Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\obj\Debug\netcoreapp2.1\01.String Manipulator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\obj\Debug\netcoreapp2.1\01.String Manipulator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\obj\Debug\netcoreapp2.1\01.String Manipulator.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\01.String Manipulator\obj\Debug\netcoreapp2.1\01.String Manipulator.pdb

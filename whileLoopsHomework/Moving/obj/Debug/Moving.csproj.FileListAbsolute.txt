@@ -1,0 +1,6 @@
+c:\users\asus\source\repos\whileLoopsHomework\Moving\bin\Debug\Moving.exe.config
+c:\users\asus\source\repos\whileLoopsHomework\Moving\bin\Debug\Moving.exe
+c:\users\asus\source\repos\whileLoopsHomework\Moving\bin\Debug\Moving.pdb
+c:\users\asus\source\repos\whileLoopsHomework\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\whileLoopsHomework\Moving\obj\Debug\Moving.exe
+c:\users\asus\source\repos\whileLoopsHomework\Moving\obj\Debug\Moving.pdb

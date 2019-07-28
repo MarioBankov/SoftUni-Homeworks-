@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\bin\Debug\netcoreapp2.1\CadrGame.deps.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\bin\Debug\netcoreapp2.1\CadrGame.runtimeconfig.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\bin\Debug\netcoreapp2.1\CadrGame.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\bin\Debug\netcoreapp2.1\CadrGame.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\bin\Debug\netcoreapp2.1\CadrGame.pdb
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\obj\Debug\netcoreapp2.1\CadrGame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\obj\Debug\netcoreapp2.1\CadrGame.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\obj\Debug\netcoreapp2.1\CadrGame.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\obj\Debug\netcoreapp2.1\CadrGame.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\CadrGame\obj\Debug\netcoreapp2.1\CadrGame.pdb

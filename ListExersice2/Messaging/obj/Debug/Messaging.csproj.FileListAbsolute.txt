@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice2\Messaging\bin\Debug\Messaging.exe.config
+C:\Users\Asus\source\repos\ListExersice2\Messaging\bin\Debug\Messaging.exe
+C:\Users\Asus\source\repos\ListExersice2\Messaging\bin\Debug\Messaging.pdb
+C:\Users\Asus\source\repos\ListExersice2\Messaging\obj\Debug\Messaging.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice2\Messaging\obj\Debug\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice2\Messaging\obj\Debug\Messaging.exe
+C:\Users\Asus\source\repos\ListExersice2\Messaging\obj\Debug\Messaging.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ClassExersice\Students\bin\Debug\Students.exe.config
+C:\Users\Asus\source\repos\ClassExersice\Students\bin\Debug\Students.exe
+C:\Users\Asus\source\repos\ClassExersice\Students\bin\Debug\Students.pdb
+C:\Users\Asus\source\repos\ClassExersice\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ClassExersice\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ClassExersice\Students\obj\Debug\Students.exe
+C:\Users\Asus\source\repos\ClassExersice\Students\obj\Debug\Students.pdb

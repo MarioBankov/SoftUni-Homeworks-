@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ForLoopsHomework\numbersEndinAt7\bin\Debug\numbersEndinAt7.exe.config
+C:\Users\Asus\source\repos\ForLoopsHomework\numbersEndinAt7\bin\Debug\numbersEndinAt7.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\numbersEndinAt7\bin\Debug\numbersEndinAt7.pdb
+C:\Users\Asus\source\repos\ForLoopsHomework\numbersEndinAt7\obj\Debug\numbersEndinAt7.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ForLoopsHomework\numbersEndinAt7\obj\Debug\numbersEndinAt7.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ForLoopsHomework\numbersEndinAt7\obj\Debug\numbersEndinAt7.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\numbersEndinAt7\obj\Debug\numbersEndinAt7.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\Asus\source\repos\DataTypes\Elevator\bin\Debug\Elevator.exe
+C:\Users\Asus\source\repos\DataTypes\Elevator\bin\Debug\Elevator.pdb
+C:\Users\Asus\source\repos\DataTypes\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\Elevator\obj\Debug\Elevator.exe
+C:\Users\Asus\source\repos\DataTypes\Elevator\obj\Debug\Elevator.pdb

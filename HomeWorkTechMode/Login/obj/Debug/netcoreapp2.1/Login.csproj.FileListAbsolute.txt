@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\bin\Debug\netcoreapp2.1\Login.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\bin\Debug\netcoreapp2.1\Login.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\obj\Debug\netcoreapp2.1\Login.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\obj\Debug\netcoreapp2.1\Login.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\Login\obj\Debug\netcoreapp2.1\Login.csprojAssemblyReference.cache

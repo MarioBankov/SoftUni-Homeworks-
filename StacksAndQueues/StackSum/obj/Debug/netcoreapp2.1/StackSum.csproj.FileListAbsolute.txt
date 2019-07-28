@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.dll
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.dll
+C:\Users\Asus\source\repos\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.pdb

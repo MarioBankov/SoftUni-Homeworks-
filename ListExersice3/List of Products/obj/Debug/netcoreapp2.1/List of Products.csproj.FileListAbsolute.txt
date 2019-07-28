@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\List of Products\bin\Debug\netcoreapp2.1\List of Products.deps.json
+C:\Users\Asus\source\repos\ListExersice3\List of Products\bin\Debug\netcoreapp2.1\List of Products.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\List of Products\bin\Debug\netcoreapp2.1\List of Products.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\List of Products\bin\Debug\netcoreapp2.1\List of Products.dll
+C:\Users\Asus\source\repos\ListExersice3\List of Products\bin\Debug\netcoreapp2.1\List of Products.pdb
+C:\Users\Asus\source\repos\ListExersice3\List of Products\obj\Debug\netcoreapp2.1\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\List of Products\obj\Debug\netcoreapp2.1\List of Products.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\List of Products\obj\Debug\netcoreapp2.1\List of Products.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\List of Products\obj\Debug\netcoreapp2.1\List of Products.dll
+C:\Users\Asus\source\repos\ListExersice3\List of Products\obj\Debug\netcoreapp2.1\List of Products.pdb

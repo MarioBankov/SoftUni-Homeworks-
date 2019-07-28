@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\bin\Debug\netcoreapp2.1\TopInteger.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\bin\Debug\netcoreapp2.1\TopInteger.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\bin\Debug\netcoreapp2.1\TopInteger.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\bin\Debug\netcoreapp2.1\TopInteger.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\bin\Debug\netcoreapp2.1\TopInteger.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\obj\Debug\netcoreapp2.1\TopInteger.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\obj\Debug\netcoreapp2.1\TopInteger.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\obj\Debug\netcoreapp2.1\TopInteger.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\obj\Debug\netcoreapp2.1\TopInteger.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\TopInteger\obj\Debug\netcoreapp2.1\TopInteger.pdb

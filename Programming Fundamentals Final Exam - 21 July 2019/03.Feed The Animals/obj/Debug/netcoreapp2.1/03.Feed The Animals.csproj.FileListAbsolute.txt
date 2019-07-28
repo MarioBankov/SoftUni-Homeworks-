@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\bin\Debug\netcoreapp2.1\03.Feed The Animals.deps.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\bin\Debug\netcoreapp2.1\03.Feed The Animals.runtimeconfig.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\bin\Debug\netcoreapp2.1\03.Feed The Animals.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\bin\Debug\netcoreapp2.1\03.Feed The Animals.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\bin\Debug\netcoreapp2.1\03.Feed The Animals.pdb
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\obj\Debug\netcoreapp2.1\03.Feed The Animals.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\obj\Debug\netcoreapp2.1\03.Feed The Animals.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\obj\Debug\netcoreapp2.1\03.Feed The Animals.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\obj\Debug\netcoreapp2.1\03.Feed The Animals.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\obj\Debug\netcoreapp2.1\03.Feed The Animals.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\03.Feed The Animals\obj\Debug\netcoreapp2.1\03.Feed The Animals.pdb

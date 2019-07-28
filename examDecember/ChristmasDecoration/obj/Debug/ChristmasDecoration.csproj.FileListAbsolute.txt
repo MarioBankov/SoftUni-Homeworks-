@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\examDecember\ChristmasDecoration\bin\Debug\ChristmasDecoration.exe.config
+C:\Users\Asus\source\repos\examDecember\ChristmasDecoration\bin\Debug\ChristmasDecoration.exe
+C:\Users\Asus\source\repos\examDecember\ChristmasDecoration\bin\Debug\ChristmasDecoration.pdb
+C:\Users\Asus\source\repos\examDecember\ChristmasDecoration\obj\Debug\ChristmasDecoration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\examDecember\ChristmasDecoration\obj\Debug\ChristmasDecoration.exe
+C:\Users\Asus\source\repos\examDecember\ChristmasDecoration\obj\Debug\ChristmasDecoration.pdb

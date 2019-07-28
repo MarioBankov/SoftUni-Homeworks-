@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\bin\Debug\netcoreapp2.1\AutoRepear.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\bin\Debug\netcoreapp2.1\AutoRepear.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\bin\Debug\netcoreapp2.1\AutoRepear.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\bin\Debug\netcoreapp2.1\AutoRepear.dll
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\bin\Debug\netcoreapp2.1\AutoRepear.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\obj\Debug\netcoreapp2.1\AutoRepear.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\obj\Debug\netcoreapp2.1\AutoRepear.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\obj\Debug\netcoreapp2.1\AutoRepear.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\obj\Debug\netcoreapp2.1\AutoRepear.dll
+C:\Users\Asus\source\repos\StacksAndQueues\AutoRepear\obj\Debug\netcoreapp2.1\AutoRepear.pdb

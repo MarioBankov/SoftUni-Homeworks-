@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamTechModulApril\HuntingGamess\bin\Debug\HuntingGamess.exe.config
+C:\Users\Asus\source\repos\ExamTechModulApril\HuntingGamess\bin\Debug\HuntingGamess.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\HuntingGamess\bin\Debug\HuntingGamess.pdb
+C:\Users\Asus\source\repos\ExamTechModulApril\HuntingGamess\obj\Debug\HuntingGamess.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\HuntingGamess\obj\Debug\HuntingGamess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\HuntingGamess\obj\Debug\HuntingGamess.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\HuntingGamess\obj\Debug\HuntingGamess.pdb

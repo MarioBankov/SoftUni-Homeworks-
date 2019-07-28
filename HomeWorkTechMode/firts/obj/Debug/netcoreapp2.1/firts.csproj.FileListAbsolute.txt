@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\bin\Debug\netcoreapp2.1\firts.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\bin\Debug\netcoreapp2.1\firts.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\bin\Debug\netcoreapp2.1\firts.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\bin\Debug\netcoreapp2.1\firts.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\bin\Debug\netcoreapp2.1\firts.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\obj\Debug\netcoreapp2.1\firts.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\obj\Debug\netcoreapp2.1\firts.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\obj\Debug\netcoreapp2.1\firts.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\obj\Debug\netcoreapp2.1\firts.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\obj\Debug\netcoreapp2.1\firts.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\firts\obj\Debug\netcoreapp2.1\firts.pdb

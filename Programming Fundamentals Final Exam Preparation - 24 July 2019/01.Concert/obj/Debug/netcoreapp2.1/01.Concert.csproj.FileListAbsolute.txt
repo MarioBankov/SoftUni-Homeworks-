@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.deps.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.runtimeconfig.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.pdb
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam Preparation - 24 July 2019\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.pdb

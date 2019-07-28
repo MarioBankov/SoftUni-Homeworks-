@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\Asus\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.pdb

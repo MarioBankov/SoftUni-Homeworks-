@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\bin\Debug\netcoreapp2.1\EvenOddSubstration.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\bin\Debug\netcoreapp2.1\EvenOddSubstration.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\bin\Debug\netcoreapp2.1\EvenOddSubstration.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\bin\Debug\netcoreapp2.1\EvenOddSubstration.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\bin\Debug\netcoreapp2.1\EvenOddSubstration.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\obj\Debug\netcoreapp2.1\EvenOddSubstration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\obj\Debug\netcoreapp2.1\EvenOddSubstration.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\obj\Debug\netcoreapp2.1\EvenOddSubstration.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\obj\Debug\netcoreapp2.1\EvenOddSubstration.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\EvenOddSubstration\obj\Debug\netcoreapp2.1\EvenOddSubstration.pdb

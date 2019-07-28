@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Methods\PrintTriangle\bin\Debug\PrintTriangle.exe.config
+C:\Users\Asus\source\repos\Methods\PrintTriangle\bin\Debug\PrintTriangle.exe
+C:\Users\Asus\source\repos\Methods\PrintTriangle\bin\Debug\PrintTriangle.pdb
+C:\Users\Asus\source\repos\Methods\PrintTriangle\obj\Debug\PrintTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\PrintTriangle\obj\Debug\PrintTriangle.exe
+C:\Users\Asus\source\repos\Methods\PrintTriangle\obj\Debug\PrintTriangle.pdb
+C:\Users\Asus\source\repos\Methods\PrintTriangle\obj\Debug\PrintTriangle.csprojAssemblyReference.cache

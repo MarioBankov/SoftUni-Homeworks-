@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\EqualSum\bin\Debug\EqualSum.exe.config
+C:\Users\Asus\source\repos\Arrays\EqualSum\bin\Debug\EqualSum.exe
+C:\Users\Asus\source\repos\Arrays\EqualSum\bin\Debug\EqualSum.pdb
+C:\Users\Asus\source\repos\Arrays\EqualSum\obj\Debug\EqualSum.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\EqualSum\obj\Debug\EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\EqualSum\obj\Debug\EqualSum.exe
+C:\Users\Asus\source\repos\Arrays\EqualSum\obj\Debug\EqualSum.pdb

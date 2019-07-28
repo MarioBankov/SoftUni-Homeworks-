@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\MethodsExersice\PalindromIntegers\obj\Debug\PalindromIntegers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsExersice\PalindromIntegers\obj\Debug\PalindromIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\PalindromIntegers\bin\Debug\PalindromIntegers.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\PalindromIntegers\bin\Debug\PalindromIntegers.exe
+C:\Users\Asus\source\repos\MethodsExersice\PalindromIntegers\bin\Debug\PalindromIntegers.pdb
+C:\Users\Asus\source\repos\MethodsExersice\PalindromIntegers\obj\Debug\PalindromIntegers.exe
+C:\Users\Asus\source\repos\MethodsExersice\PalindromIntegers\obj\Debug\PalindromIntegers.pdb

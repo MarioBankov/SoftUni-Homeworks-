@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+C:\Users\Asus\source\repos\Dictionarys\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+C:\Users\Asus\source\repos\Dictionarys\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+C:\Users\Asus\source\repos\Dictionarys\LegendaryFarming\obj\Debug\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\LegendaryFarming\obj\Debug\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+C:\Users\Asus\source\repos\Dictionarys\LegendaryFarming\obj\Debug\LegendaryFarming.pdb

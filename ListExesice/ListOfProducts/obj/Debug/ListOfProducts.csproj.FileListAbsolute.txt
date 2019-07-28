@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExesice\ListOfProducts\bin\Debug\ListOfProducts.exe.config
+C:\Users\Asus\source\repos\ListExesice\ListOfProducts\bin\Debug\ListOfProducts.exe
+C:\Users\Asus\source\repos\ListExesice\ListOfProducts\bin\Debug\ListOfProducts.pdb
+C:\Users\Asus\source\repos\ListExesice\ListOfProducts\obj\Debug\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\ListOfProducts\obj\Debug\ListOfProducts.exe
+C:\Users\Asus\source\repos\ListExesice\ListOfProducts\obj\Debug\ListOfProducts.pdb

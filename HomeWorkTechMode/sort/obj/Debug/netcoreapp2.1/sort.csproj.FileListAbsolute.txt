@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\bin\Debug\netcoreapp2.1\sort.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\bin\Debug\netcoreapp2.1\sort.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\bin\Debug\netcoreapp2.1\sort.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\bin\Debug\netcoreapp2.1\sort.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\bin\Debug\netcoreapp2.1\sort.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\obj\Debug\netcoreapp2.1\sort.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\obj\Debug\netcoreapp2.1\sort.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\obj\Debug\netcoreapp2.1\sort.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\obj\Debug\netcoreapp2.1\sort.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\sort\obj\Debug\netcoreapp2.1\sort.pdb

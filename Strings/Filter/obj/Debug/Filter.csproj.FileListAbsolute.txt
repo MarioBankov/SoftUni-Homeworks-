@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Strings\Filter\bin\Debug\Filter.exe.config
+C:\Users\Asus\source\repos\Strings\Filter\bin\Debug\Filter.exe
+C:\Users\Asus\source\repos\Strings\Filter\bin\Debug\Filter.pdb
+C:\Users\Asus\source\repos\Strings\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\Filter\obj\Debug\Filter.exe
+C:\Users\Asus\source\repos\Strings\Filter\obj\Debug\Filter.pdb

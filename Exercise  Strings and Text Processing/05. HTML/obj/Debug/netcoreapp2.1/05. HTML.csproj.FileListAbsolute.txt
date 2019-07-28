@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\bin\Debug\netcoreapp2.1\05. HTML.deps.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\bin\Debug\netcoreapp2.1\05. HTML.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\bin\Debug\netcoreapp2.1\05. HTML.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\bin\Debug\netcoreapp2.1\05. HTML.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\bin\Debug\netcoreapp2.1\05. HTML.pdb
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\obj\Debug\netcoreapp2.1\05. HTML.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\obj\Debug\netcoreapp2.1\05. HTML.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\obj\Debug\netcoreapp2.1\05. HTML.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\obj\Debug\netcoreapp2.1\05. HTML.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\obj\Debug\netcoreapp2.1\05. HTML.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\05. HTML\obj\Debug\netcoreapp2.1\05. HTML.pdb

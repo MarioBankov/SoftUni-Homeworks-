@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingInvestment\bin\Debug\WeddingInvestment.exe.config
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingInvestment\bin\Debug\WeddingInvestment.exe
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingInvestment\bin\Debug\WeddingInvestment.pdb
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingInvestment\obj\Debug\WeddingInvestment.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingInvestment\obj\Debug\WeddingInvestment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingInvestment\obj\Debug\WeddingInvestment.exe
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingInvestment\obj\Debug\WeddingInvestment.pdb

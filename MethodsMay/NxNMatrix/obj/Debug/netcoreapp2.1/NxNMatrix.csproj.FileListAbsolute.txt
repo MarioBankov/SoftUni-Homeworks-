@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\bin\Debug\netcoreapp2.1\NxNMatrix.deps.json
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\bin\Debug\netcoreapp2.1\NxNMatrix.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\bin\Debug\netcoreapp2.1\NxNMatrix.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\bin\Debug\netcoreapp2.1\NxNMatrix.dll
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\bin\Debug\netcoreapp2.1\NxNMatrix.pdb
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\obj\Debug\netcoreapp2.1\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\obj\Debug\netcoreapp2.1\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\obj\Debug\netcoreapp2.1\NxNMatrix.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\obj\Debug\netcoreapp2.1\NxNMatrix.dll
+C:\Users\Asus\source\repos\MethodsMay\NxNMatrix\obj\Debug\netcoreapp2.1\NxNMatrix.pdb

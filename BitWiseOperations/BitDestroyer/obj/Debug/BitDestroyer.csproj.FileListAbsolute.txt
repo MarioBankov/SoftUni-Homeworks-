@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\BitWiseOperations\BitDestroyer\bin\Debug\BitDestroyer.exe.config
+C:\Users\Asus\source\repos\BitWiseOperations\BitDestroyer\bin\Debug\BitDestroyer.exe
+C:\Users\Asus\source\repos\BitWiseOperations\BitDestroyer\bin\Debug\BitDestroyer.pdb
+C:\Users\Asus\source\repos\BitWiseOperations\BitDestroyer\obj\Debug\BitDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BitWiseOperations\BitDestroyer\obj\Debug\BitDestroyer.exe
+C:\Users\Asus\source\repos\BitWiseOperations\BitDestroyer\obj\Debug\BitDestroyer.pdb

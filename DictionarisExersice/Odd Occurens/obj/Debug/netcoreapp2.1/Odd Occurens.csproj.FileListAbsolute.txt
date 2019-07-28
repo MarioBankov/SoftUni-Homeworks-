@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\bin\Debug\netcoreapp2.1\Odd Occurens.deps.json
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\bin\Debug\netcoreapp2.1\Odd Occurens.runtimeconfig.json
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\bin\Debug\netcoreapp2.1\Odd Occurens.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\bin\Debug\netcoreapp2.1\Odd Occurens.dll
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\bin\Debug\netcoreapp2.1\Odd Occurens.pdb
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\obj\Debug\netcoreapp2.1\Odd Occurens.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\obj\Debug\netcoreapp2.1\Odd Occurens.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\obj\Debug\netcoreapp2.1\Odd Occurens.AssemblyInfo.cs
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\obj\Debug\netcoreapp2.1\Odd Occurens.dll
+C:\Users\Asus\source\repos\DictionarisExersice\Odd Occurens\obj\Debug\netcoreapp2.1\Odd Occurens.pdb

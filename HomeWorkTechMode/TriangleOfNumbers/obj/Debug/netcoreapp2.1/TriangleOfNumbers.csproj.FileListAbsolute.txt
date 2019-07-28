@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExesice\RemoveAllNegativeIntegers\bin\Debug\RemoveAllNegativeIntegers.exe.config
+C:\Users\Asus\source\repos\ListExesice\RemoveAllNegativeIntegers\bin\Debug\RemoveAllNegativeIntegers.exe
+C:\Users\Asus\source\repos\ListExesice\RemoveAllNegativeIntegers\bin\Debug\RemoveAllNegativeIntegers.pdb
+C:\Users\Asus\source\repos\ListExesice\RemoveAllNegativeIntegers\obj\Debug\RemoveAllNegativeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\RemoveAllNegativeIntegers\obj\Debug\RemoveAllNegativeIntegers.exe
+C:\Users\Asus\source\repos\ListExesice\RemoveAllNegativeIntegers\obj\Debug\RemoveAllNegativeIntegers.pdb

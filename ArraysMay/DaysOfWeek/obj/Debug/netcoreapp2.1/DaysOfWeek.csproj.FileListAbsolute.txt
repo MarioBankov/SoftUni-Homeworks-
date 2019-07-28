@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.deps.json
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.dll
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.pdb
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.dll
+C:\Users\Asus\source\repos\ArraysMay\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.pdb

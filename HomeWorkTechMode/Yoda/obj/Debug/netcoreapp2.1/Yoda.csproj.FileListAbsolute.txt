@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\bin\Debug\netcoreapp2.1\Yoda.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\bin\Debug\netcoreapp2.1\Yoda.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\bin\Debug\netcoreapp2.1\Yoda.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\bin\Debug\netcoreapp2.1\Yoda.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\bin\Debug\netcoreapp2.1\Yoda.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\obj\Debug\netcoreapp2.1\Yoda.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\obj\Debug\netcoreapp2.1\Yoda.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\obj\Debug\netcoreapp2.1\Yoda.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\obj\Debug\netcoreapp2.1\Yoda.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\obj\Debug\netcoreapp2.1\Yoda.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\Yoda\obj\Debug\netcoreapp2.1\Yoda.pdb

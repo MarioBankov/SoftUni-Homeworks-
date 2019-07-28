@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\3.HouseParty\bin\Debug\3.HouseParty.exe.config
+C:\Users\Asus\source\repos\ListExersice\3.HouseParty\bin\Debug\3.HouseParty.exe
+C:\Users\Asus\source\repos\ListExersice\3.HouseParty\bin\Debug\3.HouseParty.pdb
+C:\Users\Asus\source\repos\ListExersice\3.HouseParty\obj\Debug\3.HouseParty.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice\3.HouseParty\obj\Debug\3.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\3.HouseParty\obj\Debug\3.HouseParty.exe
+C:\Users\Asus\source\repos\ListExersice\3.HouseParty\obj\Debug\3.HouseParty.pdb

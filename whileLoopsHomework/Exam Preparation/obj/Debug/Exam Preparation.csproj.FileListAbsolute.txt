@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\whileLoopsHomework\Exam Preparation\bin\Debug\Exam Preparation.exe.config
+C:\Users\Asus\source\repos\whileLoopsHomework\Exam Preparation\bin\Debug\Exam Preparation.exe
+C:\Users\Asus\source\repos\whileLoopsHomework\Exam Preparation\bin\Debug\Exam Preparation.pdb
+C:\Users\Asus\source\repos\whileLoopsHomework\Exam Preparation\obj\Debug\Exam Preparation.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\whileLoopsHomework\Exam Preparation\obj\Debug\Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\whileLoopsHomework\Exam Preparation\obj\Debug\Exam Preparation.exe
+C:\Users\Asus\source\repos\whileLoopsHomework\Exam Preparation\obj\Debug\Exam Preparation.pdb

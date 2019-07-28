@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\Poke Mon\bin\Debug\Poke Mon.exe.config
+C:\Users\Asus\source\repos\DataTypes\Poke Mon\bin\Debug\Poke Mon.exe
+C:\Users\Asus\source\repos\DataTypes\Poke Mon\bin\Debug\Poke Mon.pdb
+C:\Users\Asus\source\repos\DataTypes\Poke Mon\obj\Debug\Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\Poke Mon\obj\Debug\Poke Mon.exe
+C:\Users\Asus\source\repos\DataTypes\Poke Mon\obj\Debug\Poke Mon.pdb

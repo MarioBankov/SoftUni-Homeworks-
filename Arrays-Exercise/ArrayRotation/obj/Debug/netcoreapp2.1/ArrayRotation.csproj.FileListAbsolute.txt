@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.1\ArrayRotation.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.1\ArrayRotation.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.1\ArrayRotation.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.1\ArrayRotation.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.1\ArrayRotation.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.1\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.1\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.1\ArrayRotation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.1\ArrayRotation.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.1\ArrayRotation.pdb

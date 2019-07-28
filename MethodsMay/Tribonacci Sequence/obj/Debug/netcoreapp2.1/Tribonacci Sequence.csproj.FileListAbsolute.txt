@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\bin\Debug\netcoreapp2.1\Tribonacci Sequence.deps.json
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\bin\Debug\netcoreapp2.1\Tribonacci Sequence.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\bin\Debug\netcoreapp2.1\Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\bin\Debug\netcoreapp2.1\Tribonacci Sequence.dll
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\bin\Debug\netcoreapp2.1\Tribonacci Sequence.pdb
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\obj\Debug\netcoreapp2.1\Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\obj\Debug\netcoreapp2.1\Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\obj\Debug\netcoreapp2.1\Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\obj\Debug\netcoreapp2.1\Tribonacci Sequence.dll
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\obj\Debug\netcoreapp2.1\Tribonacci Sequence.pdb
+C:\Users\Asus\source\repos\MethodsMay\Tribonacci Sequence\obj\Debug\netcoreapp2.1\Tribonacci Sequence.csprojAssemblyReference.cache

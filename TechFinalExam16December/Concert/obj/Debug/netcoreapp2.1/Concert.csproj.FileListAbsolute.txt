@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\bin\Debug\netcoreapp2.1\Concert.deps.json
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\bin\Debug\netcoreapp2.1\Concert.runtimeconfig.json
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\bin\Debug\netcoreapp2.1\Concert.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\bin\Debug\netcoreapp2.1\Concert.dll
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\bin\Debug\netcoreapp2.1\Concert.pdb
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\obj\Debug\netcoreapp2.1\Concert.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\obj\Debug\netcoreapp2.1\Concert.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\obj\Debug\netcoreapp2.1\Concert.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\obj\Debug\netcoreapp2.1\Concert.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\obj\Debug\netcoreapp2.1\Concert.dll
+C:\Users\Asus\source\repos\TechFinalExam16December\Concert\obj\Debug\netcoreapp2.1\Concert.pdb

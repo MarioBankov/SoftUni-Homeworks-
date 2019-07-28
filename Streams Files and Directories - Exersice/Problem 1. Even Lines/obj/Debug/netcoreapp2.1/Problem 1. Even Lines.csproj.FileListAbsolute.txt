@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\bin\Debug\netcoreapp2.1\text.txt
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\bin\Debug\netcoreapp2.1\Problem 1. Even Lines.deps.json
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\bin\Debug\netcoreapp2.1\Problem 1. Even Lines.runtimeconfig.json
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\bin\Debug\netcoreapp2.1\Problem 1. Even Lines.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\bin\Debug\netcoreapp2.1\Problem 1. Even Lines.dll
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\bin\Debug\netcoreapp2.1\Problem 1. Even Lines.pdb
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\obj\Debug\netcoreapp2.1\Problem 1. Even Lines.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\obj\Debug\netcoreapp2.1\Problem 1. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\obj\Debug\netcoreapp2.1\Problem 1. Even Lines.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\obj\Debug\netcoreapp2.1\Problem 1. Even Lines.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\obj\Debug\netcoreapp2.1\Problem 1. Even Lines.dll
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 1. Even Lines\obj\Debug\netcoreapp2.1\Problem 1. Even Lines.pdb

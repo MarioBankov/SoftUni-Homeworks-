@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\FirstProblem\bin\Debug\FirstProblem.exe.config
+C:\Users\Asus\source\repos\Dictionarys\FirstProblem\bin\Debug\FirstProblem.exe
+C:\Users\Asus\source\repos\Dictionarys\FirstProblem\bin\Debug\FirstProblem.pdb
+C:\Users\Asus\source\repos\Dictionarys\FirstProblem\obj\Debug\FirstProblem.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\FirstProblem\obj\Debug\FirstProblem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\FirstProblem\obj\Debug\FirstProblem.exe
+C:\Users\Asus\source\repos\Dictionarys\FirstProblem\obj\Debug\FirstProblem.pdb

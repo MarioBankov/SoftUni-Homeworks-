@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice2\DrumSet\bin\Debug\DrumSet.exe.config
+C:\Users\Asus\source\repos\ListExersice2\DrumSet\bin\Debug\DrumSet.exe
+C:\Users\Asus\source\repos\ListExersice2\DrumSet\bin\Debug\DrumSet.pdb
+C:\Users\Asus\source\repos\ListExersice2\DrumSet\obj\Debug\DrumSet.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice2\DrumSet\obj\Debug\DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice2\DrumSet\obj\Debug\DrumSet.exe
+C:\Users\Asus\source\repos\ListExersice2\DrumSet\obj\Debug\DrumSet.pdb

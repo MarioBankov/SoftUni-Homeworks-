@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExesice\7. Merging Lists\bin\Debug\_7.Merging_Lists.exe.config
+C:\Users\Asus\source\repos\ListExesice\7. Merging Lists\bin\Debug\_7.Merging_Lists.exe
+C:\Users\Asus\source\repos\ListExesice\7. Merging Lists\bin\Debug\_7.Merging_Lists.pdb
+C:\Users\Asus\source\repos\ListExesice\7. Merging Lists\obj\Debug\7. Merging Lists.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExesice\7. Merging Lists\obj\Debug\7. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\7. Merging Lists\obj\Debug\_7.Merging_Lists.exe
+C:\Users\Asus\source\repos\ListExesice\7. Merging Lists\obj\Debug\_7.Merging_Lists.pdb

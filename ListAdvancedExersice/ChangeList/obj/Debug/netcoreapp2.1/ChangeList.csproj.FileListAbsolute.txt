@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\bin\Debug\netcoreapp2.1\ChangeList.deps.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\bin\Debug\netcoreapp2.1\ChangeList.runtimeconfig.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\bin\Debug\netcoreapp2.1\ChangeList.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\bin\Debug\netcoreapp2.1\ChangeList.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\bin\Debug\netcoreapp2.1\ChangeList.pdb
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\obj\Debug\netcoreapp2.1\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\obj\Debug\netcoreapp2.1\ChangeList.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\obj\Debug\netcoreapp2.1\ChangeList.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\obj\Debug\netcoreapp2.1\ChangeList.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\ChangeList\obj\Debug\netcoreapp2.1\ChangeList.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\bin\Debug\netcoreapp2.1\TeamWorkProjects.deps.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\bin\Debug\netcoreapp2.1\TeamWorkProjects.runtimeconfig.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\bin\Debug\netcoreapp2.1\TeamWorkProjects.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\bin\Debug\netcoreapp2.1\TeamWorkProjects.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\bin\Debug\netcoreapp2.1\TeamWorkProjects.pdb
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\obj\Debug\netcoreapp2.1\TeamWorkProjects.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\obj\Debug\netcoreapp2.1\TeamWorkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\obj\Debug\netcoreapp2.1\TeamWorkProjects.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\obj\Debug\netcoreapp2.1\TeamWorkProjects.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\obj\Debug\netcoreapp2.1\TeamWorkProjects.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\TeamWorkProjects\obj\Debug\netcoreapp2.1\TeamWorkProjects.pdb

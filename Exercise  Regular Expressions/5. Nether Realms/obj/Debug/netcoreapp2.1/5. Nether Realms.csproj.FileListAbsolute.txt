@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\bin\Debug\netcoreapp2.1\5. Nether Realms.deps.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\bin\Debug\netcoreapp2.1\5. Nether Realms.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\bin\Debug\netcoreapp2.1\5. Nether Realms.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\bin\Debug\netcoreapp2.1\5. Nether Realms.dll
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\bin\Debug\netcoreapp2.1\5. Nether Realms.pdb
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\obj\Debug\netcoreapp2.1\5. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\obj\Debug\netcoreapp2.1\5. Nether Realms.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\obj\Debug\netcoreapp2.1\5. Nether Realms.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\obj\Debug\netcoreapp2.1\5. Nether Realms.dll
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\5. Nether Realms\obj\Debug\netcoreapp2.1\5. Nether Realms.pdb

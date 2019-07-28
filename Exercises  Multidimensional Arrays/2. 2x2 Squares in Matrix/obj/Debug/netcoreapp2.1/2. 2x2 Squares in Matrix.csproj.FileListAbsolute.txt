@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.deps.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.pdb
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\2. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2. 2x2 Squares in Matrix.pdb

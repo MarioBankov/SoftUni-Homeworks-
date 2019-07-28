@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\bin\Debug\netcoreapp2.1\Students.deps.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\bin\Debug\netcoreapp2.1\Students.runtimeconfig.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\bin\Debug\netcoreapp2.1\Students.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\bin\Debug\netcoreapp2.1\Students.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\bin\Debug\netcoreapp2.1\Students.pdb
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\obj\Debug\netcoreapp2.1\Students.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\obj\Debug\netcoreapp2.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\obj\Debug\netcoreapp2.1\Students.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\obj\Debug\netcoreapp2.1\Students.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\obj\Debug\netcoreapp2.1\Students.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\Students\obj\Debug\netcoreapp2.1\Students.pdb

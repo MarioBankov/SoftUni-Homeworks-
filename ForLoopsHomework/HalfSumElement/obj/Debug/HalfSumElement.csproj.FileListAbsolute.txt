@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ForLoopsHomework\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+C:\Users\Asus\source\repos\ForLoopsHomework\HalfSumElement\bin\Debug\HalfSumElement.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\HalfSumElement\bin\Debug\HalfSumElement.pdb
+C:\Users\Asus\source\repos\ForLoopsHomework\HalfSumElement\obj\Debug\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ForLoopsHomework\HalfSumElement\obj\Debug\HalfSumElement.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\HalfSumElement\obj\Debug\HalfSumElement.pdb

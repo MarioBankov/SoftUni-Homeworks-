@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\bin\Debug\netcoreapp2.1\Problem 5. Directory Traversal.deps.json
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\bin\Debug\netcoreapp2.1\Problem 5. Directory Traversal.runtimeconfig.json
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\bin\Debug\netcoreapp2.1\Problem 5. Directory Traversal.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\bin\Debug\netcoreapp2.1\Problem 5. Directory Traversal.dll
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\bin\Debug\netcoreapp2.1\Problem 5. Directory Traversal.pdb
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\obj\Debug\netcoreapp2.1\Problem 5. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\obj\Debug\netcoreapp2.1\Problem 5. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\obj\Debug\netcoreapp2.1\Problem 5. Directory Traversal.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\obj\Debug\netcoreapp2.1\Problem 5. Directory Traversal.dll
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\obj\Debug\netcoreapp2.1\Problem 5. Directory Traversal.pdb
+C:\Users\Asus\source\repos\Streams Files and Directories - Exersice\Problem 5. Directory Traversal\obj\Debug\netcoreapp2.1\Problem 5. Directory Traversal.csprojAssemblyReference.cache

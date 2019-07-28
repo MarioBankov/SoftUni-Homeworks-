@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.deps.json
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.runtimeconfig.json
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.dll
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.pdb
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.dll
+C:\Users\Asus\source\repos\TechFinalExam16December\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.pdb

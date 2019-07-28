@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameInfo", "GameInfo\GameInfo.csproj", "{DC013656-A48F-47B9-BE9A-EAFBFB5D2435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substitute", "Substitute\Substitute.csproj", "{328001C7-D0CD-42E5-9641-46D78E3529D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket Combination", "Ticket Combination\Ticket Combination.csproj", "{53801317-91ED-4094-88E9-C52CBF52E165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Everest", "Everest\Everest.csproj", "{315963DC-F001-4156-8AFD-6A9A1E14167B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC013656-A48F-47B9-BE9A-EAFBFB5D2435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC013656-A48F-47B9-BE9A-EAFBFB5D2435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC013656-A48F-47B9-BE9A-EAFBFB5D2435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC013656-A48F-47B9-BE9A-EAFBFB5D2435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328001C7-D0CD-42E5-9641-46D78E3529D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328001C7-D0CD-42E5-9641-46D78E3529D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328001C7-D0CD-42E5-9641-46D78E3529D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328001C7-D0CD-42E5-9641-46D78E3529D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53801317-91ED-4094-88E9-C52CBF52E165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53801317-91ED-4094-88E9-C52CBF52E165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53801317-91ED-4094-88E9-C52CBF52E165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53801317-91ED-4094-88E9-C52CBF52E165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315963DC-F001-4156-8AFD-6A9A1E14167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315963DC-F001-4156-8AFD-6A9A1E14167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315963DC-F001-4156-8AFD-6A9A1E14167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315963DC-F001-4156-8AFD-6A9A1E14167B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64571FD9-9840-4C62-914B-9D21F2B87798}
+	EndGlobalSection
+EndGlobal

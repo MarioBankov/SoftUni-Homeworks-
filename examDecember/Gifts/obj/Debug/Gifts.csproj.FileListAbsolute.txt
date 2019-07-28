@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\examDecember\Gifts\bin\Debug\Gifts.exe.config
+C:\Users\Asus\source\repos\examDecember\Gifts\bin\Debug\Gifts.exe
+C:\Users\Asus\source\repos\examDecember\Gifts\bin\Debug\Gifts.pdb
+C:\Users\Asus\source\repos\examDecember\Gifts\obj\Debug\Gifts.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\examDecember\Gifts\obj\Debug\Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\examDecember\Gifts\obj\Debug\Gifts.exe
+C:\Users\Asus\source\repos\examDecember\Gifts\obj\Debug\Gifts.pdb

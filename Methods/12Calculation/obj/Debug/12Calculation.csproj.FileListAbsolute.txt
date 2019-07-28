@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Methods\12Calculation\bin\Debug\12Calculation.exe.config
+C:\Users\Asus\source\repos\Methods\12Calculation\bin\Debug\12Calculation.exe
+C:\Users\Asus\source\repos\Methods\12Calculation\bin\Debug\12Calculation.pdb
+C:\Users\Asus\source\repos\Methods\12Calculation\obj\Debug\12Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\12Calculation\obj\Debug\12Calculation.exe
+C:\Users\Asus\source\repos\Methods\12Calculation\obj\Debug\12Calculation.pdb

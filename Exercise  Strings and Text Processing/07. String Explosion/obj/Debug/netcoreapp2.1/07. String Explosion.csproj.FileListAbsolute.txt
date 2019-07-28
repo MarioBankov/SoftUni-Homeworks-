@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.deps.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.pdb
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.pdb
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.csprojAssemblyReference.cache

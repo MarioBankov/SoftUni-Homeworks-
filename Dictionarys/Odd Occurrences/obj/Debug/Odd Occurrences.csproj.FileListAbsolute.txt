@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\Odd Occurrences\bin\Debug\Odd Occurrences.exe.config
+C:\Users\Asus\source\repos\Dictionarys\Odd Occurrences\bin\Debug\Odd Occurrences.exe
+C:\Users\Asus\source\repos\Dictionarys\Odd Occurrences\bin\Debug\Odd Occurrences.pdb
+C:\Users\Asus\source\repos\Dictionarys\Odd Occurrences\obj\Debug\Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\Odd Occurrences\obj\Debug\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\Odd Occurrences\obj\Debug\Odd Occurrences.exe
+C:\Users\Asus\source\repos\Dictionarys\Odd Occurrences\obj\Debug\Odd Occurrences.pdb

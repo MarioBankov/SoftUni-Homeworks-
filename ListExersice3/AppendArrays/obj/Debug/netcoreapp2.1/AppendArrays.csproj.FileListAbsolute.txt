@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.deps.json
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.dll
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.pdb
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.dll
+C:\Users\Asus\source\repos\ListExersice3\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.pdb

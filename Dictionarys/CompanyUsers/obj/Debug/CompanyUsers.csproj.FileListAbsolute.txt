@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\CompanyUsers\bin\Debug\CompanyUsers.exe.config
+C:\Users\Asus\source\repos\Dictionarys\CompanyUsers\bin\Debug\CompanyUsers.exe
+C:\Users\Asus\source\repos\Dictionarys\CompanyUsers\bin\Debug\CompanyUsers.pdb
+C:\Users\Asus\source\repos\Dictionarys\CompanyUsers\obj\Debug\CompanyUsers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\CompanyUsers\obj\Debug\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\CompanyUsers\obj\Debug\CompanyUsers.exe
+C:\Users\Asus\source\repos\Dictionarys\CompanyUsers\obj\Debug\CompanyUsers.pdb

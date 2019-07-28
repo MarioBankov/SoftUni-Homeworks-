@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingSeats\bin\Debug\WeddingSeats.exe.config
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingSeats\bin\Debug\WeddingSeats.exe
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingSeats\bin\Debug\WeddingSeats.pdb
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingSeats\obj\Debug\WeddingSeats.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingSeats\obj\Debug\WeddingSeats.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingSeats\obj\Debug\WeddingSeats.exe
+C:\Users\Asus\source\repos\ExamNovember2018\WeddingSeats\obj\Debug\WeddingSeats.pdb

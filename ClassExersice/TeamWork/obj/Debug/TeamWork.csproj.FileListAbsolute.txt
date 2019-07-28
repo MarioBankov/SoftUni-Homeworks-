@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ClassExersice\TeamWork\bin\Debug\TeamWork.exe.config
+C:\Users\Asus\source\repos\ClassExersice\TeamWork\bin\Debug\TeamWork.exe
+C:\Users\Asus\source\repos\ClassExersice\TeamWork\bin\Debug\TeamWork.pdb
+C:\Users\Asus\source\repos\ClassExersice\TeamWork\obj\Debug\TeamWork.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ClassExersice\TeamWork\obj\Debug\TeamWork.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ClassExersice\TeamWork\obj\Debug\TeamWork.exe
+C:\Users\Asus\source\repos\ClassExersice\TeamWork\obj\Debug\TeamWork.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\bin\Debug\netcoreapp2.1\QuestJournal.deps.json
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\bin\Debug\netcoreapp2.1\QuestJournal.runtimeconfig.json
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\bin\Debug\netcoreapp2.1\QuestJournal.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\bin\Debug\netcoreapp2.1\QuestJournal.dll
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\bin\Debug\netcoreapp2.1\QuestJournal.pdb
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\obj\Debug\netcoreapp2.1\QuestJournal.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\obj\Debug\netcoreapp2.1\QuestJournal.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\obj\Debug\netcoreapp2.1\QuestJournal.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\obj\Debug\netcoreapp2.1\QuestJournal.dll
+C:\Users\Asus\source\repos\MidExam4November\QuestJournal\obj\Debug\netcoreapp2.1\QuestJournal.pdb

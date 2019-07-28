@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\bin\Debug\netcoreapp2.1\ArrayManipulator.deps.json
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\bin\Debug\netcoreapp2.1\ArrayManipulator.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\bin\Debug\netcoreapp2.1\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\bin\Debug\netcoreapp2.1\ArrayManipulator.dll
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\bin\Debug\netcoreapp2.1\ArrayManipulator.pdb
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\obj\Debug\netcoreapp2.1\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\obj\Debug\netcoreapp2.1\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\obj\Debug\netcoreapp2.1\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\obj\Debug\netcoreapp2.1\ArrayManipulator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\obj\Debug\netcoreapp2.1\ArrayManipulator.dll
+C:\Users\Asus\source\repos\MethodsMay\ArrayManipulator\obj\Debug\netcoreapp2.1\ArrayManipulator.pdb

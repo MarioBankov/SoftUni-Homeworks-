@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.deps.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.dll
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.pdb
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.dll
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.pdb

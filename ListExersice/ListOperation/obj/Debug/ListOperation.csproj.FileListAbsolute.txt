@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\ListOperation\bin\Debug\ListOperation.exe.config
+C:\Users\Asus\source\repos\ListExersice\ListOperation\bin\Debug\ListOperation.exe
+C:\Users\Asus\source\repos\ListExersice\ListOperation\bin\Debug\ListOperation.pdb
+C:\Users\Asus\source\repos\ListExersice\ListOperation\obj\Debug\ListOperation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\ListOperation\obj\Debug\ListOperation.exe
+C:\Users\Asus\source\repos\ListExersice\ListOperation\obj\Debug\ListOperation.pdb
+C:\Users\Asus\source\repos\ListExersice\ListOperation\obj\Debug\ListOperation.csprojAssemblyReference.cache

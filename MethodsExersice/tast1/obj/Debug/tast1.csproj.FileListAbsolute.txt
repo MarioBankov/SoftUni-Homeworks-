@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\MethodsExersice\tast1\bin\Debug\tast1.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\tast1\bin\Debug\tast1.exe
+C:\Users\Asus\source\repos\MethodsExersice\tast1\bin\Debug\tast1.pdb
+C:\Users\Asus\source\repos\MethodsExersice\tast1\obj\Debug\tast1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsExersice\tast1\obj\Debug\tast1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\tast1\obj\Debug\tast1.exe
+C:\Users\Asus\source\repos\MethodsExersice\tast1\obj\Debug\tast1.pdb

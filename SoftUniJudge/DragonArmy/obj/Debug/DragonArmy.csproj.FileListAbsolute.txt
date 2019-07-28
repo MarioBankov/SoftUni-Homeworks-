@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\SoftUniJudge\DragonArmy\bin\Debug\DragonArmy.exe.config
+C:\Users\Asus\source\repos\SoftUniJudge\DragonArmy\bin\Debug\DragonArmy.exe
+C:\Users\Asus\source\repos\SoftUniJudge\DragonArmy\bin\Debug\DragonArmy.pdb
+C:\Users\Asus\source\repos\SoftUniJudge\DragonArmy\obj\Debug\DragonArmy.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SoftUniJudge\DragonArmy\obj\Debug\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SoftUniJudge\DragonArmy\obj\Debug\DragonArmy.exe
+C:\Users\Asus\source\repos\SoftUniJudge\DragonArmy\obj\Debug\DragonArmy.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\bin\Debug\netcoreapp2.1\02.Emoji Sumator.deps.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\bin\Debug\netcoreapp2.1\02.Emoji Sumator.runtimeconfig.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\bin\Debug\netcoreapp2.1\02.Emoji Sumator.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\bin\Debug\netcoreapp2.1\02.Emoji Sumator.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\bin\Debug\netcoreapp2.1\02.Emoji Sumator.pdb
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\obj\Debug\netcoreapp2.1\02.Emoji Sumator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\obj\Debug\netcoreapp2.1\02.Emoji Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\obj\Debug\netcoreapp2.1\02.Emoji Sumator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\obj\Debug\netcoreapp2.1\02.Emoji Sumator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\obj\Debug\netcoreapp2.1\02.Emoji Sumator.dll
+C:\Users\Asus\source\repos\Programming Fundamentals Final Exam - 21 July 2019\02.Emoji Sumator\obj\Debug\netcoreapp2.1\02.Emoji Sumator.pdb

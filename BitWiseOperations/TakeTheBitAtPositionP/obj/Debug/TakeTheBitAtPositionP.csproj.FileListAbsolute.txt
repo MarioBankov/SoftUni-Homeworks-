@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\BitWiseOperations\TakeTheBitAtPositionP\bin\Debug\TakeTheBitAtPositionP.exe.config
+C:\Users\Asus\source\repos\BitWiseOperations\TakeTheBitAtPositionP\bin\Debug\TakeTheBitAtPositionP.exe
+C:\Users\Asus\source\repos\BitWiseOperations\TakeTheBitAtPositionP\bin\Debug\TakeTheBitAtPositionP.pdb
+C:\Users\Asus\source\repos\BitWiseOperations\TakeTheBitAtPositionP\obj\Debug\TakeTheBitAtPositionP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BitWiseOperations\TakeTheBitAtPositionP\obj\Debug\TakeTheBitAtPositionP.exe
+C:\Users\Asus\source\repos\BitWiseOperations\TakeTheBitAtPositionP\obj\Debug\TakeTheBitAtPositionP.pdb

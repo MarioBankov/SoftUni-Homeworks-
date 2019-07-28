@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\PoundsToDollars\bin\Debug\PoundsToDollars.exe.config
+C:\Users\Asus\source\repos\DataTypes\PoundsToDollars\bin\Debug\PoundsToDollars.exe
+C:\Users\Asus\source\repos\DataTypes\PoundsToDollars\bin\Debug\PoundsToDollars.pdb
+C:\Users\Asus\source\repos\DataTypes\PoundsToDollars\obj\Debug\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\PoundsToDollars\obj\Debug\PoundsToDollars.exe
+C:\Users\Asus\source\repos\DataTypes\PoundsToDollars\obj\Debug\PoundsToDollars.pdb

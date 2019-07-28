@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\bin\Debug\netcoreapp2.1\GamingStore.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\bin\Debug\netcoreapp2.1\GamingStore.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\bin\Debug\netcoreapp2.1\GamingStore.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\bin\Debug\netcoreapp2.1\GamingStore.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\bin\Debug\netcoreapp2.1\GamingStore.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\obj\Debug\netcoreapp2.1\GamingStore.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\obj\Debug\netcoreapp2.1\GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\obj\Debug\netcoreapp2.1\GamingStore.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\obj\Debug\netcoreapp2.1\GamingStore.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\obj\Debug\netcoreapp2.1\GamingStore.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\GamingStore\obj\Debug\netcoreapp2.1\GamingStore.pdb

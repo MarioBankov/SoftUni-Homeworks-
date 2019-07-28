@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.deps.json
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.dll
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.pdb
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.dll
+C:\Users\Asus\source\repos\MethodsMay\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.pdb

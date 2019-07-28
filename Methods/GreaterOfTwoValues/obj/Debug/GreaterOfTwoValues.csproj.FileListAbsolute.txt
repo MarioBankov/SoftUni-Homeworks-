@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Methods\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
+C:\Users\Asus\source\repos\Methods\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
+C:\Users\Asus\source\repos\Methods\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
+C:\Users\Asus\source\repos\Methods\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
+C:\Users\Asus\source\repos\Methods\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb

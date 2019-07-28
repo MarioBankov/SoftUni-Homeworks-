@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+C:\Users\Asus\source\repos\Arrays\ArrayRotation\bin\Debug\ArrayRotation.exe
+C:\Users\Asus\source\repos\Arrays\ArrayRotation\bin\Debug\ArrayRotation.pdb
+C:\Users\Asus\source\repos\Arrays\ArrayRotation\obj\Debug\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\ArrayRotation\obj\Debug\ArrayRotation.exe
+C:\Users\Asus\source\repos\Arrays\ArrayRotation\obj\Debug\ArrayRotation.pdb

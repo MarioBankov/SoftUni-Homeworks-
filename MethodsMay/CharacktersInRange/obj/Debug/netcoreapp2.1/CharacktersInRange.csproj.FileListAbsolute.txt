@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\bin\Debug\netcoreapp2.1\CharacktersInRange.deps.json
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\bin\Debug\netcoreapp2.1\CharacktersInRange.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\bin\Debug\netcoreapp2.1\CharacktersInRange.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\bin\Debug\netcoreapp2.1\CharacktersInRange.dll
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\bin\Debug\netcoreapp2.1\CharacktersInRange.pdb
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\obj\Debug\netcoreapp2.1\CharacktersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\obj\Debug\netcoreapp2.1\CharacktersInRange.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\obj\Debug\netcoreapp2.1\CharacktersInRange.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\obj\Debug\netcoreapp2.1\CharacktersInRange.dll
+C:\Users\Asus\source\repos\MethodsMay\CharacktersInRange\obj\Debug\netcoreapp2.1\CharacktersInRange.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\SoftUniJudge\Ranking\bin\Debug\Ranking.exe.config
+C:\Users\Asus\source\repos\SoftUniJudge\Ranking\bin\Debug\Ranking.exe
+C:\Users\Asus\source\repos\SoftUniJudge\Ranking\bin\Debug\Ranking.pdb
+C:\Users\Asus\source\repos\SoftUniJudge\Ranking\obj\Debug\Ranking.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SoftUniJudge\Ranking\obj\Debug\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SoftUniJudge\Ranking\obj\Debug\Ranking.exe
+C:\Users\Asus\source\repos\SoftUniJudge\Ranking\obj\Debug\Ranking.pdb

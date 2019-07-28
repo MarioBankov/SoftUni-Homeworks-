@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\bin\Debug\netcoreapp2.1\Hello France.deps.json
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\bin\Debug\netcoreapp2.1\Hello France.runtimeconfig.json
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\bin\Debug\netcoreapp2.1\Hello France.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\bin\Debug\netcoreapp2.1\Hello France.dll
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\bin\Debug\netcoreapp2.1\Hello France.pdb
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\obj\Debug\netcoreapp2.1\Hello France.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\obj\Debug\netcoreapp2.1\Hello France.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\obj\Debug\netcoreapp2.1\Hello France.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\obj\Debug\netcoreapp2.1\Hello France.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\obj\Debug\netcoreapp2.1\Hello France.dll
+C:\Users\Asus\source\repos\TechExamMarch10\Hello France\obj\Debug\netcoreapp2.1\Hello France.pdb

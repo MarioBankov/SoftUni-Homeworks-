@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\bin\Debug\netcoreapp2.1\input.txt.txt
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\bin\Debug\netcoreapp2.1\1.Odd Lines.deps.json
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\bin\Debug\netcoreapp2.1\1.Odd Lines.runtimeconfig.json
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\bin\Debug\netcoreapp2.1\1.Odd Lines.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\bin\Debug\netcoreapp2.1\1.Odd Lines.dll
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\bin\Debug\netcoreapp2.1\1.Odd Lines.pdb
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\obj\Debug\netcoreapp2.1\1.Odd Lines.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\obj\Debug\netcoreapp2.1\1.Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\obj\Debug\netcoreapp2.1\1.Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\obj\Debug\netcoreapp2.1\1.Odd Lines.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\obj\Debug\netcoreapp2.1\1.Odd Lines.dll
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\obj\Debug\netcoreapp2.1\1.Odd Lines.pdb
+C:\Users\Asus\source\repos\Streams, Files and Directories\1.Odd Lines\bin\Debug\netcoreapp2.1\words.txt

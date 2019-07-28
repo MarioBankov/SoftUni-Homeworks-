@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\EqualArrays\bin\Debug\EqualArrays.exe.config
+C:\Users\Asus\source\repos\Arrays\EqualArrays\bin\Debug\EqualArrays.exe
+C:\Users\Asus\source\repos\Arrays\EqualArrays\bin\Debug\EqualArrays.pdb
+C:\Users\Asus\source\repos\Arrays\EqualArrays\obj\Debug\EqualArrays.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\EqualArrays\obj\Debug\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\EqualArrays\obj\Debug\EqualArrays.exe
+C:\Users\Asus\source\repos\Arrays\EqualArrays\obj\Debug\EqualArrays.pdb

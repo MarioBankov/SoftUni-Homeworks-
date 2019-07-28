@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\LadyBugs\bin\Debug\LadyBugs.exe.config
+C:\Users\Asus\source\repos\Arrays\LadyBugs\bin\Debug\LadyBugs.exe
+C:\Users\Asus\source\repos\Arrays\LadyBugs\bin\Debug\LadyBugs.pdb
+C:\Users\Asus\source\repos\Arrays\LadyBugs\obj\Debug\LadyBugs.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\LadyBugs\obj\Debug\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\LadyBugs\obj\Debug\LadyBugs.exe
+C:\Users\Asus\source\repos\Arrays\LadyBugs\obj\Debug\LadyBugs.pdb

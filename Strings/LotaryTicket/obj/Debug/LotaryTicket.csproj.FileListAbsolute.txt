@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Strings\LotaryTicket\bin\Debug\LotaryTicket.exe.config
+C:\Users\Asus\source\repos\Strings\LotaryTicket\bin\Debug\LotaryTicket.exe
+C:\Users\Asus\source\repos\Strings\LotaryTicket\bin\Debug\LotaryTicket.pdb
+C:\Users\Asus\source\repos\Strings\LotaryTicket\obj\Debug\LotaryTicket.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Strings\LotaryTicket\obj\Debug\LotaryTicket.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\LotaryTicket\obj\Debug\LotaryTicket.exe
+C:\Users\Asus\source\repos\Strings\LotaryTicket\obj\Debug\LotaryTicket.pdb

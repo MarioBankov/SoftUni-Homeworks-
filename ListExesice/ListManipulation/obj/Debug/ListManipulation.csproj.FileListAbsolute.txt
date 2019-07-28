@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExesice\ListManipulation\bin\Debug\ListManipulation.exe.config
+C:\Users\Asus\source\repos\ListExesice\ListManipulation\bin\Debug\ListManipulation.exe
+C:\Users\Asus\source\repos\ListExesice\ListManipulation\bin\Debug\ListManipulation.pdb
+C:\Users\Asus\source\repos\ListExesice\ListManipulation\obj\Debug\ListManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\ListManipulation\obj\Debug\ListManipulation.exe
+C:\Users\Asus\source\repos\ListExesice\ListManipulation\obj\Debug\ListManipulation.pdb

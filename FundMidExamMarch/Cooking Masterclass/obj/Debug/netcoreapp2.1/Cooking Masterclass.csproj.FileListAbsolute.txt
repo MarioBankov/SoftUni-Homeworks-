@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\bin\Debug\netcoreapp2.1\Cooking Masterclass.deps.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\bin\Debug\netcoreapp2.1\Cooking Masterclass.runtimeconfig.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\bin\Debug\netcoreapp2.1\Cooking Masterclass.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\bin\Debug\netcoreapp2.1\Cooking Masterclass.dll
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\bin\Debug\netcoreapp2.1\Cooking Masterclass.pdb
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\obj\Debug\netcoreapp2.1\Cooking Masterclass.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\obj\Debug\netcoreapp2.1\Cooking Masterclass.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\obj\Debug\netcoreapp2.1\Cooking Masterclass.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\obj\Debug\netcoreapp2.1\Cooking Masterclass.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\obj\Debug\netcoreapp2.1\Cooking Masterclass.dll
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Masterclass\obj\Debug\netcoreapp2.1\Cooking Masterclass.pdb

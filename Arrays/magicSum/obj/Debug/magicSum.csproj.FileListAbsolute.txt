@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Arrays\magicSum\bin\Debug\magicSum.exe.config
+C:\Users\Asus\source\repos\Arrays\magicSum\bin\Debug\magicSum.exe
+C:\Users\Asus\source\repos\Arrays\magicSum\bin\Debug\magicSum.pdb
+C:\Users\Asus\source\repos\Arrays\magicSum\obj\Debug\magicSum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\magicSum\obj\Debug\magicSum.exe
+C:\Users\Asus\source\repos\Arrays\magicSum\obj\Debug\magicSum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.deps.json
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.dll
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.pdb
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.dll
+C:\Users\Asus\source\repos\ListExersice3\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.pdb

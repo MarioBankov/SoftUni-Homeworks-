@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice2\TakeSkipRope\bin\Debug\TakeSkipRope.exe.config
+C:\Users\Asus\source\repos\ListExersice2\TakeSkipRope\bin\Debug\TakeSkipRope.exe
+C:\Users\Asus\source\repos\ListExersice2\TakeSkipRope\bin\Debug\TakeSkipRope.pdb
+C:\Users\Asus\source\repos\ListExersice2\TakeSkipRope\obj\Debug\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice2\TakeSkipRope\obj\Debug\TakeSkipRope.exe
+C:\Users\Asus\source\repos\ListExersice2\TakeSkipRope\obj\Debug\TakeSkipRope.pdb
+C:\Users\Asus\source\repos\ListExersice2\TakeSkipRope\obj\Debug\TakeSkipRope.csprojAssemblyReference.cache

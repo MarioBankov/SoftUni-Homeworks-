@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\obj\Debug\netcoreapp2.1\Trafic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\obj\Debug\netcoreapp2.1\Trafic Jam.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\obj\Debug\netcoreapp2.1\Trafic Jam.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\bin\Debug\netcoreapp2.1\Trafic Jam.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\bin\Debug\netcoreapp2.1\Trafic Jam.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\bin\Debug\netcoreapp2.1\Trafic Jam.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\bin\Debug\netcoreapp2.1\Trafic Jam.dll
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\bin\Debug\netcoreapp2.1\Trafic Jam.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\obj\Debug\netcoreapp2.1\Trafic Jam.dll
+C:\Users\Asus\source\repos\StacksAndQueues\Trafic Jam\obj\Debug\netcoreapp2.1\Trafic Jam.pdb

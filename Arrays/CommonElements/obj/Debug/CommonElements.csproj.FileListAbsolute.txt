@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Arrays\CommonElements\bin\Debug\CommonElements.exe.config
+C:\Users\Asus\source\repos\Arrays\CommonElements\bin\Debug\CommonElements.exe
+C:\Users\Asus\source\repos\Arrays\CommonElements\bin\Debug\CommonElements.pdb
+C:\Users\Asus\source\repos\Arrays\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\CommonElements\obj\Debug\CommonElements.exe
+C:\Users\Asus\source\repos\Arrays\CommonElements\obj\Debug\CommonElements.pdb

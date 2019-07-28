@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\AppendArrays\bin\Debug\AppendArrays.exe.config
+C:\Users\Asus\source\repos\ListExersice\AppendArrays\bin\Debug\AppendArrays.exe
+C:\Users\Asus\source\repos\ListExersice\AppendArrays\bin\Debug\AppendArrays.pdb
+C:\Users\Asus\source\repos\ListExersice\AppendArrays\obj\Debug\AppendArrays.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice\AppendArrays\obj\Debug\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\AppendArrays\obj\Debug\AppendArrays.exe
+C:\Users\Asus\source\repos\ListExersice\AppendArrays\obj\Debug\AppendArrays.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.dll
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp2.1\HotPotato.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.dll
+C:\Users\Asus\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp2.1\HotPotato.pdb

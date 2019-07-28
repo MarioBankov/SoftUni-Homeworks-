@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Dictionarys\MinorTask\bin\Debug\MinorTask.exe.config
+C:\Users\Asus\source\repos\Dictionarys\MinorTask\bin\Debug\MinorTask.exe
+C:\Users\Asus\source\repos\Dictionarys\MinorTask\bin\Debug\MinorTask.pdb
+C:\Users\Asus\source\repos\Dictionarys\MinorTask\obj\Debug\MinorTask.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\MinorTask\obj\Debug\MinorTask.exe
+C:\Users\Asus\source\repos\Dictionarys\MinorTask\obj\Debug\MinorTask.pdb

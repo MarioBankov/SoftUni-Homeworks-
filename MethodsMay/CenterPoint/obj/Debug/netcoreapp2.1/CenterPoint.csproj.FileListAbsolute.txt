@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.deps.json
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.dll
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.pdb
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.dll
+C:\Users\Asus\source\repos\MethodsMay\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.pdb

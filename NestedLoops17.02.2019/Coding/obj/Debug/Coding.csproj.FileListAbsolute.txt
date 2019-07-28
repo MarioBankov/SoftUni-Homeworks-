@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Coding\bin\Debug\Coding.exe.config
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Coding\bin\Debug\Coding.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Coding\bin\Debug\Coding.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Coding\obj\Debug\Coding.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Coding\obj\Debug\Coding.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Coding\obj\Debug\Coding.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\TopIntegers\bin\Debug\TopIntegers.exe.config
+C:\Users\Asus\source\repos\Arrays\TopIntegers\bin\Debug\TopIntegers.exe
+C:\Users\Asus\source\repos\Arrays\TopIntegers\bin\Debug\TopIntegers.pdb
+C:\Users\Asus\source\repos\Arrays\TopIntegers\obj\Debug\TopIntegers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\TopIntegers\obj\Debug\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\TopIntegers\obj\Debug\TopIntegers.exe
+C:\Users\Asus\source\repos\Arrays\TopIntegers\obj\Debug\TopIntegers.pdb

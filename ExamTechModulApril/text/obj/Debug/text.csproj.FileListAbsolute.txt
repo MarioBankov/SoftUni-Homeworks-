@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ExamTechModulApril\text\bin\Debug\text.exe.config
+C:\Users\Asus\source\repos\ExamTechModulApril\text\bin\Debug\text.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\text\bin\Debug\text.pdb
+C:\Users\Asus\source\repos\ExamTechModulApril\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\text\obj\Debug\text.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\text\obj\Debug\text.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Strings\TextFilter\bin\Debug\TextFilter.exe.config
+C:\Users\Asus\source\repos\Strings\TextFilter\bin\Debug\TextFilter.exe
+C:\Users\Asus\source\repos\Strings\TextFilter\bin\Debug\TextFilter.pdb
+C:\Users\Asus\source\repos\Strings\TextFilter\obj\Debug\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\TextFilter\obj\Debug\TextFilter.exe
+C:\Users\Asus\source\repos\Strings\TextFilter\obj\Debug\TextFilter.pdb

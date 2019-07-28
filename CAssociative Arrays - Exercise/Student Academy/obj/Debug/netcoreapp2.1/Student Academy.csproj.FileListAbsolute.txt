@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.deps.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.dll
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.pdb
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.dll
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.pdb

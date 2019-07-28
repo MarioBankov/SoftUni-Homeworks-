@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\bin\Debug\netcoreapp2.1\ReversedArray.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\bin\Debug\netcoreapp2.1\ReversedArray.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\bin\Debug\netcoreapp2.1\ReversedArray.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\bin\Debug\netcoreapp2.1\ReversedArray.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\bin\Debug\netcoreapp2.1\ReversedArray.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\obj\Debug\netcoreapp2.1\ReversedArray.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\obj\Debug\netcoreapp2.1\ReversedArray.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\obj\Debug\netcoreapp2.1\ReversedArray.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\obj\Debug\netcoreapp2.1\ReversedArray.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\obj\Debug\netcoreapp2.1\ReversedArray.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\ReversedArray\obj\Debug\netcoreapp2.1\ReversedArray.pdb

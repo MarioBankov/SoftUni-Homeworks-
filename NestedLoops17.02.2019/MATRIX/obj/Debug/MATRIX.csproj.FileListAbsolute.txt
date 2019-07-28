@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\MATRIX\bin\Debug\MATRIX.exe.config
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\MATRIX\bin\Debug\MATRIX.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\MATRIX\bin\Debug\MATRIX.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\MATRIX\obj\Debug\MATRIX.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\MATRIX\obj\Debug\MATRIX.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\MATRIX\obj\Debug\MATRIX.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\MATRIX\obj\Debug\MATRIX.pdb

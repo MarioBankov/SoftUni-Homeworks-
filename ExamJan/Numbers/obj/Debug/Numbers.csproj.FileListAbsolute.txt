@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamJan\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Asus\source\repos\ExamJan\Numbers\bin\Debug\Numbers.exe
+C:\Users\Asus\source\repos\ExamJan\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Asus\source\repos\ExamJan\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamJan\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamJan\Numbers\obj\Debug\Numbers.exe
+C:\Users\Asus\source\repos\ExamJan\Numbers\obj\Debug\Numbers.pdb

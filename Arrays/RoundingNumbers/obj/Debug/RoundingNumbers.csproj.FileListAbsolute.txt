@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+C:\Users\Asus\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+C:\Users\Asus\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+C:\Users\Asus\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+C:\Users\Asus\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

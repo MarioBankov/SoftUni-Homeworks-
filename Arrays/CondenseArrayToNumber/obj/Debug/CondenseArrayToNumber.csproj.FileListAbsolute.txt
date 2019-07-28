@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+C:\Users\Asus\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+C:\Users\Asus\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+C:\Users\Asus\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+C:\Users\Asus\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb
+C:\Users\Asus\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csprojAssemblyReference.cache

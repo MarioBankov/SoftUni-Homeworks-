@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\bin\Debug\netcoreapp2.1\PrimeChecker.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\bin\Debug\netcoreapp2.1\PrimeChecker.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\bin\Debug\netcoreapp2.1\PrimeChecker.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\bin\Debug\netcoreapp2.1\PrimeChecker.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\bin\Debug\netcoreapp2.1\PrimeChecker.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\obj\Debug\netcoreapp2.1\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\obj\Debug\netcoreapp2.1\PrimeChecker.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\obj\Debug\netcoreapp2.1\PrimeChecker.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\obj\Debug\netcoreapp2.1\PrimeChecker.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PrimeChecker\obj\Debug\netcoreapp2.1\PrimeChecker.pdb

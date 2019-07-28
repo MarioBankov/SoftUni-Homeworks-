@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice2\MixedUpLists\bin\Debug\MixedUpLists.exe.config
+C:\Users\Asus\source\repos\ListExersice2\MixedUpLists\bin\Debug\MixedUpLists.exe
+C:\Users\Asus\source\repos\ListExersice2\MixedUpLists\bin\Debug\MixedUpLists.pdb
+C:\Users\Asus\source\repos\ListExersice2\MixedUpLists\obj\Debug\MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice2\MixedUpLists\obj\Debug\MixedUpLists.exe
+C:\Users\Asus\source\repos\ListExersice2\MixedUpLists\obj\Debug\MixedUpLists.pdb
+C:\Users\Asus\source\repos\ListExersice2\MixedUpLists\obj\Debug\MixedUpLists.csprojAssemblyReference.cache

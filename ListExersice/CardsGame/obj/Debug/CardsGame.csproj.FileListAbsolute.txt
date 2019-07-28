@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\CardsGame\bin\Debug\CardsGame.exe.config
+C:\Users\Asus\source\repos\ListExersice\CardsGame\bin\Debug\CardsGame.exe
+C:\Users\Asus\source\repos\ListExersice\CardsGame\bin\Debug\CardsGame.pdb
+C:\Users\Asus\source\repos\ListExersice\CardsGame\obj\Debug\CardsGame.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice\CardsGame\obj\Debug\CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\CardsGame\obj\Debug\CardsGame.exe
+C:\Users\Asus\source\repos\ListExersice\CardsGame\obj\Debug\CardsGame.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.deps.json
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.runtimeconfig.json
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.pdb
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.pdb

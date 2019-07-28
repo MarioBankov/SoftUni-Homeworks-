@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Strings\RepeatString\bin\Debug\RepeatString.exe.config
+C:\Users\Asus\source\repos\Strings\RepeatString\bin\Debug\RepeatString.exe
+C:\Users\Asus\source\repos\Strings\RepeatString\bin\Debug\RepeatString.pdb
+C:\Users\Asus\source\repos\Strings\RepeatString\obj\Debug\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\RepeatString\obj\Debug\RepeatString.exe
+C:\Users\Asus\source\repos\Strings\RepeatString\obj\Debug\RepeatString.pdb

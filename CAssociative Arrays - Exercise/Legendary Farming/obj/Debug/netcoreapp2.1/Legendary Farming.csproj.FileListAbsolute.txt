@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.deps.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.dll
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.pdb
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.dll
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.pdb

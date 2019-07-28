@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\bin\Debug\netcoreapp2.1\RoundingNumbers.deps.json
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\bin\Debug\netcoreapp2.1\RoundingNumbers.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\bin\Debug\netcoreapp2.1\RoundingNumbers.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\bin\Debug\netcoreapp2.1\RoundingNumbers.dll
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\bin\Debug\netcoreapp2.1\RoundingNumbers.pdb
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\obj\Debug\netcoreapp2.1\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\obj\Debug\netcoreapp2.1\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\obj\Debug\netcoreapp2.1\RoundingNumbers.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\obj\Debug\netcoreapp2.1\RoundingNumbers.dll
+C:\Users\Asus\source\repos\ArraysMay\RoundingNumbers\obj\Debug\netcoreapp2.1\RoundingNumbers.pdb

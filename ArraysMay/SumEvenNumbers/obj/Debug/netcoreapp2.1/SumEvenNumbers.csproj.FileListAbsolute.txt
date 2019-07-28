@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.deps.json
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.dll
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.pdb
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.dll
+C:\Users\Asus\source\repos\ArraysMay\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.pdb

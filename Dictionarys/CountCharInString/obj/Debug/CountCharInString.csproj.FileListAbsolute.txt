@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\CountCharInString\bin\Debug\CountCharInString.exe.config
+C:\Users\Asus\source\repos\Dictionarys\CountCharInString\bin\Debug\CountCharInString.exe
+C:\Users\Asus\source\repos\Dictionarys\CountCharInString\bin\Debug\CountCharInString.pdb
+C:\Users\Asus\source\repos\Dictionarys\CountCharInString\obj\Debug\CountCharInString.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\CountCharInString\obj\Debug\CountCharInString.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\CountCharInString\obj\Debug\CountCharInString.exe
+C:\Users\Asus\source\repos\Dictionarys\CountCharInString\obj\Debug\CountCharInString.pdb

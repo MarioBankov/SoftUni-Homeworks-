@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Strings\problemOne\obj\Debug\problemOne.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Strings\problemOne\obj\Debug\problemOne.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\problemOne\bin\Debug\problemOne.exe.config
+C:\Users\Asus\source\repos\Strings\problemOne\bin\Debug\problemOne.exe
+C:\Users\Asus\source\repos\Strings\problemOne\bin\Debug\problemOne.pdb
+C:\Users\Asus\source\repos\Strings\problemOne\obj\Debug\problemOne.exe
+C:\Users\Asus\source\repos\Strings\problemOne\obj\Debug\problemOne.pdb

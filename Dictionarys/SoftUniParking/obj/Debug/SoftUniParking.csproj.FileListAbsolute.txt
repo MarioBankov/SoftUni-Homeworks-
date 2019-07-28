@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\SoftUniParking\bin\Debug\SoftUniParking.exe.config
+C:\Users\Asus\source\repos\Dictionarys\SoftUniParking\bin\Debug\SoftUniParking.exe
+C:\Users\Asus\source\repos\Dictionarys\SoftUniParking\bin\Debug\SoftUniParking.pdb
+C:\Users\Asus\source\repos\Dictionarys\SoftUniParking\obj\Debug\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\SoftUniParking\obj\Debug\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\SoftUniParking\obj\Debug\SoftUniParking.exe
+C:\Users\Asus\source\repos\Dictionarys\SoftUniParking\obj\Debug\SoftUniParking.pdb

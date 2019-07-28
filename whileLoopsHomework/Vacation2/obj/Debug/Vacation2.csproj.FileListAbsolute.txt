@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\whileLoopsHomework\Vacation2\bin\Debug\Vacation2.exe.config
+C:\Users\Asus\source\repos\whileLoopsHomework\Vacation2\bin\Debug\Vacation2.exe
+C:\Users\Asus\source\repos\whileLoopsHomework\Vacation2\bin\Debug\Vacation2.pdb
+C:\Users\Asus\source\repos\whileLoopsHomework\Vacation2\obj\Debug\Vacation2.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\whileLoopsHomework\Vacation2\obj\Debug\Vacation2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\whileLoopsHomework\Vacation2\obj\Debug\Vacation2.exe
+C:\Users\Asus\source\repos\whileLoopsHomework\Vacation2\obj\Debug\Vacation2.pdb

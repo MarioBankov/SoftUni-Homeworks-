@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\1.Train\bin\Debug\1.Train.exe.config
+C:\Users\Asus\source\repos\ListExersice\1.Train\bin\Debug\1.Train.exe
+C:\Users\Asus\source\repos\ListExersice\1.Train\bin\Debug\1.Train.pdb
+C:\Users\Asus\source\repos\ListExersice\1.Train\obj\Debug\1.Train.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice\1.Train\obj\Debug\1.Train.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\1.Train\obj\Debug\1.Train.exe
+C:\Users\Asus\source\repos\ListExersice\1.Train\obj\Debug\1.Train.pdb

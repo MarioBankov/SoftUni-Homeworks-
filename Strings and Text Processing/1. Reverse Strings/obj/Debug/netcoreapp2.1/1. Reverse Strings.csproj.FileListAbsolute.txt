@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.deps.json
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.runtimeconfig.json
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.dll
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.pdb
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.dll
+C:\Users\Asus\source\repos\Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.pdb

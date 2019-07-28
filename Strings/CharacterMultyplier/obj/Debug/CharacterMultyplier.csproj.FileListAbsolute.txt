@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Strings\CharacterMultyplier\bin\Debug\CharacterMultyplier.exe.config
+C:\Users\Asus\source\repos\Strings\CharacterMultyplier\bin\Debug\CharacterMultyplier.exe
+C:\Users\Asus\source\repos\Strings\CharacterMultyplier\bin\Debug\CharacterMultyplier.pdb
+C:\Users\Asus\source\repos\Strings\CharacterMultyplier\obj\Debug\CharacterMultyplier.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\CharacterMultyplier\obj\Debug\CharacterMultyplier.exe
+C:\Users\Asus\source\repos\Strings\CharacterMultyplier\obj\Debug\CharacterMultyplier.pdb

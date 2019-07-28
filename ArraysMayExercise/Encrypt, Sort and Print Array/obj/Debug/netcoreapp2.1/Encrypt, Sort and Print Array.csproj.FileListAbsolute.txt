@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.deps.json
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.pdb
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\Encrypt, Sort and Print Array.pdb

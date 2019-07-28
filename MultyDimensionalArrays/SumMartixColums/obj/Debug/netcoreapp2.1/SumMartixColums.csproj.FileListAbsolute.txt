@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\bin\Debug\netcoreapp2.1\SumMartixColums.deps.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\bin\Debug\netcoreapp2.1\SumMartixColums.runtimeconfig.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\bin\Debug\netcoreapp2.1\SumMartixColums.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\bin\Debug\netcoreapp2.1\SumMartixColums.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\bin\Debug\netcoreapp2.1\SumMartixColums.pdb
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\obj\Debug\netcoreapp2.1\SumMartixColums.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\obj\Debug\netcoreapp2.1\SumMartixColums.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\obj\Debug\netcoreapp2.1\SumMartixColums.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\obj\Debug\netcoreapp2.1\SumMartixColums.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\SumMartixColums\obj\Debug\netcoreapp2.1\SumMartixColums.pdb

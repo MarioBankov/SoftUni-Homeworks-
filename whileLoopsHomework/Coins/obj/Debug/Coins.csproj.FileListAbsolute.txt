@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\whileLoopsHomework\Coins\bin\Debug\Coins.exe.config
+C:\Users\Asus\source\repos\whileLoopsHomework\Coins\bin\Debug\Coins.exe
+C:\Users\Asus\source\repos\whileLoopsHomework\Coins\bin\Debug\Coins.pdb
+C:\Users\Asus\source\repos\whileLoopsHomework\Coins\obj\Debug\Coins.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\whileLoopsHomework\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\whileLoopsHomework\Coins\obj\Debug\Coins.exe
+C:\Users\Asus\source\repos\whileLoopsHomework\Coins\obj\Debug\Coins.pdb

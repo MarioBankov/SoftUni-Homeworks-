@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\bin\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.deps.json
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\bin\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\bin\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\bin\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.dll
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\bin\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.pdb
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\obj\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\obj\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\obj\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\obj\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\obj\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.dll
+C:\Users\Asus\source\repos\ListExersice3\RemoveNegativesAndReverseLinq\obj\Debug\netcoreapp2.1\RemoveNegativesAndReverseLinq.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\bin\Debug\netcoreapp2.1\SizeOfTheFire.deps.json
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\bin\Debug\netcoreapp2.1\SizeOfTheFire.runtimeconfig.json
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\bin\Debug\netcoreapp2.1\SizeOfTheFire.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\bin\Debug\netcoreapp2.1\SizeOfTheFire.dll
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\bin\Debug\netcoreapp2.1\SizeOfTheFire.pdb
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\obj\Debug\netcoreapp2.1\SizeOfTheFire.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\obj\Debug\netcoreapp2.1\SizeOfTheFire.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\obj\Debug\netcoreapp2.1\SizeOfTheFire.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\obj\Debug\netcoreapp2.1\SizeOfTheFire.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\obj\Debug\netcoreapp2.1\SizeOfTheFire.dll
+C:\Users\Asus\source\repos\TechExamMarch10\SizeOfTheFire\obj\Debug\netcoreapp2.1\SizeOfTheFire.pdb

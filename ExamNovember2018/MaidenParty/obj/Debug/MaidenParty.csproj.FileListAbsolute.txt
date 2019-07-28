@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamNovember2018\MaidenParty\bin\Debug\MaidenParty.exe.config
+C:\Users\Asus\source\repos\ExamNovember2018\MaidenParty\bin\Debug\MaidenParty.exe
+C:\Users\Asus\source\repos\ExamNovember2018\MaidenParty\bin\Debug\MaidenParty.pdb
+C:\Users\Asus\source\repos\ExamNovember2018\MaidenParty\obj\Debug\MaidenParty.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamNovember2018\MaidenParty\obj\Debug\MaidenParty.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamNovember2018\MaidenParty\obj\Debug\MaidenParty.exe
+C:\Users\Asus\source\repos\ExamNovember2018\MaidenParty\obj\Debug\MaidenParty.pdb

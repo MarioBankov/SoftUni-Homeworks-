@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\bin\Debug\netcoreapp2.1\SumOnlyOdd.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\bin\Debug\netcoreapp2.1\SumOnlyOdd.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\bin\Debug\netcoreapp2.1\SumOnlyOdd.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\bin\Debug\netcoreapp2.1\SumOnlyOdd.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\bin\Debug\netcoreapp2.1\SumOnlyOdd.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\obj\Debug\netcoreapp2.1\SumOnlyOdd.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\obj\Debug\netcoreapp2.1\SumOnlyOdd.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\obj\Debug\netcoreapp2.1\SumOnlyOdd.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\obj\Debug\netcoreapp2.1\SumOnlyOdd.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\SumOnlyOdd\obj\Debug\netcoreapp2.1\SumOnlyOdd.pdb

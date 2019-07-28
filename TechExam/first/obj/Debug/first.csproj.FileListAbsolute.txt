@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\TechExam\first\bin\Debug\first.exe.config
+C:\Users\Asus\source\repos\TechExam\first\bin\Debug\first.exe
+C:\Users\Asus\source\repos\TechExam\first\bin\Debug\first.pdb
+C:\Users\Asus\source\repos\TechExam\first\obj\Debug\first.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechExam\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechExam\first\obj\Debug\first.exe
+C:\Users\Asus\source\repos\TechExam\first\obj\Debug\first.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\NumbersInReversOrder\bin\Debug\NumbersInReversOrder.exe.config
+C:\Users\Asus\source\repos\Arrays\NumbersInReversOrder\bin\Debug\NumbersInReversOrder.exe
+C:\Users\Asus\source\repos\Arrays\NumbersInReversOrder\bin\Debug\NumbersInReversOrder.pdb
+C:\Users\Asus\source\repos\Arrays\NumbersInReversOrder\obj\Debug\NumbersInReversOrder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\NumbersInReversOrder\obj\Debug\NumbersInReversOrder.exe
+C:\Users\Asus\source\repos\Arrays\NumbersInReversOrder\obj\Debug\NumbersInReversOrder.pdb
+C:\Users\Asus\source\repos\Arrays\NumbersInReversOrder\obj\Debug\NumbersInReversOrder.csprojAssemblyReference.cache

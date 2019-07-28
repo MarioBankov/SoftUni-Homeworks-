@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExesice\TEST\bin\Debug\TEST.exe.config
+C:\Users\Asus\source\repos\ListExesice\TEST\bin\Debug\TEST.exe
+C:\Users\Asus\source\repos\ListExesice\TEST\bin\Debug\TEST.pdb
+C:\Users\Asus\source\repos\ListExesice\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\TEST\obj\Debug\TEST.exe
+C:\Users\Asus\source\repos\ListExesice\TEST\obj\Debug\TEST.pdb

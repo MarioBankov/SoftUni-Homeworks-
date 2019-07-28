@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExesice\2. Sum Adjacent\bin\Debug\_2.Sum_Adjacent.exe.config
+C:\Users\Asus\source\repos\ListExesice\2. Sum Adjacent\bin\Debug\_2.Sum_Adjacent.exe
+C:\Users\Asus\source\repos\ListExesice\2. Sum Adjacent\bin\Debug\_2.Sum_Adjacent.pdb
+C:\Users\Asus\source\repos\ListExesice\2. Sum Adjacent\obj\Debug\2. Sum Adjacent.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\2. Sum Adjacent\obj\Debug\_2.Sum_Adjacent.exe
+C:\Users\Asus\source\repos\ListExesice\2. Sum Adjacent\obj\Debug\_2.Sum_Adjacent.pdb

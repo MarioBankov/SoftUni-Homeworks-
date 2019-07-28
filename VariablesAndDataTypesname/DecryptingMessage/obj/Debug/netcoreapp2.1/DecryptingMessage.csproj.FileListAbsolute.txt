@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\bin\Debug\netcoreapp2.1\DecryptingMessage.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\bin\Debug\netcoreapp2.1\DecryptingMessage.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\bin\Debug\netcoreapp2.1\DecryptingMessage.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\bin\Debug\netcoreapp2.1\DecryptingMessage.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\bin\Debug\netcoreapp2.1\DecryptingMessage.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\obj\Debug\netcoreapp2.1\DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\obj\Debug\netcoreapp2.1\DecryptingMessage.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\obj\Debug\netcoreapp2.1\DecryptingMessage.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\obj\Debug\netcoreapp2.1\DecryptingMessage.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\DecryptingMessage\obj\Debug\netcoreapp2.1\DecryptingMessage.pdb

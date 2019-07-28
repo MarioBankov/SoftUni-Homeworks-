@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ConsoleApp1\songs\bin\Debug\songs.exe.config
+C:\Users\Asus\source\repos\ConsoleApp1\songs\bin\Debug\songs.exe
+C:\Users\Asus\source\repos\ConsoleApp1\songs\bin\Debug\songs.pdb
+C:\Users\Asus\source\repos\ConsoleApp1\songs\obj\Debug\songs.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleApp1\songs\obj\Debug\songs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleApp1\songs\obj\Debug\songs.exe
+C:\Users\Asus\source\repos\ConsoleApp1\songs\obj\Debug\songs.pdb

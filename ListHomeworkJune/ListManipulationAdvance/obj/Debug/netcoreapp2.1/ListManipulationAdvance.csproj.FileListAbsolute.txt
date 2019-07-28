@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\obj\Debug\netcoreapp2.1\ListManipulationAdvance.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\obj\Debug\netcoreapp2.1\ListManipulationAdvance.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\obj\Debug\netcoreapp2.1\ListManipulationAdvance.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\obj\Debug\netcoreapp2.1\ListManipulationAdvance.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\bin\Debug\netcoreapp2.1\ListManipulationAdvance.deps.json
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\bin\Debug\netcoreapp2.1\ListManipulationAdvance.runtimeconfig.json
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\bin\Debug\netcoreapp2.1\ListManipulationAdvance.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\bin\Debug\netcoreapp2.1\ListManipulationAdvance.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\bin\Debug\netcoreapp2.1\ListManipulationAdvance.pdb
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\obj\Debug\netcoreapp2.1\ListManipulationAdvance.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManipulationAdvance\obj\Debug\netcoreapp2.1\ListManipulationAdvance.pdb

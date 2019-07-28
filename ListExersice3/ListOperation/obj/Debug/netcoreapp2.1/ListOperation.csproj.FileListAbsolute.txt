@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\bin\Debug\netcoreapp2.1\ListOperation.deps.json
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\bin\Debug\netcoreapp2.1\ListOperation.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\bin\Debug\netcoreapp2.1\ListOperation.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\bin\Debug\netcoreapp2.1\ListOperation.dll
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\bin\Debug\netcoreapp2.1\ListOperation.pdb
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\obj\Debug\netcoreapp2.1\ListOperation.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\obj\Debug\netcoreapp2.1\ListOperation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\obj\Debug\netcoreapp2.1\ListOperation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\obj\Debug\netcoreapp2.1\ListOperation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\obj\Debug\netcoreapp2.1\ListOperation.dll
+C:\Users\Asus\source\repos\ListExersice3\ListOperation\obj\Debug\netcoreapp2.1\ListOperation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\NestedLoops\SumOFtwoNumbers\bin\Debug\SumOFtwoNumbers.exe.config
+C:\Users\Asus\source\repos\NestedLoops\SumOFtwoNumbers\bin\Debug\SumOFtwoNumbers.exe
+C:\Users\Asus\source\repos\NestedLoops\SumOFtwoNumbers\bin\Debug\SumOFtwoNumbers.pdb
+C:\Users\Asus\source\repos\NestedLoops\SumOFtwoNumbers\obj\Debug\SumOFtwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops\SumOFtwoNumbers\obj\Debug\SumOFtwoNumbers.exe
+C:\Users\Asus\source\repos\NestedLoops\SumOFtwoNumbers\obj\Debug\SumOFtwoNumbers.pdb

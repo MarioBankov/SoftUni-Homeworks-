@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\bin\Debug\netcoreapp2.1\LastDigitInEnglish.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\bin\Debug\netcoreapp2.1\LastDigitInEnglish.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\bin\Debug\netcoreapp2.1\LastDigitInEnglish.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\bin\Debug\netcoreapp2.1\LastDigitInEnglish.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\bin\Debug\netcoreapp2.1\LastDigitInEnglish.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\obj\Debug\netcoreapp2.1\LastDigitInEnglish.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\obj\Debug\netcoreapp2.1\LastDigitInEnglish.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\obj\Debug\netcoreapp2.1\LastDigitInEnglish.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\obj\Debug\netcoreapp2.1\LastDigitInEnglish.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\LastDigitInEnglish\obj\Debug\netcoreapp2.1\LastDigitInEnglish.pdb

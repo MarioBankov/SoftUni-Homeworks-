@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.deps.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.runtimeconfig.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.pdb
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.dll
+C:\Users\Asus\source\repos\ObjectsAndClasses\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.pdb

@@ -1,0 +1,7 @@
+c:\users\asus\source\repos\whileLoopsHomework\Graduation pt.2\bin\Debug\Graduation pt.2.exe.config
+c:\users\asus\source\repos\whileLoopsHomework\Graduation pt.2\bin\Debug\Graduation pt.2.exe
+c:\users\asus\source\repos\whileLoopsHomework\Graduation pt.2\bin\Debug\Graduation pt.2.pdb
+c:\users\asus\source\repos\whileLoopsHomework\Graduation pt.2\obj\Debug\Graduation pt.2.csprojAssemblyReference.cache
+c:\users\asus\source\repos\whileLoopsHomework\Graduation pt.2\obj\Debug\Graduation pt.2.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\whileLoopsHomework\Graduation pt.2\obj\Debug\Graduation pt.2.exe
+c:\users\asus\source\repos\whileLoopsHomework\Graduation pt.2\obj\Debug\Graduation pt.2.pdb

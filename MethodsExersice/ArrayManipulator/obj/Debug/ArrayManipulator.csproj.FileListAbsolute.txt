@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\MethodsExersice\ArrayManipulator\obj\Debug\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsExersice\ArrayManipulator\obj\Debug\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+C:\Users\Asus\source\repos\MethodsExersice\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+C:\Users\Asus\source\repos\MethodsExersice\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+C:\Users\Asus\source\repos\MethodsExersice\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flipTheArray", "flipTheArray\flipTheArray.csproj", "{10B95BD0-5A67-47CE-A6C8-EAD8D6C3916F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadArrayFromConsole", "ReadArrayFromConsole\ReadArrayFromConsole.csproj", "{7133F0FF-FBD1-4A59-A65B-319D14CA671E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySymmetry", "ArraySymmetry\ArraySymmetry.csproj", "{FA8E9F47-E27C-4B73-BA8C-A8AE6CDFE383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dArray", "2dArray\2dArray.csproj", "{390F6EB9-6300-4B81-9CB7-B6EB07DBF85D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B95BD0-5A67-47CE-A6C8-EAD8D6C3916F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B95BD0-5A67-47CE-A6C8-EAD8D6C3916F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B95BD0-5A67-47CE-A6C8-EAD8D6C3916F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B95BD0-5A67-47CE-A6C8-EAD8D6C3916F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7133F0FF-FBD1-4A59-A65B-319D14CA671E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7133F0FF-FBD1-4A59-A65B-319D14CA671E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7133F0FF-FBD1-4A59-A65B-319D14CA671E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7133F0FF-FBD1-4A59-A65B-319D14CA671E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8E9F47-E27C-4B73-BA8C-A8AE6CDFE383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8E9F47-E27C-4B73-BA8C-A8AE6CDFE383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8E9F47-E27C-4B73-BA8C-A8AE6CDFE383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8E9F47-E27C-4B73-BA8C-A8AE6CDFE383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390F6EB9-6300-4B81-9CB7-B6EB07DBF85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390F6EB9-6300-4B81-9CB7-B6EB07DBF85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390F6EB9-6300-4B81-9CB7-B6EB07DBF85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390F6EB9-6300-4B81-9CB7-B6EB07DBF85D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D263FF25-3FAD-487C-908A-F772514BB96C}
+	EndGlobalSection
+EndGlobal

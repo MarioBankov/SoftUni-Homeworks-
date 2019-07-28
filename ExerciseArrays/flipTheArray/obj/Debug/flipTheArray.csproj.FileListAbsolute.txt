@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExerciseArrays\flipTheArray\bin\Debug\flipTheArray.exe.config
+C:\Users\Asus\source\repos\ExerciseArrays\flipTheArray\bin\Debug\flipTheArray.exe
+C:\Users\Asus\source\repos\ExerciseArrays\flipTheArray\bin\Debug\flipTheArray.pdb
+C:\Users\Asus\source\repos\ExerciseArrays\flipTheArray\obj\Debug\flipTheArray.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExerciseArrays\flipTheArray\obj\Debug\flipTheArray.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExerciseArrays\flipTheArray\obj\Debug\flipTheArray.exe
+C:\Users\Asus\source\repos\ExerciseArrays\flipTheArray\obj\Debug\flipTheArray.pdb

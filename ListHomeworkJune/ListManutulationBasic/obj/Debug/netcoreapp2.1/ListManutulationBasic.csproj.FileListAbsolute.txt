@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\bin\Debug\netcoreapp2.1\ListManutulationBasic.deps.json
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\bin\Debug\netcoreapp2.1\ListManutulationBasic.runtimeconfig.json
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\bin\Debug\netcoreapp2.1\ListManutulationBasic.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\bin\Debug\netcoreapp2.1\ListManutulationBasic.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\bin\Debug\netcoreapp2.1\ListManutulationBasic.pdb
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\obj\Debug\netcoreapp2.1\ListManutulationBasic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\obj\Debug\netcoreapp2.1\ListManutulationBasic.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\obj\Debug\netcoreapp2.1\ListManutulationBasic.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\obj\Debug\netcoreapp2.1\ListManutulationBasic.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\ListManutulationBasic\obj\Debug\netcoreapp2.1\ListManutulationBasic.pdb

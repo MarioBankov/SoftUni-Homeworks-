@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\bin\Debug\netcoreapp2.1\Palindrome Integers.deps.json
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\bin\Debug\netcoreapp2.1\Palindrome Integers.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\bin\Debug\netcoreapp2.1\Palindrome Integers.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\bin\Debug\netcoreapp2.1\Palindrome Integers.dll
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\bin\Debug\netcoreapp2.1\Palindrome Integers.pdb
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\obj\Debug\netcoreapp2.1\Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\obj\Debug\netcoreapp2.1\Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\obj\Debug\netcoreapp2.1\Palindrome Integers.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\obj\Debug\netcoreapp2.1\Palindrome Integers.dll
+C:\Users\Asus\source\repos\MethodsMay\Palindrome Integers\obj\Debug\netcoreapp2.1\Palindrome Integers.pdb

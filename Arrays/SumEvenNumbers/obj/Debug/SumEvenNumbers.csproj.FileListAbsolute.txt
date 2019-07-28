@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe.config
+C:\Users\Asus\source\repos\Arrays\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe
+C:\Users\Asus\source\repos\Arrays\SumEvenNumbers\bin\Debug\SumEvenNumbers.pdb
+C:\Users\Asus\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.exe
+C:\Users\Asus\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.pdb

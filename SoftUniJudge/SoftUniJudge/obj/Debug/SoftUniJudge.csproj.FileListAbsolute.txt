@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\SoftUniJudge\SoftUniJudge\bin\Debug\SoftUniJudge.exe.config
+C:\Users\Asus\source\repos\SoftUniJudge\SoftUniJudge\bin\Debug\SoftUniJudge.exe
+C:\Users\Asus\source\repos\SoftUniJudge\SoftUniJudge\bin\Debug\SoftUniJudge.pdb
+C:\Users\Asus\source\repos\SoftUniJudge\SoftUniJudge\obj\Debug\SoftUniJudge.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SoftUniJudge\SoftUniJudge\obj\Debug\SoftUniJudge.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SoftUniJudge\SoftUniJudge\obj\Debug\SoftUniJudge.exe
+C:\Users\Asus\source\repos\SoftUniJudge\SoftUniJudge\obj\Debug\SoftUniJudge.pdb

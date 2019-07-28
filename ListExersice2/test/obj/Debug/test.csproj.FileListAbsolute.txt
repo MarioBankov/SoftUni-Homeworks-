@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExersice2\test\bin\Debug\test.exe.config
+C:\Users\Asus\source\repos\ListExersice2\test\bin\Debug\test.exe
+C:\Users\Asus\source\repos\ListExersice2\test\bin\Debug\test.pdb
+C:\Users\Asus\source\repos\ListExersice2\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice2\test\obj\Debug\test.exe
+C:\Users\Asus\source\repos\ListExersice2\test\obj\Debug\test.pdb

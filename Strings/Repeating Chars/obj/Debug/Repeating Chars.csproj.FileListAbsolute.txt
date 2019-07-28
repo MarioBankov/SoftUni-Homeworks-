@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Strings\Repeating Chars\bin\Debug\Repeating Chars.exe.config
+C:\Users\Asus\source\repos\Strings\Repeating Chars\bin\Debug\Repeating Chars.exe
+C:\Users\Asus\source\repos\Strings\Repeating Chars\bin\Debug\Repeating Chars.pdb
+C:\Users\Asus\source\repos\Strings\Repeating Chars\obj\Debug\Repeating Chars.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Strings\Repeating Chars\obj\Debug\Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\Repeating Chars\obj\Debug\Repeating Chars.exe
+C:\Users\Asus\source\repos\Strings\Repeating Chars\obj\Debug\Repeating Chars.pdb

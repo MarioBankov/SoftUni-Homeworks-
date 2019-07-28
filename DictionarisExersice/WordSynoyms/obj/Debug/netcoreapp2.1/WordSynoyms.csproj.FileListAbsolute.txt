@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\bin\Debug\netcoreapp2.1\WordSynoyms.deps.json
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\bin\Debug\netcoreapp2.1\WordSynoyms.runtimeconfig.json
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\bin\Debug\netcoreapp2.1\WordSynoyms.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\bin\Debug\netcoreapp2.1\WordSynoyms.dll
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\bin\Debug\netcoreapp2.1\WordSynoyms.pdb
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\obj\Debug\netcoreapp2.1\WordSynoyms.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\obj\Debug\netcoreapp2.1\WordSynoyms.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\obj\Debug\netcoreapp2.1\WordSynoyms.AssemblyInfo.cs
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\obj\Debug\netcoreapp2.1\WordSynoyms.dll
+C:\Users\Asus\source\repos\DictionarisExersice\WordSynoyms\obj\Debug\netcoreapp2.1\WordSynoyms.pdb

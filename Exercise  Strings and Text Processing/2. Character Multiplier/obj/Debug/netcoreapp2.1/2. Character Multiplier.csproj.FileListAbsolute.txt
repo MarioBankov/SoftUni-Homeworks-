@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp2.1\2. Character Multiplier.deps.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp2.1\2. Character Multiplier.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp2.1\2. Character Multiplier.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp2.1\2. Character Multiplier.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\bin\Debug\netcoreapp2.1\2. Character Multiplier.pdb
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp2.1\2. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp2.1\2. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp2.1\2. Character Multiplier.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp2.1\2. Character Multiplier.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\2. Character Multiplier\obj\Debug\netcoreapp2.1\2. Character Multiplier.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Strings\Substrings\bin\Debug\Substrings.exe.config
+C:\Users\Asus\source\repos\Strings\Substrings\bin\Debug\Substrings.exe
+C:\Users\Asus\source\repos\Strings\Substrings\bin\Debug\Substrings.pdb
+C:\Users\Asus\source\repos\Strings\Substrings\obj\Debug\Substrings.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\Substrings\obj\Debug\Substrings.exe
+C:\Users\Asus\source\repos\Strings\Substrings\obj\Debug\Substrings.pdb

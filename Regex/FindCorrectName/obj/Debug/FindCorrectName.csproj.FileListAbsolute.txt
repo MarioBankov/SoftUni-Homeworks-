@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Regex\FindCorrectName\bin\Debug\FindCorrectName.exe.config
+C:\Users\Asus\source\repos\Regex\FindCorrectName\bin\Debug\FindCorrectName.exe
+C:\Users\Asus\source\repos\Regex\FindCorrectName\bin\Debug\FindCorrectName.pdb
+C:\Users\Asus\source\repos\Regex\FindCorrectName\obj\Debug\FindCorrectName.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Regex\FindCorrectName\obj\Debug\FindCorrectName.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Regex\FindCorrectName\obj\Debug\FindCorrectName.exe
+C:\Users\Asus\source\repos\Regex\FindCorrectName\obj\Debug\FindCorrectName.pdb

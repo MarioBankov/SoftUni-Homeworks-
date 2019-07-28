@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Dictionarys\WordFilter\bin\Debug\WordFilter.exe.config
+C:\Users\Asus\source\repos\Dictionarys\WordFilter\bin\Debug\WordFilter.exe
+C:\Users\Asus\source\repos\Dictionarys\WordFilter\bin\Debug\WordFilter.pdb
+C:\Users\Asus\source\repos\Dictionarys\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\WordFilter\obj\Debug\WordFilter.exe
+C:\Users\Asus\source\repos\Dictionarys\WordFilter\obj\Debug\WordFilter.pdb

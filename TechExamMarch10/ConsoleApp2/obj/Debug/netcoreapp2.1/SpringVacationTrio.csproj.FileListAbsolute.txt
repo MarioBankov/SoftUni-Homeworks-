@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\bin\Debug\netcoreapp2.1\SpringVacationTrio.deps.json
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\bin\Debug\netcoreapp2.1\SpringVacationTrio.runtimeconfig.json
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\bin\Debug\netcoreapp2.1\SpringVacationTrio.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\bin\Debug\netcoreapp2.1\SpringVacationTrio.dll
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\bin\Debug\netcoreapp2.1\SpringVacationTrio.pdb
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\obj\Debug\netcoreapp2.1\SpringVacationTrio.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\obj\Debug\netcoreapp2.1\SpringVacationTrio.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\obj\Debug\netcoreapp2.1\SpringVacationTrio.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\obj\Debug\netcoreapp2.1\SpringVacationTrio.dll
+C:\Users\Asus\source\repos\TechExamMarch10\ConsoleApp2\obj\Debug\netcoreapp2.1\SpringVacationTrio.pdb

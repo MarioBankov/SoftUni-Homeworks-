@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.deps.json
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.runtimeconfig.json
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.pdb
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.pdb

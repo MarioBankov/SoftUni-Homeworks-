@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.deps.json
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.runtimeconfig.json
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.pdb
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.dll
+C:\Users\Asus\source\repos\Technology Fundamentals Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.pdb

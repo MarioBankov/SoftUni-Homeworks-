@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\bin\Debug\netcoreapp2.1\dungeon dark.deps.json
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\bin\Debug\netcoreapp2.1\dungeon dark.runtimeconfig.json
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\bin\Debug\netcoreapp2.1\dungeon dark.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\bin\Debug\netcoreapp2.1\dungeon dark.dll
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\bin\Debug\netcoreapp2.1\dungeon dark.pdb
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\obj\Debug\netcoreapp2.1\dungeon dark.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\obj\Debug\netcoreapp2.1\dungeon dark.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\obj\Debug\netcoreapp2.1\dungeon dark.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\obj\Debug\netcoreapp2.1\dungeon dark.dll
+C:\Users\Asus\source\repos\MidExam4November\dungeon dark\obj\Debug\netcoreapp2.1\dungeon dark.pdb

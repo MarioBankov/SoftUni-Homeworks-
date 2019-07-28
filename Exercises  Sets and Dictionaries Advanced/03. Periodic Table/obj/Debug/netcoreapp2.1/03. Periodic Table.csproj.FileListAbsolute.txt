@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.deps.json
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.dll
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.pdb
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.dll
+C:\Users\Asus\source\repos\Exercises  Sets and Dictionaries Advanced\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.pdb

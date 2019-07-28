@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\bin\Debug\netcoreapp2.1\Count Char.deps.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\bin\Debug\netcoreapp2.1\Count Char.runtimeconfig.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\bin\Debug\netcoreapp2.1\Count Char.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\bin\Debug\netcoreapp2.1\Count Char.dll
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\bin\Debug\netcoreapp2.1\Count Char.pdb
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\obj\Debug\netcoreapp2.1\Count Char.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\obj\Debug\netcoreapp2.1\Count Char.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\obj\Debug\netcoreapp2.1\Count Char.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\obj\Debug\netcoreapp2.1\Count Char.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\obj\Debug\netcoreapp2.1\Count Char.dll
+C:\Users\Asus\source\repos\CAssociative Arrays - Exercise\Count Char\obj\Debug\netcoreapp2.1\Count Char.pdb

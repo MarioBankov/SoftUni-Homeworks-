@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.dll
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.dll
+C:\Users\Asus\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.pdb

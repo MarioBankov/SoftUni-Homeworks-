@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.deps.json
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.dll
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.pdb
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.dll
+C:\Users\Asus\source\repos\MethodsMay\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.pdb

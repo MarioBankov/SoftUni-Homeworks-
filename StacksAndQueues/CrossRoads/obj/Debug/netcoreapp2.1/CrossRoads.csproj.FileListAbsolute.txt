@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\bin\Debug\netcoreapp2.1\CrossRoads.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\bin\Debug\netcoreapp2.1\CrossRoads.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\bin\Debug\netcoreapp2.1\CrossRoads.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\bin\Debug\netcoreapp2.1\CrossRoads.dll
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\bin\Debug\netcoreapp2.1\CrossRoads.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\obj\Debug\netcoreapp2.1\CrossRoads.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\obj\Debug\netcoreapp2.1\CrossRoads.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\obj\Debug\netcoreapp2.1\CrossRoads.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\obj\Debug\netcoreapp2.1\CrossRoads.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\obj\Debug\netcoreapp2.1\CrossRoads.dll
+C:\Users\Asus\source\repos\StacksAndQueues\CrossRoads\obj\Debug\netcoreapp2.1\CrossRoads.pdb

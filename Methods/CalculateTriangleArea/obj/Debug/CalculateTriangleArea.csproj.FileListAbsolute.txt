@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Methods\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+C:\Users\Asus\source\repos\Methods\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+C:\Users\Asus\source\repos\Methods\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+C:\Users\Asus\source\repos\Methods\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+C:\Users\Asus\source\repos\Methods\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

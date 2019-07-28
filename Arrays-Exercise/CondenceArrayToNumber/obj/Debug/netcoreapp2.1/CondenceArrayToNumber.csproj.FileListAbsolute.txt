@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\bin\Debug\netcoreapp2.1\CondenceArrayToNumber.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\bin\Debug\netcoreapp2.1\CondenceArrayToNumber.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\bin\Debug\netcoreapp2.1\CondenceArrayToNumber.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\bin\Debug\netcoreapp2.1\CondenceArrayToNumber.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\bin\Debug\netcoreapp2.1\CondenceArrayToNumber.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\obj\Debug\netcoreapp2.1\CondenceArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\obj\Debug\netcoreapp2.1\CondenceArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\obj\Debug\netcoreapp2.1\CondenceArrayToNumber.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\obj\Debug\netcoreapp2.1\CondenceArrayToNumber.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\CondenceArrayToNumber\obj\Debug\netcoreapp2.1\CondenceArrayToNumber.pdb

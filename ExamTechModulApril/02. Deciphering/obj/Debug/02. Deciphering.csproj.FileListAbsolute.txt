@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamTechModulApril\02. Deciphering\bin\Debug\_02.Deciphering.exe.config
+C:\Users\Asus\source\repos\ExamTechModulApril\02. Deciphering\bin\Debug\_02.Deciphering.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\02. Deciphering\bin\Debug\_02.Deciphering.pdb
+C:\Users\Asus\source\repos\ExamTechModulApril\02. Deciphering\obj\Debug\02. Deciphering.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\02. Deciphering\obj\Debug\02. Deciphering.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\02. Deciphering\obj\Debug\_02.Deciphering.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\02. Deciphering\obj\Debug\_02.Deciphering.pdb

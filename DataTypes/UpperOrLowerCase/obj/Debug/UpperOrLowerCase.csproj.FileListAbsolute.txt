@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\UpperOrLowerCase\bin\Debug\UpperOrLowerCase.exe.config
+C:\Users\Asus\source\repos\DataTypes\UpperOrLowerCase\bin\Debug\UpperOrLowerCase.exe
+C:\Users\Asus\source\repos\DataTypes\UpperOrLowerCase\bin\Debug\UpperOrLowerCase.pdb
+C:\Users\Asus\source\repos\DataTypes\UpperOrLowerCase\obj\Debug\UpperOrLowerCase.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\UpperOrLowerCase\obj\Debug\UpperOrLowerCase.exe
+C:\Users\Asus\source\repos\DataTypes\UpperOrLowerCase\obj\Debug\UpperOrLowerCase.pdb

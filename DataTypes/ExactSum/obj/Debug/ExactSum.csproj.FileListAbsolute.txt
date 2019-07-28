@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\ExactSum\bin\Debug\ExactSum.exe.config
+C:\Users\Asus\source\repos\DataTypes\ExactSum\bin\Debug\ExactSum.exe
+C:\Users\Asus\source\repos\DataTypes\ExactSum\bin\Debug\ExactSum.pdb
+C:\Users\Asus\source\repos\DataTypes\ExactSum\obj\Debug\ExactSum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\ExactSum\obj\Debug\ExactSum.exe
+C:\Users\Asus\source\repos\DataTypes\ExactSum\obj\Debug\ExactSum.pdb

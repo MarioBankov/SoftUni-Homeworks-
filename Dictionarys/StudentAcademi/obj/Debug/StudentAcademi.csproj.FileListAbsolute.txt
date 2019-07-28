@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\StudentAcademi\bin\Debug\StudentAcademi.exe.config
+C:\Users\Asus\source\repos\Dictionarys\StudentAcademi\bin\Debug\StudentAcademi.exe
+C:\Users\Asus\source\repos\Dictionarys\StudentAcademi\bin\Debug\StudentAcademi.pdb
+C:\Users\Asus\source\repos\Dictionarys\StudentAcademi\obj\Debug\StudentAcademi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\StudentAcademi\obj\Debug\StudentAcademi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\StudentAcademi\obj\Debug\StudentAcademi.exe
+C:\Users\Asus\source\repos\Dictionarys\StudentAcademi\obj\Debug\StudentAcademi.pdb

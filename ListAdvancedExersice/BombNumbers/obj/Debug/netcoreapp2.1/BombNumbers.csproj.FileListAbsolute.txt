@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.deps.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.runtimeconfig.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.pdb
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.dll
+C:\Users\Asus\source\repos\ListAdvancedExersice\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.pdb

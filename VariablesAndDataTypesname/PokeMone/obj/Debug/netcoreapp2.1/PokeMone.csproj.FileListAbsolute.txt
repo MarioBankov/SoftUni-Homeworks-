@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\bin\Debug\netcoreapp2.1\PokeMone.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\bin\Debug\netcoreapp2.1\PokeMone.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\bin\Debug\netcoreapp2.1\PokeMone.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\bin\Debug\netcoreapp2.1\PokeMone.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\bin\Debug\netcoreapp2.1\PokeMone.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\obj\Debug\netcoreapp2.1\PokeMone.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\obj\Debug\netcoreapp2.1\PokeMone.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\obj\Debug\netcoreapp2.1\PokeMone.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\obj\Debug\netcoreapp2.1\PokeMone.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\obj\Debug\netcoreapp2.1\PokeMone.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\PokeMone\obj\Debug\netcoreapp2.1\PokeMone.pdb

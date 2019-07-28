@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ClassExersice\Article\bin\Debug\Article.exe.config
+C:\Users\Asus\source\repos\ClassExersice\Article\bin\Debug\Article.exe
+C:\Users\Asus\source\repos\ClassExersice\Article\bin\Debug\Article.pdb
+C:\Users\Asus\source\repos\ClassExersice\Article\obj\Debug\Article.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ClassExersice\Article\obj\Debug\Article.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ClassExersice\Article\obj\Debug\Article.exe
+C:\Users\Asus\source\repos\ClassExersice\Article\obj\Debug\Article.pdb

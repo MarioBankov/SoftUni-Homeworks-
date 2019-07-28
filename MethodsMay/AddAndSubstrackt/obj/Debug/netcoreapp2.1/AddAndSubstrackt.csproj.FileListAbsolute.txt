@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\bin\Debug\netcoreapp2.1\AddAndSubstrackt.deps.json
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\bin\Debug\netcoreapp2.1\AddAndSubstrackt.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\bin\Debug\netcoreapp2.1\AddAndSubstrackt.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\bin\Debug\netcoreapp2.1\AddAndSubstrackt.dll
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\bin\Debug\netcoreapp2.1\AddAndSubstrackt.pdb
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\obj\Debug\netcoreapp2.1\AddAndSubstrackt.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\obj\Debug\netcoreapp2.1\AddAndSubstrackt.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\obj\Debug\netcoreapp2.1\AddAndSubstrackt.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\obj\Debug\netcoreapp2.1\AddAndSubstrackt.dll
+C:\Users\Asus\source\repos\MethodsMay\AddAndSubstrackt\obj\Debug\netcoreapp2.1\AddAndSubstrackt.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\MethodsExersice\SpecialNumber\bin\Debug\SpecialNumber.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\SpecialNumber\bin\Debug\SpecialNumber.exe
+C:\Users\Asus\source\repos\MethodsExersice\SpecialNumber\bin\Debug\SpecialNumber.pdb
+C:\Users\Asus\source\repos\MethodsExersice\SpecialNumber\obj\Debug\SpecialNumber.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsExersice\SpecialNumber\obj\Debug\SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\SpecialNumber\obj\Debug\SpecialNumber.exe
+C:\Users\Asus\source\repos\MethodsExersice\SpecialNumber\obj\Debug\SpecialNumber.pdb

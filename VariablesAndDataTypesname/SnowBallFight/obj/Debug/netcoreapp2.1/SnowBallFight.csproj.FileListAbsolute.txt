@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\bin\Debug\netcoreapp2.1\SnowBallFight.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\bin\Debug\netcoreapp2.1\SnowBallFight.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\bin\Debug\netcoreapp2.1\SnowBallFight.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\bin\Debug\netcoreapp2.1\SnowBallFight.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\bin\Debug\netcoreapp2.1\SnowBallFight.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\obj\Debug\netcoreapp2.1\SnowBallFight.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\obj\Debug\netcoreapp2.1\SnowBallFight.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\obj\Debug\netcoreapp2.1\SnowBallFight.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\obj\Debug\netcoreapp2.1\SnowBallFight.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\obj\Debug\netcoreapp2.1\SnowBallFight.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SnowBallFight\obj\Debug\netcoreapp2.1\SnowBallFight.pdb

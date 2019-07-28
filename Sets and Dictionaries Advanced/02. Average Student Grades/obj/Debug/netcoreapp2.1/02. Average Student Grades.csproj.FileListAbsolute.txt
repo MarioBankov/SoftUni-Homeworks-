@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.deps.json
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.runtimeconfig.json
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.dll
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.pdb
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.dll
+C:\Users\Asus\source\repos\Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.pdb

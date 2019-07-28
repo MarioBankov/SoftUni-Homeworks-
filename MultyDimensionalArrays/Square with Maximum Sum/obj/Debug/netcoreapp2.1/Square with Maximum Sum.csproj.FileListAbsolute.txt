@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.deps.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.runtimeconfig.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.pdb
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.pdb

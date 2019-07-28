@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\DataTypes\piramid\bin\Debug\piramid.exe.config
+C:\Users\Asus\source\repos\DataTypes\piramid\bin\Debug\piramid.exe
+C:\Users\Asus\source\repos\DataTypes\piramid\bin\Debug\piramid.pdb
+C:\Users\Asus\source\repos\DataTypes\piramid\obj\Debug\piramid.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\DataTypes\piramid\obj\Debug\piramid.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\piramid\obj\Debug\piramid.exe
+C:\Users\Asus\source\repos\DataTypes\piramid\obj\Debug\piramid.pdb

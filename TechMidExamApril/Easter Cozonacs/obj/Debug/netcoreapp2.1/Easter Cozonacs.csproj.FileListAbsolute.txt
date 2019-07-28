@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\bin\Debug\netcoreapp2.1\Easter Cozonacs.deps.json
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\bin\Debug\netcoreapp2.1\Easter Cozonacs.runtimeconfig.json
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\bin\Debug\netcoreapp2.1\Easter Cozonacs.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\bin\Debug\netcoreapp2.1\Easter Cozonacs.dll
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\bin\Debug\netcoreapp2.1\Easter Cozonacs.pdb
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\obj\Debug\netcoreapp2.1\Easter Cozonacs.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\obj\Debug\netcoreapp2.1\Easter Cozonacs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\obj\Debug\netcoreapp2.1\Easter Cozonacs.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\obj\Debug\netcoreapp2.1\Easter Cozonacs.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\obj\Debug\netcoreapp2.1\Easter Cozonacs.dll
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Cozonacs\obj\Debug\netcoreapp2.1\Easter Cozonacs.pdb

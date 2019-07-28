@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\bin\Debug\netcoreapp2.1\SpiceMustFlow.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\bin\Debug\netcoreapp2.1\SpiceMustFlow.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\bin\Debug\netcoreapp2.1\SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\bin\Debug\netcoreapp2.1\SpiceMustFlow.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\bin\Debug\netcoreapp2.1\SpiceMustFlow.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\obj\Debug\netcoreapp2.1\SpiceMustFlow.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\obj\Debug\netcoreapp2.1\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\obj\Debug\netcoreapp2.1\SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\obj\Debug\netcoreapp2.1\SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\obj\Debug\netcoreapp2.1\SpiceMustFlow.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\SpiceMustFlow\obj\Debug\netcoreapp2.1\SpiceMustFlow.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Strings\Multiply Big Number\bin\Debug\Multiply Big Number.exe.config
+C:\Users\Asus\source\repos\Strings\Multiply Big Number\bin\Debug\Multiply Big Number.exe
+C:\Users\Asus\source\repos\Strings\Multiply Big Number\bin\Debug\Multiply Big Number.pdb
+C:\Users\Asus\source\repos\Strings\Multiply Big Number\obj\Debug\Multiply Big Number.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Strings\Multiply Big Number\obj\Debug\Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\Multiply Big Number\obj\Debug\Multiply Big Number.exe
+C:\Users\Asus\source\repos\Strings\Multiply Big Number\obj\Debug\Multiply Big Number.pdb

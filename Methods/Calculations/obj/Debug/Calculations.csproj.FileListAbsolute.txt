@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Methods\Calculations\bin\Debug\Calculations.exe.config
+C:\Users\Asus\source\repos\Methods\Calculations\bin\Debug\Calculations.exe
+C:\Users\Asus\source\repos\Methods\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Asus\source\repos\Methods\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\Calculations\obj\Debug\Calculations.exe
+C:\Users\Asus\source\repos\Methods\Calculations\obj\Debug\Calculations.pdb

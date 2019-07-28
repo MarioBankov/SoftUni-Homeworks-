@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\SumOfPrimeAndNonPrimeNumbers\bin\Debug\SumOfPrimeAndNonPrimeNumbers.exe.config
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\SumOfPrimeAndNonPrimeNumbers\bin\Debug\SumOfPrimeAndNonPrimeNumbers.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\SumOfPrimeAndNonPrimeNumbers\bin\Debug\SumOfPrimeAndNonPrimeNumbers.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\SumOfPrimeAndNonPrimeNumbers\obj\Debug\SumOfPrimeAndNonPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\SumOfPrimeAndNonPrimeNumbers\obj\Debug\SumOfPrimeAndNonPrimeNumbers.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\SumOfPrimeAndNonPrimeNumbers\obj\Debug\SumOfPrimeAndNonPrimeNumbers.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\SumOfPrimeAndNonPrimeNumbers\obj\Debug\SumOfPrimeAndNonPrimeNumbers.csprojAssemblyReference.cache

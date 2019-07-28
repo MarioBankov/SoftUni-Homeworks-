@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumLeftRightPosition\bin\Debug\EqualSumLeftRightPosition.exe.config
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumLeftRightPosition\bin\Debug\EqualSumLeftRightPosition.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumLeftRightPosition\bin\Debug\EqualSumLeftRightPosition.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumLeftRightPosition\obj\Debug\EqualSumLeftRightPosition.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumLeftRightPosition\obj\Debug\EqualSumLeftRightPosition.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumLeftRightPosition\obj\Debug\EqualSumLeftRightPosition.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumLeftRightPosition\obj\Debug\EqualSumLeftRightPosition.pdb

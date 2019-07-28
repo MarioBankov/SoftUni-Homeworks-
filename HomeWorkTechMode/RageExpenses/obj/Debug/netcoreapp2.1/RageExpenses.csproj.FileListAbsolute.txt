@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.deps.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.pdb
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.dll
+C:\Users\Asus\source\repos\HomeWorkTechMode\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.pdb

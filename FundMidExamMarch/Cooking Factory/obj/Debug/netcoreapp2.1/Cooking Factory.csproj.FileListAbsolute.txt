@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\bin\Debug\netcoreapp2.1\Cooking Factory.deps.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\bin\Debug\netcoreapp2.1\Cooking Factory.runtimeconfig.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\bin\Debug\netcoreapp2.1\Cooking Factory.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\bin\Debug\netcoreapp2.1\Cooking Factory.dll
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\bin\Debug\netcoreapp2.1\Cooking Factory.pdb
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\obj\Debug\netcoreapp2.1\Cooking Factory.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\obj\Debug\netcoreapp2.1\Cooking Factory.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\obj\Debug\netcoreapp2.1\Cooking Factory.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\obj\Debug\netcoreapp2.1\Cooking Factory.dll
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\obj\Debug\netcoreapp2.1\Cooking Factory.pdb
+C:\Users\Asus\source\repos\FundMidExamMarch\Cooking Factory\obj\Debug\netcoreapp2.1\Cooking Factory.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.deps.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.runtimeconfig.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.pdb
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.pdb

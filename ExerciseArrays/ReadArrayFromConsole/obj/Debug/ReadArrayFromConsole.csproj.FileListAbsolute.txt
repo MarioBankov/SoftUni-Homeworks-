@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExerciseArrays\ReadArrayFromConsole\bin\Debug\ReadArrayFromConsole.exe.config
+C:\Users\Asus\source\repos\ExerciseArrays\ReadArrayFromConsole\bin\Debug\ReadArrayFromConsole.exe
+C:\Users\Asus\source\repos\ExerciseArrays\ReadArrayFromConsole\bin\Debug\ReadArrayFromConsole.pdb
+C:\Users\Asus\source\repos\ExerciseArrays\ReadArrayFromConsole\obj\Debug\ReadArrayFromConsole.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExerciseArrays\ReadArrayFromConsole\obj\Debug\ReadArrayFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExerciseArrays\ReadArrayFromConsole\obj\Debug\ReadArrayFromConsole.exe
+C:\Users\Asus\source\repos\ExerciseArrays\ReadArrayFromConsole\obj\Debug\ReadArrayFromConsole.pdb

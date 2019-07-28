@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\bin\Debug\netcoreapp2.1\ListManupulationAdvanced.deps.json
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\bin\Debug\netcoreapp2.1\ListManupulationAdvanced.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\bin\Debug\netcoreapp2.1\ListManupulationAdvanced.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\bin\Debug\netcoreapp2.1\ListManupulationAdvanced.dll
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\bin\Debug\netcoreapp2.1\ListManupulationAdvanced.pdb
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\obj\Debug\netcoreapp2.1\ListManupulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\obj\Debug\netcoreapp2.1\ListManupulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\obj\Debug\netcoreapp2.1\ListManupulationAdvanced.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\obj\Debug\netcoreapp2.1\ListManupulationAdvanced.dll
+C:\Users\Asus\source\repos\ListExersice3\ListManupulationAdvanced\obj\Debug\netcoreapp2.1\ListManupulationAdvanced.pdb

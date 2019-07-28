@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\TownInfo\bin\Debug\TownInfo.exe.config
+C:\Users\Asus\source\repos\DataTypes\TownInfo\bin\Debug\TownInfo.exe
+C:\Users\Asus\source\repos\DataTypes\TownInfo\bin\Debug\TownInfo.pdb
+C:\Users\Asus\source\repos\DataTypes\TownInfo\obj\Debug\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\TownInfo\obj\Debug\TownInfo.exe
+C:\Users\Asus\source\repos\DataTypes\TownInfo\obj\Debug\TownInfo.pdb

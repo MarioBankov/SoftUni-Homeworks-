@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\bin\Debug\netcoreapp2.1\BalancetBrackets.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\bin\Debug\netcoreapp2.1\BalancetBrackets.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\bin\Debug\netcoreapp2.1\BalancetBrackets.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\bin\Debug\netcoreapp2.1\BalancetBrackets.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\bin\Debug\netcoreapp2.1\BalancetBrackets.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\obj\Debug\netcoreapp2.1\BalancetBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\obj\Debug\netcoreapp2.1\BalancetBrackets.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\obj\Debug\netcoreapp2.1\BalancetBrackets.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\obj\Debug\netcoreapp2.1\BalancetBrackets.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\obj\Debug\netcoreapp2.1\BalancetBrackets.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\BalancetBrackets\obj\Debug\netcoreapp2.1\BalancetBrackets.csprojAssemblyReference.cache

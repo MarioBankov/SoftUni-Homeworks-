@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\bin\Debug\netcoreapp2.1\Bread Factory.deps.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\bin\Debug\netcoreapp2.1\Bread Factory.runtimeconfig.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\bin\Debug\netcoreapp2.1\Bread Factory.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\bin\Debug\netcoreapp2.1\Bread Factory.dll
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\bin\Debug\netcoreapp2.1\Bread Factory.pdb
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\obj\Debug\netcoreapp2.1\Bread Factory.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\obj\Debug\netcoreapp2.1\Bread Factory.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\obj\Debug\netcoreapp2.1\Bread Factory.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\obj\Debug\netcoreapp2.1\Bread Factory.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\obj\Debug\netcoreapp2.1\Bread Factory.dll
+C:\Users\Asus\source\repos\FundMidExamMarch\Bread Factory\obj\Debug\netcoreapp2.1\Bread Factory.pdb

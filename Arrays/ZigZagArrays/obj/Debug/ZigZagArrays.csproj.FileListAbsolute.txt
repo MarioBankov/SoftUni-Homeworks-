@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Arrays\ZigZagArrays\bin\Debug\ZigZagArrays.exe.config
+C:\Users\Asus\source\repos\Arrays\ZigZagArrays\bin\Debug\ZigZagArrays.exe
+C:\Users\Asus\source\repos\Arrays\ZigZagArrays\bin\Debug\ZigZagArrays.pdb
+C:\Users\Asus\source\repos\Arrays\ZigZagArrays\obj\Debug\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\ZigZagArrays\obj\Debug\ZigZagArrays.exe
+C:\Users\Asus\source\repos\Arrays\ZigZagArrays\obj\Debug\ZigZagArrays.pdb

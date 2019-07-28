@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\Anonymous Threat\bin\Debug\Anonymous Threat.exe.config
+C:\Users\Asus\source\repos\ListExersice\Anonymous Threat\bin\Debug\Anonymous Threat.exe
+C:\Users\Asus\source\repos\ListExersice\Anonymous Threat\bin\Debug\Anonymous Threat.pdb
+C:\Users\Asus\source\repos\ListExersice\Anonymous Threat\obj\Debug\Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\Anonymous Threat\obj\Debug\Anonymous Threat.exe
+C:\Users\Asus\source\repos\ListExersice\Anonymous Threat\obj\Debug\Anonymous Threat.pdb
+C:\Users\Asus\source\repos\ListExersice\Anonymous Threat\obj\Debug\Anonymous Threat.csprojAssemblyReference.cache

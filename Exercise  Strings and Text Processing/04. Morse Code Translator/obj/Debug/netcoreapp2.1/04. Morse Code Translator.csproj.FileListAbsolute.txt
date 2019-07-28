@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.deps.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.pdb
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.pdb

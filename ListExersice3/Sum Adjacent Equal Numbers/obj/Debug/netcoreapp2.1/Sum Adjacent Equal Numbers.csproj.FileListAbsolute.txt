@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.deps.json
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.dll
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.pdb
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.dll
+C:\Users\Asus\source\repos\ListExersice3\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.1\Sum Adjacent Equal Numbers.pdb

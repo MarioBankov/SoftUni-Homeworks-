@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DataTypes\ConverMetersToKm\bin\Debug\ConverMetersToKm.exe.config
+C:\Users\Asus\source\repos\DataTypes\ConverMetersToKm\bin\Debug\ConverMetersToKm.exe
+C:\Users\Asus\source\repos\DataTypes\ConverMetersToKm\bin\Debug\ConverMetersToKm.pdb
+C:\Users\Asus\source\repos\DataTypes\ConverMetersToKm\obj\Debug\ConverMetersToKm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataTypes\ConverMetersToKm\obj\Debug\ConverMetersToKm.exe
+C:\Users\Asus\source\repos\DataTypes\ConverMetersToKm\obj\Debug\ConverMetersToKm.pdb

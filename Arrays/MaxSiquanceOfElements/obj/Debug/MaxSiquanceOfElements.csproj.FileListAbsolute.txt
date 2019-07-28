@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\MaxSiquanceOfElements\bin\Debug\MaxSiquanceOfElements.exe.config
+C:\Users\Asus\source\repos\Arrays\MaxSiquanceOfElements\bin\Debug\MaxSiquanceOfElements.exe
+C:\Users\Asus\source\repos\Arrays\MaxSiquanceOfElements\bin\Debug\MaxSiquanceOfElements.pdb
+C:\Users\Asus\source\repos\Arrays\MaxSiquanceOfElements\obj\Debug\MaxSiquanceOfElements.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\MaxSiquanceOfElements\obj\Debug\MaxSiquanceOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\MaxSiquanceOfElements\obj\Debug\MaxSiquanceOfElements.exe
+C:\Users\Asus\source\repos\Arrays\MaxSiquanceOfElements\obj\Debug\MaxSiquanceOfElements.pdb

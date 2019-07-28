@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\MethodsExersice\MiddleCharacters\bin\Debug\MiddleCharacters.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\MiddleCharacters\bin\Debug\MiddleCharacters.exe
+C:\Users\Asus\source\repos\MethodsExersice\MiddleCharacters\bin\Debug\MiddleCharacters.pdb
+C:\Users\Asus\source\repos\MethodsExersice\MiddleCharacters\obj\Debug\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\MiddleCharacters\obj\Debug\MiddleCharacters.exe
+C:\Users\Asus\source\repos\MethodsExersice\MiddleCharacters\obj\Debug\MiddleCharacters.pdb

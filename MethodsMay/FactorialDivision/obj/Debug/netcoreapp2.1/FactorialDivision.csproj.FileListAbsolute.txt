@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.deps.json
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.dll
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.pdb
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.dll
+C:\Users\Asus\source\repos\MethodsMay\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.pdb

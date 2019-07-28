@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Strings\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe.config
+C:\Users\Asus\source\repos\Strings\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe
+C:\Users\Asus\source\repos\Strings\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.pdb
+C:\Users\Asus\source\repos\Strings\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Strings\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.exe
+C:\Users\Asus\source\repos\Strings\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.pdb

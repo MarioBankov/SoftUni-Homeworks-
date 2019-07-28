@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Fishing\bin\Debug\Fishing.exe.config
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Fishing\bin\Debug\Fishing.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Fishing\bin\Debug\Fishing.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Fishing\obj\Debug\Fishing.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Fishing\obj\Debug\Fishing.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\Fishing\obj\Debug\Fishing.pdb

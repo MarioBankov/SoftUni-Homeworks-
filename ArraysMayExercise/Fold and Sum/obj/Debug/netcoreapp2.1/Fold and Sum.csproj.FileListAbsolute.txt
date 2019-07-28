@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.deps.json
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.pdb
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.pdb

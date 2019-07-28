@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\DNA\obj\Debug\DNA.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\DNA\obj\Debug\DNA.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\DNA\bin\Debug\DNA.exe.config
+C:\Users\Asus\source\repos\Arrays\DNA\bin\Debug\DNA.exe
+C:\Users\Asus\source\repos\Arrays\DNA\bin\Debug\DNA.pdb
+C:\Users\Asus\source\repos\Arrays\DNA\obj\Debug\DNA.exe
+C:\Users\Asus\source\repos\Arrays\DNA\obj\Debug\DNA.pdb

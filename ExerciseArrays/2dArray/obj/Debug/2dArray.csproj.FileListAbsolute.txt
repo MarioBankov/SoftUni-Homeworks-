@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExerciseArrays\2dArray\bin\Debug\2dArray.exe.config
+C:\Users\Asus\source\repos\ExerciseArrays\2dArray\bin\Debug\2dArray.exe
+C:\Users\Asus\source\repos\ExerciseArrays\2dArray\bin\Debug\2dArray.pdb
+C:\Users\Asus\source\repos\ExerciseArrays\2dArray\obj\Debug\2dArray.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExerciseArrays\2dArray\obj\Debug\2dArray.exe
+C:\Users\Asus\source\repos\ExerciseArrays\2dArray\obj\Debug\2dArray.pdb
+C:\Users\Asus\source\repos\ExerciseArrays\2dArray\obj\Debug\2dArray.csprojAssemblyReference.cache

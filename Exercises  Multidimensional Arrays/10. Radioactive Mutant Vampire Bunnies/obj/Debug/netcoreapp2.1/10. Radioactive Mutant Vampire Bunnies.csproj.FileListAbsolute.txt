@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.pdb

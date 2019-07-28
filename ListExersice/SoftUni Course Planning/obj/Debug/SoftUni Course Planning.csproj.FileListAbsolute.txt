@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\SoftUni Course Planning\bin\Debug\SoftUni Course Planning.exe.config
+C:\Users\Asus\source\repos\ListExersice\SoftUni Course Planning\bin\Debug\SoftUni Course Planning.exe
+C:\Users\Asus\source\repos\ListExersice\SoftUni Course Planning\bin\Debug\SoftUni Course Planning.pdb
+C:\Users\Asus\source\repos\ListExersice\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.exe
+C:\Users\Asus\source\repos\ListExersice\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.pdb
+C:\Users\Asus\source\repos\ListExersice\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.csprojAssemblyReference.cache

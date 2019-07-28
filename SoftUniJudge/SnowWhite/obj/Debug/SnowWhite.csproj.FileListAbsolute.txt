@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\SoftUniJudge\SnowWhite\bin\Debug\SnowWhite.exe.config
+C:\Users\Asus\source\repos\SoftUniJudge\SnowWhite\bin\Debug\SnowWhite.exe
+C:\Users\Asus\source\repos\SoftUniJudge\SnowWhite\bin\Debug\SnowWhite.pdb
+C:\Users\Asus\source\repos\SoftUniJudge\SnowWhite\obj\Debug\SnowWhite.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SoftUniJudge\SnowWhite\obj\Debug\SnowWhite.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SoftUniJudge\SnowWhite\obj\Debug\SnowWhite.exe
+C:\Users\Asus\source\repos\SoftUniJudge\SnowWhite\obj\Debug\SnowWhite.pdb

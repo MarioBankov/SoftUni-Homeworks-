@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.deps.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.runtimeconfig.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.pdb
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.dll
+C:\Users\Asus\source\repos\MultyDimensionalArrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.pdb

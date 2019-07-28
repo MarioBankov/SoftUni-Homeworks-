@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Strings\EnryptMessage\bin\Debug\EnryptMessage.exe.config
+C:\Users\Asus\source\repos\Strings\EnryptMessage\bin\Debug\EnryptMessage.exe
+C:\Users\Asus\source\repos\Strings\EnryptMessage\bin\Debug\EnryptMessage.pdb
+C:\Users\Asus\source\repos\Strings\EnryptMessage\obj\Debug\EnryptMessage.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\EnryptMessage\obj\Debug\EnryptMessage.exe
+C:\Users\Asus\source\repos\Strings\EnryptMessage\obj\Debug\EnryptMessage.pdb

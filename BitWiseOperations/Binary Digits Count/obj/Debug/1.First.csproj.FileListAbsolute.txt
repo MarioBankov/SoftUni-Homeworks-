@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\BitWiseOperations\1.First\bin\Debug\1.First.exe.config
+C:\Users\Asus\source\repos\BitWiseOperations\1.First\bin\Debug\1.First.exe
+C:\Users\Asus\source\repos\BitWiseOperations\1.First\bin\Debug\1.First.pdb
+C:\Users\Asus\source\repos\BitWiseOperations\1.First\obj\Debug\1.First.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\BitWiseOperations\1.First\obj\Debug\1.First.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BitWiseOperations\1.First\obj\Debug\1.First.exe
+C:\Users\Asus\source\repos\BitWiseOperations\1.First\obj\Debug\1.First.pdb

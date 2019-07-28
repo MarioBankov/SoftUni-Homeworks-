@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Strings\RageQuit\bin\Debug\RageQuit.exe.config
+C:\Users\Asus\source\repos\Strings\RageQuit\bin\Debug\RageQuit.exe
+C:\Users\Asus\source\repos\Strings\RageQuit\bin\Debug\RageQuit.pdb
+C:\Users\Asus\source\repos\Strings\RageQuit\obj\Debug\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\RageQuit\obj\Debug\RageQuit.exe
+C:\Users\Asus\source\repos\Strings\RageQuit\obj\Debug\RageQuit.pdb
+C:\Users\Asus\source\repos\Strings\RageQuit\obj\Debug\RageQuit.csprojAssemblyReference.cache

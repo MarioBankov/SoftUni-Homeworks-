@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\MethodsExersice\AddAndSubstract\bin\Debug\AddAndSubstract.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\AddAndSubstract\bin\Debug\AddAndSubstract.exe
+C:\Users\Asus\source\repos\MethodsExersice\AddAndSubstract\bin\Debug\AddAndSubstract.pdb
+C:\Users\Asus\source\repos\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.exe
+C:\Users\Asus\source\repos\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.pdb

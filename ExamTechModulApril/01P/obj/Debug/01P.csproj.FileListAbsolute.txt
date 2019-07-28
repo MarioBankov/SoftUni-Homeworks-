@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamTechModulApril\01P\bin\Debug\01P.exe.config
+C:\Users\Asus\source\repos\ExamTechModulApril\01P\bin\Debug\01P.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\01P\bin\Debug\01P.pdb
+C:\Users\Asus\source\repos\ExamTechModulApril\01P\obj\Debug\01P.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\01P\obj\Debug\01P.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamTechModulApril\01P\obj\Debug\01P.exe
+C:\Users\Asus\source\repos\ExamTechModulApril\01P\obj\Debug\01P.pdb

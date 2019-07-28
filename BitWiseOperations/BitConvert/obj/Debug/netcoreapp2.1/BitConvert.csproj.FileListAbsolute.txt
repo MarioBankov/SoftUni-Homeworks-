@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\bin\Debug\netcoreapp2.1\BitConvert.deps.json
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\bin\Debug\netcoreapp2.1\BitConvert.runtimeconfig.json
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\bin\Debug\netcoreapp2.1\BitConvert.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\bin\Debug\netcoreapp2.1\BitConvert.dll
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\bin\Debug\netcoreapp2.1\BitConvert.pdb
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\obj\Debug\netcoreapp2.1\BitConvert.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\obj\Debug\netcoreapp2.1\BitConvert.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\obj\Debug\netcoreapp2.1\BitConvert.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\obj\Debug\netcoreapp2.1\BitConvert.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\obj\Debug\netcoreapp2.1\BitConvert.dll
+C:\Users\Asus\source\repos\BitWiseOperations\BitConvert\obj\Debug\netcoreapp2.1\BitConvert.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\SoftUniJudge\MOBA\bin\Debug\MOBA.exe.config
+C:\Users\Asus\source\repos\SoftUniJudge\MOBA\bin\Debug\MOBA.exe
+C:\Users\Asus\source\repos\SoftUniJudge\MOBA\bin\Debug\MOBA.pdb
+C:\Users\Asus\source\repos\SoftUniJudge\MOBA\obj\Debug\MOBA.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SoftUniJudge\MOBA\obj\Debug\MOBA.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SoftUniJudge\MOBA\obj\Debug\MOBA.exe
+C:\Users\Asus\source\repos\SoftUniJudge\MOBA\obj\Debug\MOBA.pdb

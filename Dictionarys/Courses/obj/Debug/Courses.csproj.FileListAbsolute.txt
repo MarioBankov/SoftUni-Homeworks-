@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\Courses\bin\Debug\Courses.exe.config
+C:\Users\Asus\source\repos\Dictionarys\Courses\bin\Debug\Courses.exe
+C:\Users\Asus\source\repos\Dictionarys\Courses\bin\Debug\Courses.pdb
+C:\Users\Asus\source\repos\Dictionarys\Courses\obj\Debug\Courses.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\Courses\obj\Debug\Courses.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\Courses\obj\Debug\Courses.exe
+C:\Users\Asus\source\repos\Dictionarys\Courses\obj\Debug\Courses.pdb

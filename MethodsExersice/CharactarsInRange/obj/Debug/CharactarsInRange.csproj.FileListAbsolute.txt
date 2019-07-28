@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\MethodsExersice\CharactarsInRange\bin\Debug\CharactarsInRange.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\CharactarsInRange\bin\Debug\CharactarsInRange.exe
+C:\Users\Asus\source\repos\MethodsExersice\CharactarsInRange\bin\Debug\CharactarsInRange.pdb
+C:\Users\Asus\source\repos\MethodsExersice\CharactarsInRange\obj\Debug\CharactarsInRange.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\CharactarsInRange\obj\Debug\CharactarsInRange.exe
+C:\Users\Asus\source\repos\MethodsExersice\CharactarsInRange\obj\Debug\CharactarsInRange.pdb

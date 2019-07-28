@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp2.1\1. Match Full Name.deps.json
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp2.1\1. Match Full Name.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp2.1\1. Match Full Name.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp2.1\1. Match Full Name.dll
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\bin\Debug\netcoreapp2.1\1. Match Full Name.pdb
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp2.1\1. Match Full Name.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp2.1\1. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp2.1\1. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp2.1\1. Match Full Name.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp2.1\1. Match Full Name.dll
+C:\Users\Asus\source\repos\Lab  Regular Expressions\1. Match Full Name\obj\Debug\netcoreapp2.1\1. Match Full Name.pdb

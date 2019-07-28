@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\NestedLoops\Secetdoor\bin\Debug\Secetdoor.exe.config
+C:\Users\Asus\source\repos\NestedLoops\Secetdoor\bin\Debug\Secetdoor.exe
+C:\Users\Asus\source\repos\NestedLoops\Secetdoor\bin\Debug\Secetdoor.pdb
+C:\Users\Asus\source\repos\NestedLoops\Secetdoor\obj\Debug\Secetdoor.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\NestedLoops\Secetdoor\obj\Debug\Secetdoor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops\Secetdoor\obj\Debug\Secetdoor.exe
+C:\Users\Asus\source\repos\NestedLoops\Secetdoor\obj\Debug\Secetdoor.pdb

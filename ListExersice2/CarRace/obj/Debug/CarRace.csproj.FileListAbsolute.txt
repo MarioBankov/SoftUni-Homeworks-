@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice2\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\Asus\source\repos\ListExersice2\CarRace\bin\Debug\CarRace.exe
+C:\Users\Asus\source\repos\ListExersice2\CarRace\bin\Debug\CarRace.pdb
+C:\Users\Asus\source\repos\ListExersice2\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice2\CarRace\obj\Debug\CarRace.exe
+C:\Users\Asus\source\repos\ListExersice2\CarRace\obj\Debug\CarRace.pdb
+C:\Users\Asus\source\repos\ListExersice2\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\bin\Debug\netcoreapp2.1\Gauss' Trick.deps.json
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\bin\Debug\netcoreapp2.1\Gauss' Trick.runtimeconfig.json
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\bin\Debug\netcoreapp2.1\Gauss' Trick.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\bin\Debug\netcoreapp2.1\Gauss' Trick.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\bin\Debug\netcoreapp2.1\Gauss' Trick.pdb
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\obj\Debug\netcoreapp2.1\Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\obj\Debug\netcoreapp2.1\Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\obj\Debug\netcoreapp2.1\Gauss' Trick.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\obj\Debug\netcoreapp2.1\Gauss' Trick.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\Gauss' Trick\obj\Debug\netcoreapp2.1\Gauss' Trick.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\bin\Debug\netcoreapp2.1\EvenAndOddSubstraction.deps.json
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\bin\Debug\netcoreapp2.1\EvenAndOddSubstraction.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\bin\Debug\netcoreapp2.1\EvenAndOddSubstraction.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\bin\Debug\netcoreapp2.1\EvenAndOddSubstraction.dll
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\bin\Debug\netcoreapp2.1\EvenAndOddSubstraction.pdb
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\obj\Debug\netcoreapp2.1\EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\obj\Debug\netcoreapp2.1\EvenAndOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\obj\Debug\netcoreapp2.1\EvenAndOddSubstraction.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\obj\Debug\netcoreapp2.1\EvenAndOddSubstraction.dll
+C:\Users\Asus\source\repos\ArraysMay\EvenAndOddSubstraction\obj\Debug\netcoreapp2.1\EvenAndOddSubstraction.pdb

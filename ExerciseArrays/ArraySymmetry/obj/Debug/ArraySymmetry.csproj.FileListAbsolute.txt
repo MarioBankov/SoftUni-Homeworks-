@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExerciseArrays\ArraySymmetry\bin\Debug\ArraySymmetry.exe.config
+C:\Users\Asus\source\repos\ExerciseArrays\ArraySymmetry\bin\Debug\ArraySymmetry.exe
+C:\Users\Asus\source\repos\ExerciseArrays\ArraySymmetry\bin\Debug\ArraySymmetry.pdb
+C:\Users\Asus\source\repos\ExerciseArrays\ArraySymmetry\obj\Debug\ArraySymmetry.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExerciseArrays\ArraySymmetry\obj\Debug\ArraySymmetry.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExerciseArrays\ArraySymmetry\obj\Debug\ArraySymmetry.exe
+C:\Users\Asus\source\repos\ExerciseArrays\ArraySymmetry\obj\Debug\ArraySymmetry.pdb

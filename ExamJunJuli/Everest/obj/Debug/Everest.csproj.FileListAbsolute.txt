@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamJunJuli\Everest\bin\Debug\Everest.exe.config
+C:\Users\Asus\source\repos\ExamJunJuli\Everest\bin\Debug\Everest.exe
+C:\Users\Asus\source\repos\ExamJunJuli\Everest\bin\Debug\Everest.pdb
+C:\Users\Asus\source\repos\ExamJunJuli\Everest\obj\Debug\Everest.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExamJunJuli\Everest\obj\Debug\Everest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamJunJuli\Everest\obj\Debug\Everest.exe
+C:\Users\Asus\source\repos\ExamJunJuli\Everest\obj\Debug\Everest.pdb

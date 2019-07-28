@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.deps.json
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.pdb
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.pdb

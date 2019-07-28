@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\bin\Debug\netcoreapp2.1\Meging Lists.deps.json
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\bin\Debug\netcoreapp2.1\Meging Lists.runtimeconfig.json
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\bin\Debug\netcoreapp2.1\Meging Lists.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\bin\Debug\netcoreapp2.1\Meging Lists.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\bin\Debug\netcoreapp2.1\Meging Lists.pdb
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\obj\Debug\netcoreapp2.1\Meging Lists.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\obj\Debug\netcoreapp2.1\Meging Lists.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\obj\Debug\netcoreapp2.1\Meging Lists.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\obj\Debug\netcoreapp2.1\Meging Lists.dll
+C:\Users\Asus\source\repos\ListHomeworkJune\Meging Lists\obj\Debug\netcoreapp2.1\Meging Lists.pdb

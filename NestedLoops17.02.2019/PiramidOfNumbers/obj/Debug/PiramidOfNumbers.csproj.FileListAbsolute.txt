@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\PiramidOfNumbers\bin\Debug\PiramidOfNumbers.exe.config
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\PiramidOfNumbers\bin\Debug\PiramidOfNumbers.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\PiramidOfNumbers\bin\Debug\PiramidOfNumbers.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\PiramidOfNumbers\obj\Debug\PiramidOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\PiramidOfNumbers\obj\Debug\PiramidOfNumbers.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\PiramidOfNumbers\obj\Debug\PiramidOfNumbers.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\PiramidOfNumbers\obj\Debug\PiramidOfNumbers.csprojAssemblyReference.cache

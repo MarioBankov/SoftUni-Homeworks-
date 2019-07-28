@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\PokemonDontGo\bin\Debug\PokemonDontGo.exe.config
+C:\Users\Asus\source\repos\ListExersice\PokemonDontGo\bin\Debug\PokemonDontGo.exe
+C:\Users\Asus\source\repos\ListExersice\PokemonDontGo\bin\Debug\PokemonDontGo.pdb
+C:\Users\Asus\source\repos\ListExersice\PokemonDontGo\obj\Debug\PokemonDontGo.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice\PokemonDontGo\obj\Debug\PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\PokemonDontGo\obj\Debug\PokemonDontGo.exe
+C:\Users\Asus\source\repos\ListExersice\PokemonDontGo\obj\Debug\PokemonDontGo.pdb

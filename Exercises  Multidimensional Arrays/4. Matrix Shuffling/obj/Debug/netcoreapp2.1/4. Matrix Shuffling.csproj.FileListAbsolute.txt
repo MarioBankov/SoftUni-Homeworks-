@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.deps.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.pdb
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.dll
+C:\Users\Asus\source\repos\Exercises  Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.pdb

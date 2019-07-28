@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Arrays\daysOfWeeks\bin\Debug\daysOfWeeks.exe.config
+C:\Users\Asus\source\repos\Arrays\daysOfWeeks\bin\Debug\daysOfWeeks.exe
+C:\Users\Asus\source\repos\Arrays\daysOfWeeks\bin\Debug\daysOfWeeks.pdb
+C:\Users\Asus\source\repos\Arrays\daysOfWeeks\obj\Debug\daysOfWeeks.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays\daysOfWeeks\obj\Debug\daysOfWeeks.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays\daysOfWeeks\obj\Debug\daysOfWeeks.exe
+C:\Users\Asus\source\repos\Arrays\daysOfWeeks\obj\Debug\daysOfWeeks.pdb

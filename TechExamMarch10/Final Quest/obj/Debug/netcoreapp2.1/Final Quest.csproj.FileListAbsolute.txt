@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\bin\Debug\netcoreapp2.1\Final Quest.deps.json
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\bin\Debug\netcoreapp2.1\Final Quest.runtimeconfig.json
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\bin\Debug\netcoreapp2.1\Final Quest.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\bin\Debug\netcoreapp2.1\Final Quest.dll
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\bin\Debug\netcoreapp2.1\Final Quest.pdb
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\obj\Debug\netcoreapp2.1\Final Quest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\obj\Debug\netcoreapp2.1\Final Quest.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\obj\Debug\netcoreapp2.1\Final Quest.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\obj\Debug\netcoreapp2.1\Final Quest.dll
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\obj\Debug\netcoreapp2.1\Final Quest.pdb
+C:\Users\Asus\source\repos\TechExamMarch10\Final Quest\obj\Debug\netcoreapp2.1\Final Quest.csprojAssemblyReference.cache

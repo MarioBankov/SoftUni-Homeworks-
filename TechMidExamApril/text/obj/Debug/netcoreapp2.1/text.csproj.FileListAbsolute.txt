@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TechMidExamApril\text\bin\Debug\netcoreapp2.1\text.deps.json
+C:\Users\Asus\source\repos\TechMidExamApril\text\bin\Debug\netcoreapp2.1\text.runtimeconfig.json
+C:\Users\Asus\source\repos\TechMidExamApril\text\bin\Debug\netcoreapp2.1\text.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechMidExamApril\text\bin\Debug\netcoreapp2.1\text.dll
+C:\Users\Asus\source\repos\TechMidExamApril\text\bin\Debug\netcoreapp2.1\text.pdb
+C:\Users\Asus\source\repos\TechMidExamApril\text\obj\Debug\netcoreapp2.1\text.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechMidExamApril\text\obj\Debug\netcoreapp2.1\text.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechMidExamApril\text\obj\Debug\netcoreapp2.1\text.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechMidExamApril\text\obj\Debug\netcoreapp2.1\text.dll
+C:\Users\Asus\source\repos\TechMidExamApril\text\obj\Debug\netcoreapp2.1\text.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.deps.json
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.runtimeconfig.json
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.dll
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.pdb
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.dll
+C:\Users\Asus\source\repos\TechMidExamApril\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.pdb

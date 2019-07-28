@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\bin\Debug\netcoreapp2.1\GaussTrick.deps.json
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\bin\Debug\netcoreapp2.1\GaussTrick.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\bin\Debug\netcoreapp2.1\GaussTrick.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\bin\Debug\netcoreapp2.1\GaussTrick.dll
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\bin\Debug\netcoreapp2.1\GaussTrick.pdb
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\obj\Debug\netcoreapp2.1\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\obj\Debug\netcoreapp2.1\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\obj\Debug\netcoreapp2.1\GaussTrick.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\obj\Debug\netcoreapp2.1\GaussTrick.dll
+C:\Users\Asus\source\repos\ListExersice3\GaussTrick\obj\Debug\netcoreapp2.1\GaussTrick.pdb

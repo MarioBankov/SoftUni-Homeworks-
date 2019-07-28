@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\obj\Debug\netcoreapp2.1\MergAlgorithm.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\obj\Debug\netcoreapp2.1\MergAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\obj\Debug\netcoreapp2.1\MergAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\obj\Debug\netcoreapp2.1\MergAlgorithm.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\bin\Debug\netcoreapp2.1\MergAlgorithm.deps.json
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\bin\Debug\netcoreapp2.1\MergAlgorithm.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\bin\Debug\netcoreapp2.1\MergAlgorithm.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\bin\Debug\netcoreapp2.1\MergAlgorithm.dll
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\bin\Debug\netcoreapp2.1\MergAlgorithm.pdb
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\obj\Debug\netcoreapp2.1\MergAlgorithm.dll
+C:\Users\Asus\source\repos\Arrays-More-Exersice\MergAlgorithm\obj\Debug\netcoreapp2.1\MergAlgorithm.pdb

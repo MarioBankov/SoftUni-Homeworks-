@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExersice\BombNumbers\obj\Debug\BombNumbers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExersice\BombNumbers\obj\Debug\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\BombNumbers\bin\Debug\BombNumbers.exe.config
+C:\Users\Asus\source\repos\ListExersice\BombNumbers\bin\Debug\BombNumbers.exe
+C:\Users\Asus\source\repos\ListExersice\BombNumbers\bin\Debug\BombNumbers.pdb
+C:\Users\Asus\source\repos\ListExersice\BombNumbers\obj\Debug\BombNumbers.exe
+C:\Users\Asus\source\repos\ListExersice\BombNumbers\obj\Debug\BombNumbers.pdb

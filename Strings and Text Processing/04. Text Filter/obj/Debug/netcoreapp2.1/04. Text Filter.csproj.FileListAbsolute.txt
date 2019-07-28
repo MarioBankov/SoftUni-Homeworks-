@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.deps.json
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.json
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.dll
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.pdb
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.dll
+C:\Users\Asus\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.pdb

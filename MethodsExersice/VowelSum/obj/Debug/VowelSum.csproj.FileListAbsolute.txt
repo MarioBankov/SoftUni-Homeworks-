@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\MethodsExersice\VowelSum\bin\Debug\VowelSum.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\VowelSum\bin\Debug\VowelSum.exe
+C:\Users\Asus\source\repos\MethodsExersice\VowelSum\bin\Debug\VowelSum.pdb
+C:\Users\Asus\source\repos\MethodsExersice\VowelSum\obj\Debug\VowelSum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\VowelSum\obj\Debug\VowelSum.exe
+C:\Users\Asus\source\repos\MethodsExersice\VowelSum\obj\Debug\VowelSum.pdb

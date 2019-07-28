@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\bin\Debug\netcoreapp2.1\RecrusiveFibonacci.deps.json
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\bin\Debug\netcoreapp2.1\RecrusiveFibonacci.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\bin\Debug\netcoreapp2.1\RecrusiveFibonacci.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\bin\Debug\netcoreapp2.1\RecrusiveFibonacci.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\bin\Debug\netcoreapp2.1\RecrusiveFibonacci.pdb
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\obj\Debug\netcoreapp2.1\RecrusiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\obj\Debug\netcoreapp2.1\RecrusiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\obj\Debug\netcoreapp2.1\RecrusiveFibonacci.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\obj\Debug\netcoreapp2.1\RecrusiveFibonacci.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\RecrusiveFibonacci\obj\Debug\netcoreapp2.1\RecrusiveFibonacci.pdb

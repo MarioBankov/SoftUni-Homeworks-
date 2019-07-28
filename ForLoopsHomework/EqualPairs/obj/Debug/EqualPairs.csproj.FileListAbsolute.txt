@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ForLoopsHomework\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\Users\Asus\source\repos\ForLoopsHomework\EqualPairs\bin\Debug\EqualPairs.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\EqualPairs\bin\Debug\EqualPairs.pdb
+C:\Users\Asus\source\repos\ForLoopsHomework\EqualPairs\obj\Debug\EqualPairs.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ForLoopsHomework\EqualPairs\obj\Debug\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ForLoopsHomework\EqualPairs\obj\Debug\EqualPairs.exe
+C:\Users\Asus\source\repos\ForLoopsHomework\EqualPairs\obj\Debug\EqualPairs.pdb

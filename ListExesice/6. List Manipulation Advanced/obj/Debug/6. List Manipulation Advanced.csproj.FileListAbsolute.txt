@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ListExesice\6. List Manipulation Advanced\bin\Debug\_6.List_Manipulation_Advanced.exe.config
+C:\Users\Asus\source\repos\ListExesice\6. List Manipulation Advanced\bin\Debug\_6.List_Manipulation_Advanced.exe
+C:\Users\Asus\source\repos\ListExesice\6. List Manipulation Advanced\bin\Debug\_6.List_Manipulation_Advanced.pdb
+C:\Users\Asus\source\repos\ListExesice\6. List Manipulation Advanced\obj\Debug\6. List Manipulation Advanced.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListExesice\6. List Manipulation Advanced\obj\Debug\6. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExesice\6. List Manipulation Advanced\obj\Debug\_6.List_Manipulation_Advanced.exe
+C:\Users\Asus\source\repos\ListExesice\6. List Manipulation Advanced\obj\Debug\_6.List_Manipulation_Advanced.pdb

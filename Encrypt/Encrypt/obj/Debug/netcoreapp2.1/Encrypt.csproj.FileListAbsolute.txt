@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Encrypt\Encrypt\bin\Debug\netcoreapp2.1\Encrypt.deps.json
+C:\Users\Asus\source\repos\Encrypt\Encrypt\bin\Debug\netcoreapp2.1\Encrypt.runtimeconfig.json
+C:\Users\Asus\source\repos\Encrypt\Encrypt\bin\Debug\netcoreapp2.1\Encrypt.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Encrypt\Encrypt\bin\Debug\netcoreapp2.1\Encrypt.dll
+C:\Users\Asus\source\repos\Encrypt\Encrypt\bin\Debug\netcoreapp2.1\Encrypt.pdb
+C:\Users\Asus\source\repos\Encrypt\Encrypt\obj\Debug\netcoreapp2.1\Encrypt.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Encrypt\Encrypt\obj\Debug\netcoreapp2.1\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Encrypt\Encrypt\obj\Debug\netcoreapp2.1\Encrypt.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Encrypt\Encrypt\obj\Debug\netcoreapp2.1\Encrypt.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Encrypt\Encrypt\obj\Debug\netcoreapp2.1\Encrypt.dll
+C:\Users\Asus\source\repos\Encrypt\Encrypt\obj\Debug\netcoreapp2.1\Encrypt.pdb

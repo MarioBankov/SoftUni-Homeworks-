@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Methods\MultyplyEvensbyOdds\bin\Debug\MultyplyEvensbyOdds.exe.config
+C:\Users\Asus\source\repos\Methods\MultyplyEvensbyOdds\bin\Debug\MultyplyEvensbyOdds.exe
+C:\Users\Asus\source\repos\Methods\MultyplyEvensbyOdds\bin\Debug\MultyplyEvensbyOdds.pdb
+C:\Users\Asus\source\repos\Methods\MultyplyEvensbyOdds\obj\Debug\MultyplyEvensbyOdds.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Methods\MultyplyEvensbyOdds\obj\Debug\MultyplyEvensbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\MultyplyEvensbyOdds\obj\Debug\MultyplyEvensbyOdds.exe
+C:\Users\Asus\source\repos\Methods\MultyplyEvensbyOdds\obj\Debug\MultyplyEvensbyOdds.pdb

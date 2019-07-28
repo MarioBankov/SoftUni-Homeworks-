@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExersice2\skippinRope\bin\Debug\skippinRope.exe.config
+C:\Users\Asus\source\repos\ListExersice2\skippinRope\bin\Debug\skippinRope.exe
+C:\Users\Asus\source\repos\ListExersice2\skippinRope\bin\Debug\skippinRope.pdb
+C:\Users\Asus\source\repos\ListExersice2\skippinRope\obj\Debug\skippinRope.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice2\skippinRope\obj\Debug\skippinRope.exe
+C:\Users\Asus\source\repos\ListExersice2\skippinRope\obj\Debug\skippinRope.pdb

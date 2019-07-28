@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ListExersice\ChangeList\bin\Debug\ChangeList.exe.config
+C:\Users\Asus\source\repos\ListExersice\ChangeList\bin\Debug\ChangeList.exe
+C:\Users\Asus\source\repos\ListExersice\ChangeList\bin\Debug\ChangeList.pdb
+C:\Users\Asus\source\repos\ListExersice\ChangeList\obj\Debug\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice\ChangeList\obj\Debug\ChangeList.exe
+C:\Users\Asus\source\repos\ListExersice\ChangeList\obj\Debug\ChangeList.pdb

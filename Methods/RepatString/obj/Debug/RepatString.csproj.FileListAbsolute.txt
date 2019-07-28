@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Methods\RepatString\bin\Debug\RepatString.exe.config
+C:\Users\Asus\source\repos\Methods\RepatString\bin\Debug\RepatString.exe
+C:\Users\Asus\source\repos\Methods\RepatString\bin\Debug\RepatString.pdb
+C:\Users\Asus\source\repos\Methods\RepatString\obj\Debug\RepatString.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Methods\RepatString\obj\Debug\RepatString.exe
+C:\Users\Asus\source\repos\Methods\RepatString\obj\Debug\RepatString.pdb

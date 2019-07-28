@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp2.1\1. Extract Person Information.deps.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp2.1\1. Extract Person Information.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp2.1\1. Extract Person Information.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp2.1\1. Extract Person Information.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp2.1\1. Extract Person Information.pdb
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp2.1\1. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp2.1\1. Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp2.1\1. Extract Person Information.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp2.1\1. Extract Person Information.dll
+C:\Users\Asus\source\repos\Exercise  Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp2.1\1. Extract Person Information.pdb

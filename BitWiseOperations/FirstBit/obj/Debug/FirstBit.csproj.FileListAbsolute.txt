@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\BitWiseOperations\FirstBit\bin\Debug\FirstBit.exe.config
+C:\Users\Asus\source\repos\BitWiseOperations\FirstBit\bin\Debug\FirstBit.exe
+C:\Users\Asus\source\repos\BitWiseOperations\FirstBit\bin\Debug\FirstBit.pdb
+C:\Users\Asus\source\repos\BitWiseOperations\FirstBit\obj\Debug\FirstBit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BitWiseOperations\FirstBit\obj\Debug\FirstBit.exe
+C:\Users\Asus\source\repos\BitWiseOperations\FirstBit\obj\Debug\FirstBit.pdb

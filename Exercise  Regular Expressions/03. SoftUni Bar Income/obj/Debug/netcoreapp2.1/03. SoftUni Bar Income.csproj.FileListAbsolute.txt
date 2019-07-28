@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.deps.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.dll
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.pdb
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.dll
+C:\Users\Asus\source\repos\Exercise  Regular Expressions\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.pdb

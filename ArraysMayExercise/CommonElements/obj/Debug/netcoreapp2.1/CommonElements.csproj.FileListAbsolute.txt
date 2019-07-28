@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.deps.json
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.runtimeconfig.json
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.pdb
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.dll
+C:\Users\Asus\source\repos\ArraysMayExercise\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.pdb

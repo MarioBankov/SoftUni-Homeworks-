@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Strings\ExtrackFile\bin\Debug\ExtrackFile.exe.config
+C:\Users\Asus\source\repos\Strings\ExtrackFile\bin\Debug\ExtrackFile.exe
+C:\Users\Asus\source\repos\Strings\ExtrackFile\bin\Debug\ExtrackFile.pdb
+C:\Users\Asus\source\repos\Strings\ExtrackFile\obj\Debug\ExtrackFile.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Strings\ExtrackFile\obj\Debug\ExtrackFile.exe
+C:\Users\Asus\source\repos\Strings\ExtrackFile\obj\Debug\ExtrackFile.pdb

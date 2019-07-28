@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ExamJunJuli\Ticket Combination\bin\Debug\Ticket Combination.exe.config
+C:\Users\Asus\source\repos\ExamJunJuli\Ticket Combination\bin\Debug\Ticket Combination.exe
+C:\Users\Asus\source\repos\ExamJunJuli\Ticket Combination\bin\Debug\Ticket Combination.pdb
+C:\Users\Asus\source\repos\ExamJunJuli\Ticket Combination\obj\Debug\Ticket Combination.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExamJunJuli\Ticket Combination\obj\Debug\Ticket Combination.exe
+C:\Users\Asus\source\repos\ExamJunJuli\Ticket Combination\obj\Debug\Ticket Combination.pdb
+C:\Users\Asus\source\repos\ExamJunJuli\Ticket Combination\obj\Debug\Ticket Combination.csprojAssemblyReference.cache

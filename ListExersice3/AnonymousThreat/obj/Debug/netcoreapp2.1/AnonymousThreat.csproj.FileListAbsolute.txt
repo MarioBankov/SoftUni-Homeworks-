@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\obj\Debug\netcoreapp2.1\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\obj\Debug\netcoreapp2.1\AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\obj\Debug\netcoreapp2.1\AnonymousThreat.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\bin\Debug\netcoreapp2.1\AnonymousThreat.deps.json
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\bin\Debug\netcoreapp2.1\AnonymousThreat.runtimeconfig.json
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\bin\Debug\netcoreapp2.1\AnonymousThreat.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\bin\Debug\netcoreapp2.1\AnonymousThreat.dll
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\bin\Debug\netcoreapp2.1\AnonymousThreat.pdb
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\obj\Debug\netcoreapp2.1\AnonymousThreat.dll
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\obj\Debug\netcoreapp2.1\AnonymousThreat.pdb
+C:\Users\Asus\source\repos\ListExersice3\AnonymousThreat\obj\Debug\netcoreapp2.1\AnonymousThreat.csprojAssemblyReference.cache

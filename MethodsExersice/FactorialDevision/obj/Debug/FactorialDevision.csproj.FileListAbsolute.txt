@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\MethodsExersice\FactorialDevision\bin\Debug\FactorialDevision.exe.config
+C:\Users\Asus\source\repos\MethodsExersice\FactorialDevision\bin\Debug\FactorialDevision.exe
+C:\Users\Asus\source\repos\MethodsExersice\FactorialDevision\bin\Debug\FactorialDevision.pdb
+C:\Users\Asus\source\repos\MethodsExersice\FactorialDevision\obj\Debug\FactorialDevision.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsExersice\FactorialDevision\obj\Debug\FactorialDevision.exe
+C:\Users\Asus\source\repos\MethodsExersice\FactorialDevision\obj\Debug\FactorialDevision.pdb

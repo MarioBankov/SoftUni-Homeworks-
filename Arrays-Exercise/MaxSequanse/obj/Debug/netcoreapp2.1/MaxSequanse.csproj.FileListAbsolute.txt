@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\bin\Debug\netcoreapp2.1\MaxSequanse.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\bin\Debug\netcoreapp2.1\MaxSequanse.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\bin\Debug\netcoreapp2.1\MaxSequanse.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\bin\Debug\netcoreapp2.1\MaxSequanse.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\bin\Debug\netcoreapp2.1\MaxSequanse.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\obj\Debug\netcoreapp2.1\MaxSequanse.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\obj\Debug\netcoreapp2.1\MaxSequanse.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\obj\Debug\netcoreapp2.1\MaxSequanse.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\obj\Debug\netcoreapp2.1\MaxSequanse.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\MaxSequanse\obj\Debug\netcoreapp2.1\MaxSequanse.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\bin\Debug\netcoreapp2.1\RoundingAwayFromZero.deps.json
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\bin\Debug\netcoreapp2.1\RoundingAwayFromZero.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\bin\Debug\netcoreapp2.1\RoundingAwayFromZero.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\bin\Debug\netcoreapp2.1\RoundingAwayFromZero.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\bin\Debug\netcoreapp2.1\RoundingAwayFromZero.pdb
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\obj\Debug\netcoreapp2.1\RoundingAwayFromZero.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\obj\Debug\netcoreapp2.1\RoundingAwayFromZero.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\obj\Debug\netcoreapp2.1\RoundingAwayFromZero.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\obj\Debug\netcoreapp2.1\RoundingAwayFromZero.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\obj\Debug\netcoreapp2.1\RoundingAwayFromZero.dll
+C:\Users\Asus\source\repos\Arrays-Exercise\RoundingAwayFromZero\obj\Debug\netcoreapp2.1\RoundingAwayFromZero.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Dictionarys\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.exe.config
+C:\Users\Asus\source\repos\Dictionarys\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.exe
+C:\Users\Asus\source\repos\Dictionarys\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.pdb
+C:\Users\Asus\source\repos\Dictionarys\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.exe
+C:\Users\Asus\source\repos\Dictionarys\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\bin\Debug\netcoreapp2.1\MiddleChars.deps.json
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\bin\Debug\netcoreapp2.1\MiddleChars.runtimeconfig.json
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\bin\Debug\netcoreapp2.1\MiddleChars.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\bin\Debug\netcoreapp2.1\MiddleChars.dll
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\bin\Debug\netcoreapp2.1\MiddleChars.pdb
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\obj\Debug\netcoreapp2.1\MiddleChars.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\obj\Debug\netcoreapp2.1\MiddleChars.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\obj\Debug\netcoreapp2.1\MiddleChars.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\obj\Debug\netcoreapp2.1\MiddleChars.dll
+C:\Users\Asus\source\repos\MethodsMay\MiddleChars\obj\Debug\netcoreapp2.1\MiddleChars.pdb

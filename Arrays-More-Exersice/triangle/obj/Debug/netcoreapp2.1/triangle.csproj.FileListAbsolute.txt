@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\obj\Debug\netcoreapp2.1\triangle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\obj\Debug\netcoreapp2.1\triangle.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\obj\Debug\netcoreapp2.1\triangle.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\bin\Debug\netcoreapp2.1\triangle.deps.json
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\bin\Debug\netcoreapp2.1\triangle.runtimeconfig.json
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\bin\Debug\netcoreapp2.1\triangle.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\bin\Debug\netcoreapp2.1\triangle.dll
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\bin\Debug\netcoreapp2.1\triangle.pdb
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\obj\Debug\netcoreapp2.1\triangle.dll
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\obj\Debug\netcoreapp2.1\triangle.pdb
+C:\Users\Asus\source\repos\Arrays-More-Exersice\triangle\obj\Debug\netcoreapp2.1\triangle.csprojAssemblyReference.cache

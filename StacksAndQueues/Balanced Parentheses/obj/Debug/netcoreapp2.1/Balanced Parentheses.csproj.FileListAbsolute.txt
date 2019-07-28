@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\bin\Debug\netcoreapp2.1\Balanced Parentheses.deps.json
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\bin\Debug\netcoreapp2.1\Balanced Parentheses.runtimeconfig.json
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\bin\Debug\netcoreapp2.1\Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\bin\Debug\netcoreapp2.1\Balanced Parentheses.dll
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\bin\Debug\netcoreapp2.1\Balanced Parentheses.pdb
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\obj\Debug\netcoreapp2.1\Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\obj\Debug\netcoreapp2.1\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\obj\Debug\netcoreapp2.1\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\obj\Debug\netcoreapp2.1\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\obj\Debug\netcoreapp2.1\Balanced Parentheses.dll
+C:\Users\Asus\source\repos\StacksAndQueues\Balanced Parentheses\obj\Debug\netcoreapp2.1\Balanced Parentheses.pdb

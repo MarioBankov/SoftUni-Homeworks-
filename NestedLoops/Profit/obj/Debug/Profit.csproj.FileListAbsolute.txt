@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\NestedLoops\Profit\bin\Debug\Profit.exe.config
+C:\Users\Asus\source\repos\NestedLoops\Profit\bin\Debug\Profit.exe
+C:\Users\Asus\source\repos\NestedLoops\Profit\bin\Debug\Profit.pdb
+C:\Users\Asus\source\repos\NestedLoops\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops\Profit\obj\Debug\Profit.exe
+C:\Users\Asus\source\repos\NestedLoops\Profit\obj\Debug\Profit.pdb

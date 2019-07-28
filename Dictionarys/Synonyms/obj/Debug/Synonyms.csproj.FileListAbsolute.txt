@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Dictionarys\Synonyms\bin\Debug\Synonyms.exe.config
+C:\Users\Asus\source\repos\Dictionarys\Synonyms\bin\Debug\Synonyms.exe
+C:\Users\Asus\source\repos\Dictionarys\Synonyms\bin\Debug\Synonyms.pdb
+C:\Users\Asus\source\repos\Dictionarys\Synonyms\obj\Debug\Synonyms.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Dictionarys\Synonyms\obj\Debug\Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Dictionarys\Synonyms\obj\Debug\Synonyms.exe
+C:\Users\Asus\source\repos\Dictionarys\Synonyms\obj\Debug\Synonyms.pdb

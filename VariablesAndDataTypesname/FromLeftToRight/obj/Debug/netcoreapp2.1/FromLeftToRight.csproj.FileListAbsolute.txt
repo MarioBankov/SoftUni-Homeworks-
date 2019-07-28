@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\bin\Debug\netcoreapp2.1\FromLeftToRight.deps.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\bin\Debug\netcoreapp2.1\FromLeftToRight.runtimeconfig.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\bin\Debug\netcoreapp2.1\FromLeftToRight.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\bin\Debug\netcoreapp2.1\FromLeftToRight.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\bin\Debug\netcoreapp2.1\FromLeftToRight.pdb
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\obj\Debug\netcoreapp2.1\FromLeftToRight.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\obj\Debug\netcoreapp2.1\FromLeftToRight.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\obj\Debug\netcoreapp2.1\FromLeftToRight.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\obj\Debug\netcoreapp2.1\FromLeftToRight.dll
+C:\Users\Asus\source\repos\VariablesAndDataTypesname\FromLeftToRight\obj\Debug\netcoreapp2.1\FromLeftToRight.pdb

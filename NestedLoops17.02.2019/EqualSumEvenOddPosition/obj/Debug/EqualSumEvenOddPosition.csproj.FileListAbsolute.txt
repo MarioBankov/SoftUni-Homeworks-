@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumEvenOddPosition\bin\Debug\EqualSumEvenOddPosition.exe.config
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumEvenOddPosition\bin\Debug\EqualSumEvenOddPosition.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumEvenOddPosition\bin\Debug\EqualSumEvenOddPosition.pdb
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumEvenOddPosition\obj\Debug\EqualSumEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumEvenOddPosition\obj\Debug\EqualSumEvenOddPosition.exe
+C:\Users\Asus\source\repos\NestedLoops17.02.2019\EqualSumEvenOddPosition\obj\Debug\EqualSumEvenOddPosition.pdb

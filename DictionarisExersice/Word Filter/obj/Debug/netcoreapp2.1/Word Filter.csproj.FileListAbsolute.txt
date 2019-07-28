@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\bin\Debug\netcoreapp2.1\Word Filter.deps.json
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\bin\Debug\netcoreapp2.1\Word Filter.runtimeconfig.json
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\bin\Debug\netcoreapp2.1\Word Filter.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\bin\Debug\netcoreapp2.1\Word Filter.dll
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\bin\Debug\netcoreapp2.1\Word Filter.pdb
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\obj\Debug\netcoreapp2.1\Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\obj\Debug\netcoreapp2.1\Word Filter.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\obj\Debug\netcoreapp2.1\Word Filter.AssemblyInfo.cs
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\obj\Debug\netcoreapp2.1\Word Filter.dll
+C:\Users\Asus\source\repos\DictionarisExersice\Word Filter\obj\Debug\netcoreapp2.1\Word Filter.pdb
