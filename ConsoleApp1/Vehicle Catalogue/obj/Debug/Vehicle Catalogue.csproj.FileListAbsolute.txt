@@ -1,7 +1,0 @@
-C:\Users\Asus\source\repos\ConsoleApp1\Vehicle Catalogue\bin\Debug\Vehicle Catalogue.exe.config
-C:\Users\Asus\source\repos\ConsoleApp1\Vehicle Catalogue\bin\Debug\Vehicle Catalogue.exe
-C:\Users\Asus\source\repos\ConsoleApp1\Vehicle Catalogue\bin\Debug\Vehicle Catalogue.pdb
-C:\Users\Asus\source\repos\ConsoleApp1\Vehicle Catalogue\obj\Debug\Vehicle Catalogue.csprojAssemblyReference.cache
-C:\Users\Asus\source\repos\ConsoleApp1\Vehicle Catalogue\obj\Debug\Vehicle Catalogue.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\ConsoleApp1\Vehicle Catalogue\obj\Debug\Vehicle Catalogue.exe
-C:\Users\Asus\source\repos\ConsoleApp1\Vehicle Catalogue\obj\Debug\Vehicle Catalogue.pdb

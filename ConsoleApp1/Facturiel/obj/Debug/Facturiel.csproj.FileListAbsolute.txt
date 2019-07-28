@@ -1,6 +1,0 @@
-C:\Users\Asus\source\repos\ConsoleApp1\Facturiel\bin\Debug\Facturiel.exe.config
-C:\Users\Asus\source\repos\ConsoleApp1\Facturiel\bin\Debug\Facturiel.exe
-C:\Users\Asus\source\repos\ConsoleApp1\Facturiel\bin\Debug\Facturiel.pdb
-C:\Users\Asus\source\repos\ConsoleApp1\Facturiel\obj\Debug\Facturiel.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\ConsoleApp1\Facturiel\obj\Debug\Facturiel.exe
-C:\Users\Asus\source\repos\ConsoleApp1\Facturiel\obj\Debug\Facturiel.pdb

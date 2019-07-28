@@ -1,7 +1,0 @@
-C:\Users\Asus\source\repos\ConsoleApp1\StoreBoxes\bin\Debug\StoreBoxes.exe.config
-C:\Users\Asus\source\repos\ConsoleApp1\StoreBoxes\bin\Debug\StoreBoxes.exe
-C:\Users\Asus\source\repos\ConsoleApp1\StoreBoxes\bin\Debug\StoreBoxes.pdb
-C:\Users\Asus\source\repos\ConsoleApp1\StoreBoxes\obj\Debug\StoreBoxes.csprojAssemblyReference.cache
-C:\Users\Asus\source\repos\ConsoleApp1\StoreBoxes\obj\Debug\StoreBoxes.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\ConsoleApp1\StoreBoxes\obj\Debug\StoreBoxes.exe
-C:\Users\Asus\source\repos\ConsoleApp1\StoreBoxes\obj\Debug\StoreBoxes.pdb

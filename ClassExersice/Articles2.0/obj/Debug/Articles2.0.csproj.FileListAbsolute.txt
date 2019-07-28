@@ -1,7 +1,0 @@
-C:\Users\Asus\source\repos\ClassExersice\Articles2.0\bin\Debug\Articles2.0.exe.config
-C:\Users\Asus\source\repos\ClassExersice\Articles2.0\bin\Debug\Articles2.0.exe
-C:\Users\Asus\source\repos\ClassExersice\Articles2.0\bin\Debug\Articles2.0.pdb
-C:\Users\Asus\source\repos\ClassExersice\Articles2.0\obj\Debug\Articles2.0.csprojAssemblyReference.cache
-C:\Users\Asus\source\repos\ClassExersice\Articles2.0\obj\Debug\Articles2.0.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\ClassExersice\Articles2.0\obj\Debug\Articles2.0.exe
-C:\Users\Asus\source\repos\ClassExersice\Articles2.0\obj\Debug\Articles2.0.pdb
