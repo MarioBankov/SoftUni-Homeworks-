@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Lab Recursion\matrix\bin\Debug\netcoreapp2.1\matrix.deps.json
+C:\Users\Asus\source\repos\Lab Recursion\matrix\bin\Debug\netcoreapp2.1\matrix.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab Recursion\matrix\bin\Debug\netcoreapp2.1\matrix.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab Recursion\matrix\bin\Debug\netcoreapp2.1\matrix.dll
+C:\Users\Asus\source\repos\Lab Recursion\matrix\bin\Debug\netcoreapp2.1\matrix.pdb
+C:\Users\Asus\source\repos\Lab Recursion\matrix\obj\Debug\netcoreapp2.1\matrix.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\matrix\obj\Debug\netcoreapp2.1\matrix.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\matrix\obj\Debug\netcoreapp2.1\matrix.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab Recursion\matrix\obj\Debug\netcoreapp2.1\matrix.dll
+C:\Users\Asus\source\repos\Lab Recursion\matrix\obj\Debug\netcoreapp2.1\matrix.pdb

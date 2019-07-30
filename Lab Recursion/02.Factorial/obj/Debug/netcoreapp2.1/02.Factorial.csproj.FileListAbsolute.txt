@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\bin\Debug\netcoreapp2.1\02.Factorial.deps.json
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\bin\Debug\netcoreapp2.1\02.Factorial.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\bin\Debug\netcoreapp2.1\02.Factorial.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\bin\Debug\netcoreapp2.1\02.Factorial.dll
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\bin\Debug\netcoreapp2.1\02.Factorial.pdb
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\obj\Debug\netcoreapp2.1\02.Factorial.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\obj\Debug\netcoreapp2.1\02.Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\obj\Debug\netcoreapp2.1\02.Factorial.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\obj\Debug\netcoreapp2.1\02.Factorial.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\obj\Debug\netcoreapp2.1\02.Factorial.dll
+C:\Users\Asus\source\repos\Lab Recursion\02.Factorial\obj\Debug\netcoreapp2.1\02.Factorial.pdb

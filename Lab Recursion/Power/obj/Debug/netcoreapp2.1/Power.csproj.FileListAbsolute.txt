@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Lab Recursion\Power\bin\Debug\netcoreapp2.1\Power.deps.json
+C:\Users\Asus\source\repos\Lab Recursion\Power\bin\Debug\netcoreapp2.1\Power.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab Recursion\Power\bin\Debug\netcoreapp2.1\Power.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab Recursion\Power\bin\Debug\netcoreapp2.1\Power.dll
+C:\Users\Asus\source\repos\Lab Recursion\Power\bin\Debug\netcoreapp2.1\Power.pdb
+C:\Users\Asus\source\repos\Lab Recursion\Power\obj\Debug\netcoreapp2.1\Power.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\Power\obj\Debug\netcoreapp2.1\Power.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\Power\obj\Debug\netcoreapp2.1\Power.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab Recursion\Power\obj\Debug\netcoreapp2.1\Power.dll
+C:\Users\Asus\source\repos\Lab Recursion\Power\obj\Debug\netcoreapp2.1\Power.pdb

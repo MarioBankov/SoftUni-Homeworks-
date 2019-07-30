@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\bin\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.deps.json
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\bin\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\bin\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\bin\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.dll
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\bin\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.pdb
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\obj\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\obj\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\obj\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\obj\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.dll
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\obj\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.pdb
+C:\Users\Asus\source\repos\Lab Recursion\Find All Paths in a Labyrinth\obj\Debug\netcoreapp2.1\Find All Paths in a Labyrinth.csprojAssemblyReference.cache

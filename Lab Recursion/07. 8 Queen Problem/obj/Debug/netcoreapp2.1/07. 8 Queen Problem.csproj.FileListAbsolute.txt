@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\bin\Debug\netcoreapp2.1\07. 8 Queen Problem.deps.json
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\bin\Debug\netcoreapp2.1\07. 8 Queen Problem.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\bin\Debug\netcoreapp2.1\07. 8 Queen Problem.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\bin\Debug\netcoreapp2.1\07. 8 Queen Problem.dll
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\bin\Debug\netcoreapp2.1\07. 8 Queen Problem.pdb
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\obj\Debug\netcoreapp2.1\07. 8 Queen Problem.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\obj\Debug\netcoreapp2.1\07. 8 Queen Problem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\obj\Debug\netcoreapp2.1\07. 8 Queen Problem.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\obj\Debug\netcoreapp2.1\07. 8 Queen Problem.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\obj\Debug\netcoreapp2.1\07. 8 Queen Problem.dll
+C:\Users\Asus\source\repos\Lab Recursion\07. 8 Queen Problem\obj\Debug\netcoreapp2.1\07. 8 Queen Problem.pdb

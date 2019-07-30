@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\bin\Debug\netcoreapp2.1\1. Recursive Array Sum.deps.json
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\bin\Debug\netcoreapp2.1\1. Recursive Array Sum.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\bin\Debug\netcoreapp2.1\1. Recursive Array Sum.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\bin\Debug\netcoreapp2.1\1. Recursive Array Sum.dll
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\bin\Debug\netcoreapp2.1\1. Recursive Array Sum.pdb
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\obj\Debug\netcoreapp2.1\1. Recursive Array Sum.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\obj\Debug\netcoreapp2.1\1. Recursive Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\obj\Debug\netcoreapp2.1\1. Recursive Array Sum.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\obj\Debug\netcoreapp2.1\1. Recursive Array Sum.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\obj\Debug\netcoreapp2.1\1. Recursive Array Sum.dll
+C:\Users\Asus\source\repos\Lab Recursion\1. Recursive Array Sum\obj\Debug\netcoreapp2.1\1. Recursive Array Sum.pdb
