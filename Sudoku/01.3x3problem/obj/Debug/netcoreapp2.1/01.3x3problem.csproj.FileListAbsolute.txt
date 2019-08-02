@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\bin\Debug\netcoreapp2.1\01.3x3problem.deps.json
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\bin\Debug\netcoreapp2.1\01.3x3problem.runtimeconfig.json
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\bin\Debug\netcoreapp2.1\01.3x3problem.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\bin\Debug\netcoreapp2.1\01.3x3problem.dll
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\bin\Debug\netcoreapp2.1\01.3x3problem.pdb
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\obj\Debug\netcoreapp2.1\01.3x3problem.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\obj\Debug\netcoreapp2.1\01.3x3problem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\obj\Debug\netcoreapp2.1\01.3x3problem.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\obj\Debug\netcoreapp2.1\01.3x3problem.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\obj\Debug\netcoreapp2.1\01.3x3problem.dll
+C:\Users\Asus\source\repos\Sudoku\01.3x3problem\obj\Debug\netcoreapp2.1\01.3x3problem.pdb
