@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.deps.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.pdb
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.pdb

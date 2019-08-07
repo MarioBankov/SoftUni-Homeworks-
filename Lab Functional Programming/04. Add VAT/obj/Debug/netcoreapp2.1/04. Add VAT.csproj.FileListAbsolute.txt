@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.deps.json
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.dll
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.pdb
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.dll
+C:\Users\Asus\source\repos\Lab Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.pdb

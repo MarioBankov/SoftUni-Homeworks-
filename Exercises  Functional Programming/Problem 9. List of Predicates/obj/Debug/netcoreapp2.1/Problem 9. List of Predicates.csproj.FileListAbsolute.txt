@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.deps.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.pdb
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.pdb

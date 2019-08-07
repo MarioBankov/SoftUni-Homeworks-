@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\bin\Debug\netcoreapp2.1\Problem 3. Custom Min Function.deps.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\bin\Debug\netcoreapp2.1\Problem 3. Custom Min Function.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\bin\Debug\netcoreapp2.1\Problem 3. Custom Min Function.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\bin\Debug\netcoreapp2.1\Problem 3. Custom Min Function.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\bin\Debug\netcoreapp2.1\Problem 3. Custom Min Function.pdb
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\obj\Debug\netcoreapp2.1\Problem 3. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\obj\Debug\netcoreapp2.1\Problem 3. Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\obj\Debug\netcoreapp2.1\Problem 3. Custom Min Function.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\obj\Debug\netcoreapp2.1\Problem 3. Custom Min Function.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 3. Custom Min Function\obj\Debug\netcoreapp2.1\Problem 3. Custom Min Function.pdb

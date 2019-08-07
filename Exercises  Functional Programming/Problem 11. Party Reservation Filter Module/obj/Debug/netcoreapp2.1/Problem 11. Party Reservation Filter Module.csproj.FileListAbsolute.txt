@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.deps.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\bin\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.pdb
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.dll
+C:\Users\Asus\source\repos\Exercises  Functional Programming\Problem 11. Party Reservation Filter Module\obj\Debug\netcoreapp2.1\Problem 11. Party Reservation Filter Module.pdb
