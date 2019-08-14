@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\bin\Debug\netcoreapp2.1\CostumClasses.deps.json
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\bin\Debug\netcoreapp2.1\CostumClasses.runtimeconfig.json
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\bin\Debug\netcoreapp2.1\CostumClasses.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\bin\Debug\netcoreapp2.1\CostumClasses.dll
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\bin\Debug\netcoreapp2.1\CostumClasses.pdb
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\obj\Debug\netcoreapp2.1\CostumClasses.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\obj\Debug\netcoreapp2.1\CostumClasses.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\obj\Debug\netcoreapp2.1\CostumClasses.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\obj\Debug\netcoreapp2.1\CostumClasses.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\obj\Debug\netcoreapp2.1\CostumClasses.dll
+C:\Users\Asus\source\repos\CostumClasses\CostumClasses\obj\Debug\netcoreapp2.1\CostumClasses.pdb
