@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\bin\Debug\netcoreapp2.1\GenericsExersice.deps.json
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\bin\Debug\netcoreapp2.1\GenericsExersice.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\bin\Debug\netcoreapp2.1\GenericsExersice.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\bin\Debug\netcoreapp2.1\GenericsExersice.dll
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\bin\Debug\netcoreapp2.1\GenericsExersice.pdb
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\obj\Debug\netcoreapp2.1\GenericsExersice.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\obj\Debug\netcoreapp2.1\GenericsExersice.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\obj\Debug\netcoreapp2.1\GenericsExersice.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\obj\Debug\netcoreapp2.1\GenericsExersice.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\obj\Debug\netcoreapp2.1\GenericsExersice.dll
+C:\Users\Asus\source\repos\Exercises  Generics\1. Generic Box of String\obj\Debug\netcoreapp2.1\GenericsExersice.pdb
