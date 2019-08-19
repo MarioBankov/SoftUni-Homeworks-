@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\bin\Debug\netcoreapp2.1\1. Library.deps.json
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\bin\Debug\netcoreapp2.1\1. Library.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\bin\Debug\netcoreapp2.1\1. Library.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\bin\Debug\netcoreapp2.1\1. Library.dll
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\bin\Debug\netcoreapp2.1\1. Library.pdb
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\obj\Debug\netcoreapp2.1\1. Library.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\obj\Debug\netcoreapp2.1\1. Library.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\obj\Debug\netcoreapp2.1\1. Library.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\obj\Debug\netcoreapp2.1\1. Library.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\obj\Debug\netcoreapp2.1\1. Library.dll
+C:\Users\Asus\source\repos\Lab  Iterators and Comparators\1. Library\obj\Debug\netcoreapp2.1\1. Library.pdb
