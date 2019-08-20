@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\netcoreapp2.1\Problem 1. ListyIterator.deps.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\netcoreapp2.1\Problem 1. ListyIterator.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\netcoreapp2.1\Problem 1. ListyIterator.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\netcoreapp2.1\Problem 1. ListyIterator.dll
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\netcoreapp2.1\Problem 1. ListyIterator.pdb
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\netcoreapp2.1\Problem 1. ListyIterator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\netcoreapp2.1\Problem 1. ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\netcoreapp2.1\Problem 1. ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\netcoreapp2.1\Problem 1. ListyIterator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\netcoreapp2.1\Problem 1. ListyIterator.dll
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\netcoreapp2.1\Problem 1. ListyIterator.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\bin\Debug\netcoreapp2.1\Comparing Objects.deps.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\bin\Debug\netcoreapp2.1\Comparing Objects.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\bin\Debug\netcoreapp2.1\Comparing Objects.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\bin\Debug\netcoreapp2.1\Comparing Objects.dll
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\bin\Debug\netcoreapp2.1\Comparing Objects.pdb
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\obj\Debug\netcoreapp2.1\Comparing Objects.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\obj\Debug\netcoreapp2.1\Comparing Objects.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\obj\Debug\netcoreapp2.1\Comparing Objects.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\obj\Debug\netcoreapp2.1\Comparing Objects.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\obj\Debug\netcoreapp2.1\Comparing Objects.dll
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Comparing Objects\obj\Debug\netcoreapp2.1\Comparing Objects.pdb

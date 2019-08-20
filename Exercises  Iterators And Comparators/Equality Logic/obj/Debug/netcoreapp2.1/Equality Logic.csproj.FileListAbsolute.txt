@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\bin\Debug\netcoreapp2.1\Equality Logic.deps.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\bin\Debug\netcoreapp2.1\Equality Logic.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\bin\Debug\netcoreapp2.1\Equality Logic.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\bin\Debug\netcoreapp2.1\Equality Logic.dll
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\bin\Debug\netcoreapp2.1\Equality Logic.pdb
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\obj\Debug\netcoreapp2.1\Equality Logic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\obj\Debug\netcoreapp2.1\Equality Logic.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\obj\Debug\netcoreapp2.1\Equality Logic.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\obj\Debug\netcoreapp2.1\Equality Logic.dll
+C:\Users\Asus\source\repos\Exercises  Iterators And Comparators\Equality Logic\obj\Debug\netcoreapp2.1\Equality Logic.pdb
