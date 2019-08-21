@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.deps.json
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.json
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.dll
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.pdb
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.dll
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.pdb

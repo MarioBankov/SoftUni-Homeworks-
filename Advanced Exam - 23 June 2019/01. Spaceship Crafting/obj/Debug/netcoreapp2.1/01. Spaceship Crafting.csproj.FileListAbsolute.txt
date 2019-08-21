@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\bin\Debug\netcoreapp2.1\01. Spaceship Crafting.deps.json
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\bin\Debug\netcoreapp2.1\01. Spaceship Crafting.runtimeconfig.json
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\bin\Debug\netcoreapp2.1\01. Spaceship Crafting.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\bin\Debug\netcoreapp2.1\01. Spaceship Crafting.dll
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\bin\Debug\netcoreapp2.1\01. Spaceship Crafting.pdb
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\obj\Debug\netcoreapp2.1\01. Spaceship Crafting.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\obj\Debug\netcoreapp2.1\01. Spaceship Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\obj\Debug\netcoreapp2.1\01. Spaceship Crafting.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\obj\Debug\netcoreapp2.1\01. Spaceship Crafting.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\obj\Debug\netcoreapp2.1\01. Spaceship Crafting.dll
+C:\Users\Asus\source\repos\Advanced Exam - 23 June 2019\01. Spaceship Crafting\obj\Debug\netcoreapp2.1\01. Spaceship Crafting.pdb

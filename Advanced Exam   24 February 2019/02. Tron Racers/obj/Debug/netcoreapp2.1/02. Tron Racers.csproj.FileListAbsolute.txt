@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.deps.json
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.runtimeconfig.json
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.dll
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.pdb
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.dll
+C:\Users\Asus\source\repos\Advanced Exam   24 February 2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.pdb
