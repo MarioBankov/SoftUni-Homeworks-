@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.deps.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.runtimeconfig.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.dll
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.pdb
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.dll
+C:\Users\Asus\source\repos\Advanced Retake Exam - 16 April 2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.pdb
