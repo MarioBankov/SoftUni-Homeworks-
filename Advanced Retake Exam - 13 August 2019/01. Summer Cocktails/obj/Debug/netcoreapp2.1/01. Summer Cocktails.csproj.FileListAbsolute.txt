@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\bin\Debug\netcoreapp2.1\01. Summer Cocktails.deps.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\bin\Debug\netcoreapp2.1\01. Summer Cocktails.runtimeconfig.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\bin\Debug\netcoreapp2.1\01. Summer Cocktails.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\bin\Debug\netcoreapp2.1\01. Summer Cocktails.dll
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\bin\Debug\netcoreapp2.1\01. Summer Cocktails.pdb
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\obj\Debug\netcoreapp2.1\01. Summer Cocktails.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\obj\Debug\netcoreapp2.1\01. Summer Cocktails.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\obj\Debug\netcoreapp2.1\01. Summer Cocktails.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\obj\Debug\netcoreapp2.1\01. Summer Cocktails.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\obj\Debug\netcoreapp2.1\01. Summer Cocktails.dll
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\01. Summer Cocktails\obj\Debug\netcoreapp2.1\01. Summer Cocktails.pdb

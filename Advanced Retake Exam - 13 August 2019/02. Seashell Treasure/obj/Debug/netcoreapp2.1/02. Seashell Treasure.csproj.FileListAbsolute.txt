@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\bin\Debug\netcoreapp2.1\02. Seashell Treasure.deps.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\bin\Debug\netcoreapp2.1\02. Seashell Treasure.runtimeconfig.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\bin\Debug\netcoreapp2.1\02. Seashell Treasure.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\bin\Debug\netcoreapp2.1\02. Seashell Treasure.dll
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\bin\Debug\netcoreapp2.1\02. Seashell Treasure.pdb
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\obj\Debug\netcoreapp2.1\02. Seashell Treasure.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\obj\Debug\netcoreapp2.1\02. Seashell Treasure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\obj\Debug\netcoreapp2.1\02. Seashell Treasure.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\obj\Debug\netcoreapp2.1\02. Seashell Treasure.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\obj\Debug\netcoreapp2.1\02. Seashell Treasure.dll
+C:\Users\Asus\source\repos\Advanced Retake Exam - 13 August 2019\02. Seashell Treasure\obj\Debug\netcoreapp2.1\02. Seashell Treasure.pdb
