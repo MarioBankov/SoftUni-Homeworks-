@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.deps.json
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.dll
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.pdb
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.dll
+C:\Users\Asus\source\repos\Lab  Inheritance\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.pdb
