@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\bin\Debug\netcoreapp2.1\Explicit Interfaces.deps.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\bin\Debug\netcoreapp2.1\Explicit Interfaces.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\bin\Debug\netcoreapp2.1\Explicit Interfaces.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\bin\Debug\netcoreapp2.1\Explicit Interfaces.dll
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\bin\Debug\netcoreapp2.1\Explicit Interfaces.pdb
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\obj\Debug\netcoreapp2.1\Explicit Interfaces.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\obj\Debug\netcoreapp2.1\Explicit Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\obj\Debug\netcoreapp2.1\Explicit Interfaces.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\obj\Debug\netcoreapp2.1\Explicit Interfaces.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\obj\Debug\netcoreapp2.1\Explicit Interfaces.dll
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Explicit Interfaces\obj\Debug\netcoreapp2.1\Explicit Interfaces.pdb

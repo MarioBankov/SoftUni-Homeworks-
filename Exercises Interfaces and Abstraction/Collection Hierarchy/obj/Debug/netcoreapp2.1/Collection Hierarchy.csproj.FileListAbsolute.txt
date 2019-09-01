@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\bin\Debug\netcoreapp2.1\Collection Hierarchy.deps.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\bin\Debug\netcoreapp2.1\Collection Hierarchy.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\bin\Debug\netcoreapp2.1\Collection Hierarchy.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\bin\Debug\netcoreapp2.1\Collection Hierarchy.dll
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\bin\Debug\netcoreapp2.1\Collection Hierarchy.pdb
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\obj\Debug\netcoreapp2.1\Collection Hierarchy.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\obj\Debug\netcoreapp2.1\Collection Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\obj\Debug\netcoreapp2.1\Collection Hierarchy.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\obj\Debug\netcoreapp2.1\Collection Hierarchy.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\obj\Debug\netcoreapp2.1\Collection Hierarchy.dll
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Collection Hierarchy\obj\Debug\netcoreapp2.1\Collection Hierarchy.pdb

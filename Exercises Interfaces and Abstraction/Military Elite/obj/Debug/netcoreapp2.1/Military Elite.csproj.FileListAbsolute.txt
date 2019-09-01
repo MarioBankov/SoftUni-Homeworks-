@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\bin\Debug\netcoreapp2.1\Military Elite.deps.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\bin\Debug\netcoreapp2.1\Military Elite.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\bin\Debug\netcoreapp2.1\Military Elite.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\bin\Debug\netcoreapp2.1\Military Elite.dll
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\bin\Debug\netcoreapp2.1\Military Elite.pdb
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\obj\Debug\netcoreapp2.1\Military Elite.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\obj\Debug\netcoreapp2.1\Military Elite.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\obj\Debug\netcoreapp2.1\Military Elite.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\obj\Debug\netcoreapp2.1\Military Elite.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\obj\Debug\netcoreapp2.1\Military Elite.dll
+C:\Users\Asus\source\repos\Exercises Interfaces and Abstraction\Military Elite\obj\Debug\netcoreapp2.1\Military Elite.pdb
