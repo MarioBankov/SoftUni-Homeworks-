@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.exe
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.deps.json
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.runtimeconfig.json
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.dll
+C:\Users\Asus\Desktop\Snake\SimpleSnake\bin\Release\netcoreapp2.1\win-x64\SimpleSnake.pdb
+C:\Users\Asus\Desktop\Snake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Snake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Snake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Snake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Snake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.dll
+C:\Users\Asus\Desktop\Snake\SimpleSnake\obj\Release\netcoreapp2.1\win-x64\SimpleSnake.pdb
