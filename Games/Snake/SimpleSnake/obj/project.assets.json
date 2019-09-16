@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Snake\\SimpleSnake\\SimpleSnake.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\repos\\Games\\Snake\\SimpleSnake\\SimpleSnake.csproj",
       "projectName": "SimpleSnake",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Snake\\SimpleSnake\\SimpleSnake.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\repos\\Games\\Snake\\SimpleSnake\\SimpleSnake.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Snake\\SimpleSnake\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\repos\\Games\\Snake\\SimpleSnake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
