@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Asus\Desktop\MiniOrmCore\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
